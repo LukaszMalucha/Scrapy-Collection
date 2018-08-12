@@ -1,0 +1,81 @@
+### START PROJECT
+	scrapy startproject spider_quotes
+
+### GO TO SPIDER FOLDER
+	cd spider_quotes
+
+### GENERATE SPIDER WITH PREDEFINED TEMPLATES
+	scrapy genspider quotes quotes.toscrape.com
+
+### LIST OF SPIDERS
+	scrapy list
+
+### RUN SPIDER (from project directory)
+	scrapy crawl quotes
+
+### CONNECT TO URL
+	scrapy shell "http://quotes.toscrape.com/"
+
+
+
+
+
+
+################################# SCRAPY SHELL ##################################
+
+### ACIVATE
+	scrapy shell
+
+### URL OVERVIEW
+	fetch("http://quotes.toscrape.com/")
+
+### CSS SELECTOR
+	response.css('h1::text')
+
+### XPATH SELECTOR
+	response.xpath('//h1/a/text()')
+
+### GET RID OF SELECTORS
+	response.xpath('//h1/a/text()').extract()
+
+### GET RID OF SELECTORS - no list brackets
+	response.xpath('//h1/a/text()').extract_first()
+
+### FIND ALL THE SELECTOR TYPES
+	response.xpath('//*[@class=""]')
+	response.xpath('//*[@id=""]')
+
+### GO DEEPER INTO SELECTOR TO EXTRACT TEXT
+	response.xpath('//*[@class="tag-item"]/a/text()')
+	response.xpath('//*[@class="tag-item"]/a/text()').extract()
+
+
+### IMPORT SELECTORS
+	from scrapy.selector import Selector
+	sel = Selector(text=html.doc)
+	sel.extract()
+	sel.xpath('/html/head/title').extract()
+	sel.xpath('//title').extract()
+	sel.xpath('//text()').extract()
+	sel.xpath('/html/body/p').extract()
+
+### CHOOSE FIRST PARAGRAPH
+	sel.xpath('//p[1]').extract() or sel.xpath('//p')[0].extract()
+	sel.xpath('//p/text()')[0].extract()
+
+### SELECT HREF
+	sel.xpath('//h2/a/@href').extract()
+
+### QUERY INSIDE CHOSEN SELECTOR (. *)
+	quote.xpath('.//a')
+	quote.xpath('.//*[@class="text"]')
+	quote.xpath('.//*[@class="text"]/text').extract()
+	text = quote.xpath('.//*[@class="text"]/text()').extract_first()
+
+##################################### SETTINGS.PY #######################################
+
+
+### CHANGE ROBOTS.TXT RULES
+	ROBOTSTXT_OBEY = True --> False
+
+
