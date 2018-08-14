@@ -9,6 +9,14 @@ import scrapy
 
 
 class SampleCrawlerItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
+
     pass
+
+
+class ImagesCrawlerItem(scrapy.Item):
+        title = scrapy.Field()
+        price = scrapy.Field()
+        
+        image_urls = scrapy.Field()
+        images = scrapy.Field()
+        ## Modify settings.py as well

@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+import os
+import glob
 from scrapy import Spider                                        ## gathering urls 
 from scrapy.http import Request
 
@@ -11,7 +13,12 @@ def product_info(response, value):
 class Crawler2Spider(Spider):                                              
     name = 'crawler2'
     allowed_domains = ['books.toscrape.com']
-    start_urls = ['http://books.toscrape.com']
+#    start_urls = ['http://books.toscrape.com']
+
+    ## CATEGORY SELECTOR
+#    def __init__(self, category):
+#            self.start_urls = [category]
+    ## scrapy crawl books -a category="http://books.toscrape.com/catalogue/category/books/classics_6/index.html"
     
                     
     def parse(self, response):
@@ -47,3 +54,10 @@ class Crawler2Spider(Spider):
                     'upc' : upc,
                     'product_type' : product_type
                    }
+      
+    def closed(self, reason):
+             csv_file = max(glob.iglob('*.csv'), key=os.path.getctime)
+             os.rename(csv_file, 'asdasd.csv')
+             
+             
+             
