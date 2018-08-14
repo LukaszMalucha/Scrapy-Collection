@@ -11,3 +11,6 @@ Collection of various scrapy spider projects
 ### Scraping webpages
 
 *** COLLECTING RESOURCES
+
+
+##### Craiglist Scraper 
