@@ -2,7 +2,7 @@
 import os
 import csv
 import glob
-import MySQLdb as sql
+import pymysql as sql
 from scrapy import Spider
 from scrapy.http import Request
 
@@ -67,12 +67,12 @@ class CralwermysqlSpider(Spider):
         
         ## CREATE DATABASE crawler_db
         ## USE crawler_db        
-#        mysql> CREATE TABLE books_table
-#        (rating VARCHAR(20),
-#         product_type VARCHAR(20),
-#         upc VARCHAR(20),
-#         title VARCHAR(20)
-#         );
+        # mysql> CREATE TABLE books_table
+        # (rating VARCHAR(20),
+        # product_type VARCHAR(20),
+        # upc VARCHAR(20),
+        # title VARCHAR(20)
+        # );
         
         cursor = mydb.cursor()
         csv_data = csv.reader(file(csv_file))
