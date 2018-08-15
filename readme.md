@@ -14,3 +14,6 @@ Collection of various scrapy spider projects
 
 
 ##### Craiglist Scraper 
+
+##### Class Central Scraper
+scrapy crawl classspider -a subject="Programming" -o class_central.csv
