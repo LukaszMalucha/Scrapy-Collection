@@ -17,3 +17,5 @@ Collection of various scrapy spider projects
 
 ##### Class Central Scraper
 scrapy crawl classspider -a subject="Programming" -o class_central.csv
+
+##### Twitter Archive Scraper
