@@ -20,3 +20,5 @@ scrapy crawl classspider -a subject="Programming" -o class_central.csv
 ##### Eplanning.ie Scraper
 
 ##### Basketball-reference Scraper
+
+##### Discount Supplements Scraper
