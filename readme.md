@@ -10,9 +10,6 @@ Collection of various scrapy spider projects
 
 ### Scraping webpages
 
-*** COLLECTING RESOURCES
-
-
 ##### Craiglist Scraper 
 
 ##### Class Central Scraper
@@ -21,3 +18,5 @@ scrapy crawl classspider -a subject="Programming" -o class_central.csv
 ##### Twitter Archive Scraper
 
 ##### Eplanning.ie Scraper
+
+### Scrapy + bs4
