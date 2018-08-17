@@ -19,4 +19,4 @@ scrapy crawl classspider -a subject="Programming" -o class_central.csv
 
 ##### Eplanning.ie Scraper
 
-### Scrapy + bs4
+##### Basketball-reference Scraper
