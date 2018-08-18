@@ -25,8 +25,8 @@ http://eplanning.ie/
 #### 5. Basketball-reference Scraper(table scraper)
 https://www.basketball-reference.com/
 
-#### 6. Discount Supplements Scraper (with MongoDB)
+#### 6. Discount Supplements Scraper(with MongoDB)
 https://www.discountsupplements.ie/
 
-#### 7. Heroes of the Storm Scraper (with MongoDB)
-https://heroesofthestorm.com/
+#### 7. Heroes of the Storm Scraper(with Image Scraper)
+https://heroesofthestorm.gamepedia.com/Heroes_of_the_Storm_Wiki
