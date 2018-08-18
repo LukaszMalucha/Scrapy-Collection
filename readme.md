@@ -3,22 +3,27 @@
 Collection of various scrapy spider projects
 
 
-### Scrapy basics
+## Scrapy basics
 
 ##### Scraper Templates
 ##### Crawler Templates
 
-### Scraping webpages
+## Scraping webpages
 
-##### Craiglist Scraper 
-
-##### Class Central Scraper
+#### 1. Craiglist Scraper 
+https://newyork.craigslist.org/
+#### 2. Class Central Scraper
+https://www.class-central.com/<br>
 scrapy crawl classspider -a subject="Programming" -o class_central.csv
 
-##### Twitter Archive Scraper
+#### 3. Twitter Archive Scraper
+http://www.trumptwitterarchive.com/
 
-##### Eplanning.ie Scraper
+#### 4. Eplanning.ie Scraper
+http://eplanning.ie/
 
-##### Basketball-reference Scraper(table scraper)
+#### 5. Basketball-reference Scraper(table scraper)
+https://www.basketball-reference.com/
 
-##### Discount Supplements Scraper (with MongoDB)
+#### 6. Discount Supplements Scraper (with MongoDB)
+https://www.discountsupplements.ie/
