@@ -27,3 +27,6 @@ https://www.basketball-reference.com/
 
 #### 6. Discount Supplements Scraper (with MongoDB)
 https://www.discountsupplements.ie/
+
+#### 7. Heroes of the Storm Scraper (with MongoDB)
+https://heroesofthestorm.com/
