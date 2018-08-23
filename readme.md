@@ -28,8 +28,11 @@ https://www.basketball-reference.com/
 #### 6. Discount Supplements Scraper(with MongoDB)
 https://www.discountsupplements.ie/
 
-#### 7. Heroes of the Storm Scraper(with Image Scraper)
+#### 7. Heroes of the Storm Gamepedia(with Image Scraper)
 https://heroesofthestorm.gamepedia.com/Heroes_of_the_Storm_Wiki
 
 #### 8. Github Login
 https://github.com/
+
+#### 9. Heroes of the Storm Official (Scrapy + Selenium)
+https://heroesofthestorm.com/en-us/
