@@ -34,5 +34,5 @@ https://heroesofthestorm.gamepedia.com/Heroes_of_the_Storm_Wiki
 #### 8. Github Login
 https://github.com/
 
-#### 9. Heroes of the Storm Official (Scrapy + Selenium)
+#### 9. Heroes of the Storm Official (Scrapy + Selenium + Image Scraping)
 https://heroesofthestorm.com/en-us/
