@@ -1,0 +1,1803 @@
+2018-08-24 19:07:10 [scrapy.utils.log] INFO: Scrapy 1.5.1 started (bot: heroes)
+2018-08-24 19:07:10 [scrapy.utils.log] INFO: Versions: lxml 3.7.3.0, libxml2 2.9.4, cssselect 1.0.3, parsel 1.5.0, w3lib 1.19.0, Twisted 18.7.0, Python 3.6.6 |Anaconda 4.4.0 (64-bit)| (default, Jun 28 2018, 11:27:44) [MSC v.1900 64 bit (AMD64)], pyOpenSSL 17.0.0 (OpenSSL 1.0.2o  27 Mar 2018), cryptography 1.8.1, Platform Windows-10-10.0.17134-SP0
+2018-08-24 19:07:10 [scrapy.crawler] INFO: Overridden settings: {'BOT_NAME': 'heroes', 'LOG_FILE': 'myspider.log', 'NEWSPIDER_MODULE': 'heroes.spiders', 'SPIDER_MODULES': ['heroes.spiders'], 'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0'}
+2018-08-24 19:07:10 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats']
+2018-08-24 19:07:10 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2018-08-24 19:07:10 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2018-08-24 19:07:10 [scrapy.middleware] INFO: Enabled item pipelines:
+['scrapy.pipelines.images.ImagesPipeline', 'heroes.pipelines.HeroesPipeline']
+2018-08-24 19:07:10 [scrapy.core.engine] INFO: Spider opened
+2018-08-24 19:07:10 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2018-08-24 19:07:10 [scrapy.extensions.telnet] DEBUG: Telnet console listening on 127.0.0.1:6024
+2018-08-24 19:07:11 [selenium.webdriver.remote.remote_connection] DEBUG: POST http://127.0.0.1:64022/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2018-08-24 19:07:11 [urllib3.connectionpool] DEBUG: Starting new HTTP connection (1): 127.0.0.1:64022
+2018-08-24 19:07:12 [urllib3.connectionpool] DEBUG: http://127.0.0.1:64022 "POST /session HTTP/1.1" 200 891
+2018-08-24 19:07:12 [selenium.webdriver.remote.remote_connection] DEBUG: Finished Request
+2018-08-24 19:07:12 [selenium.webdriver.remote.remote_connection] DEBUG: POST http://127.0.0.1:64022/session/cf27fccbf24ede6d1d635658e0d3dc3f/url {"url": "https://heroesofthestorm.com/en-us/heroes/#/", "sessionId": "cf27fccbf24ede6d1d635658e0d3dc3f"}
+2018-08-24 19:07:17 [urllib3.connectionpool] DEBUG: http://127.0.0.1:64022 "POST /session/cf27fccbf24ede6d1d635658e0d3dc3f/url HTTP/1.1" 200 72
+2018-08-24 19:07:17 [selenium.webdriver.remote.remote_connection] DEBUG: Finished Request
+2018-08-24 19:07:17 [selenium.webdriver.remote.remote_connection] DEBUG: GET http://127.0.0.1:64022/session/cf27fccbf24ede6d1d635658e0d3dc3f/source {"sessionId": "cf27fccbf24ede6d1d635658e0d3dc3f"}
+2018-08-24 19:07:17 [urllib3.connectionpool] DEBUG: http://127.0.0.1:64022 "GET /session/cf27fccbf24ede6d1d635658e0d3dc3f/source HTTP/1.1" 200 381352
+2018-08-24 19:07:17 [selenium.webdriver.remote.remote_connection] DEBUG: Finished Request
+2018-08-24 19:07:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/mephisto/> (referer: None)
+2018-08-24 19:07:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/whitemane/> (referer: None)
+2018-08-24 19:07:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/yrel/> (referer: None)
+2018-08-24 19:07:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/blaze/> (referer: None)
+2018-08-24 19:07:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/hanzo/> (referer: None)
+2018-08-24 19:07:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/ana/> (referer: None)
+2018-08-24 19:07:17 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/mephisto/bust.jpg> referred in <None>
+2018-08-24 19:07:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/alexstrasza/> (referer: None)
+2018-08-24 19:07:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/junkrat/> (referer: None)
+2018-08-24 19:07:17 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/whitemane/bust.jpg> referred in <None>
+2018-08-24 19:07:17 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/blaze/bust.jpg> referred in <None>
+2018-08-24 19:07:17 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/yrel/bust.jpg> referred in <None>
+2018-08-24 19:07:17 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/hanzo/bust.jpg> referred in <None>
+2018-08-24 19:07:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/garrosh/> (referer: None)
+2018-08-24 19:07:17 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/ana/bust.jpg> referred in <None>
+2018-08-24 19:07:18 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/mephisto/bust.jpg'],
+ 'images': [{'checksum': '9df574b40c6a96bb35727fc5d325114d',
+             'path': 'full/d91073f66287d7f42295ba476d7e4b5bfd3d5b2c.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/mephisto/bust.jpg'}],
+ 'name': ['Mephisto'],
+ 'skillset': [{'abilities': ['Skull Missile', 'Lightning Nova'],
+               'hero_trait': 'Shade of Mephisto',
+               'heroics': ['Consume Souls', 'Durance of Hate']}],
+ 'stats': [{'complexity': '7',
+            'damage': '8',
+            'survivability': '6',
+            'utility': '4'}],
+ 'universum': ['diablo']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/d91073f66287d7f42295ba476d7e4b5bfd3d5b2c.jpg' -> 'D:/Images/full/Mephisto.jpg'
+2018-08-24 19:07:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/deckard/> (referer: None)
+2018-08-24 19:07:18 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['support'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/whitemane/bust.jpg'],
+ 'images': [{'checksum': 'f11fce0638fee2c2e11b4b1149c2dd16',
+             'path': 'full/96a8d3c9eeaa7ce91a2df320a982f957ea3917aa.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/whitemane/bust.jpg'}],
+ 'name': ['Whitemane'],
+ 'skillset': [{'abilities': ['Desperate Plea', 'Inquisition'],
+               'hero_trait': 'Searing Lash',
+               'heroics': ['Scarlet Aegis', 'Divine Reckoning']}],
+ 'stats': [{'complexity': '8',
+            'damage': '5',
+            'survivability': '5',
+            'utility': '7'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/96a8d3c9eeaa7ce91a2df320a982f957ea3917aa.jpg' -> 'D:/Images/full/Whitemane.jpg'
+2018-08-24 19:07:18 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['warrior'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/blaze/bust.jpg'],
+ 'images': [{'checksum': '583d4ba2dd3b25cc55d3e016f86ed606',
+             'path': 'full/cd61372849ed41b969cf4bd5e0227c6d5dadcd8f.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/blaze/bust.jpg'}],
+ 'name': ['Blaze'],
+ 'skillset': [{'abilities': ['Flame Stream', 'Oil Spill'],
+               'hero_trait': 'Jet Propulsion',
+               'heroics': ['Bunker Drop', 'Combustion']}],
+ 'stats': [{'complexity': '7',
+            'damage': '6',
+            'survivability': '9',
+            'utility': '7'}],
+ 'universum': ['starcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/cd61372849ed41b969cf4bd5e0227c6d5dadcd8f.jpg' -> 'D:/Images/full/Blaze.jpg'
+2018-08-24 19:07:18 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/alexstrasza/bust.jpg> referred in <None>
+2018-08-24 19:07:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/malthael/> (referer: None)
+2018-08-24 19:07:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/genji/> (referer: None)
+2018-08-24 19:07:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/maiev/> (referer: None)
+2018-08-24 19:07:18 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/hanzo/bust.jpg'],
+ 'images': [{'checksum': 'b33e285a1932baf8cf0dc5795f11fba8',
+             'path': 'full/d7ee9113fbfaaaa34a70b5218d007d46dc275740.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/hanzo/bust.jpg'}],
+ 'name': ['Hanzo'],
+ 'skillset': [{'abilities': ['Storm Bow', 'Scatter Arrow'],
+               'hero_trait': 'Sonic Arrow',
+               'heroics': ['Dragonstrike', "Dragon's Arrow"]}],
+ 'stats': [{'complexity': '6',
+            'damage': '8',
+            'survivability': '4',
+            'utility': '5'}],
+ 'universum': ['overwatch']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/d7ee9113fbfaaaa34a70b5218d007d46dc275740.jpg' -> 'D:/Images/full/Hanzo.jpg'
+2018-08-24 19:07:18 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['warrior'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/yrel/bust.jpg'],
+ 'images': [{'checksum': '91bfeb95274fd8a298cc09f03f740528',
+             'path': 'full/79351c40c0cdc18ab11a3284b8313c05e0329ff8.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/yrel/bust.jpg'}],
+ 'name': ['Yrel'],
+ 'skillset': [{'abilities': ['Vindication', 'Righteous Hammer'],
+               'hero_trait': 'Avenging Wrath',
+               'heroics': ['Ardent Defender', 'Sacred Ground']}],
+ 'stats': [{'complexity': '5',
+            'damage': '5',
+            'survivability': '10',
+            'utility': '4'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/79351c40c0cdc18ab11a3284b8313c05e0329ff8.jpg' -> 'D:/Images/full/Yrel.jpg'
+2018-08-24 19:07:18 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['support'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/ana/bust.jpg'],
+ 'images': [{'checksum': '2509111b51bf24ae52c3b3525b8a210b',
+             'path': 'full/3b8cca9c6f83d22bd0f840156b19e42c78ed3ce0.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/ana/bust.jpg'}],
+ 'name': ['Ana'],
+ 'skillset': [{'abilities': ['Healing Dart', 'Biotic Grenade'],
+               'hero_trait': 'Sleep Dart',
+               'heroics': ['Nano Boost', 'Eye of Horus']}],
+ 'stats': [{'complexity': '6',
+            'damage': '3',
+            'survivability': '3',
+            'utility': '7'}],
+ 'universum': ['overwatch']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/3b8cca9c6f83d22bd0f840156b19e42c78ed3ce0.jpg' -> 'D:/Images/full/Ana.jpg'
+2018-08-24 19:07:18 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/junkrat/bust.jpg> referred in <None>
+2018-08-24 19:07:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/fenix/> (referer: None)
+2018-08-24 19:07:18 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/garrosh/bust.jpg> referred in <None>
+2018-08-24 19:07:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/cassia/> (referer: None)
+2018-08-24 19:07:18 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['support'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/alexstrasza/bust.jpg'],
+ 'images': [{'checksum': 'ec15923610b96088fbd062b029b3072f',
+             'path': 'full/2f938f03d144f712e7d304b629e5c341ca7cfca4.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/alexstrasza/bust.jpg'}],
+ 'name': ['Alexstrasza'],
+ 'skillset': [{'abilities': ['Gift of Life', 'Abundance'],
+               'hero_trait': 'Flame Buffet',
+               'heroics': ['Life-Binder', 'Cleansing Flame']}],
+ 'stats': [{'complexity': '6',
+            'damage': '3',
+            'survivability': '4',
+            'utility': '6'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/2f938f03d144f712e7d304b629e5c341ca7cfca4.jpg' -> 'D:/Images/full/Alexstrasza.jpg'
+2018-08-24 19:07:18 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/deckard/bust.jpg> referred in <None>
+2018-08-24 19:07:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/probius/> (referer: None)
+2018-08-24 19:07:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/dva/> (referer: None)
+2018-08-24 19:07:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/kelthuzad/> (referer: None)
+2018-08-24 19:07:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/lucio/> (referer: None)
+2018-08-24 19:07:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/valeera/> (referer: None)
+2018-08-24 19:07:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/stukov/> (referer: None)
+2018-08-24 19:07:18 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/malthael/bust.jpg> referred in <None>
+2018-08-24 19:07:18 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/junkrat/bust.jpg'],
+ 'images': [{'checksum': '3fc116621d76f4728b4b7d5a4700650e',
+             'path': 'full/778f1bd86fc754aaa1d757b2ba4c257d59224feb.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/junkrat/bust.jpg'}],
+ 'name': ['Junkrat'],
+ 'skillset': [{'abilities': ['Frag Launcher', 'Concussion Mine'],
+               'hero_trait': 'Steel Trap',
+               'heroics': ['RIP-Tire', 'Rocket Ride']}],
+ 'stats': [{'complexity': '6',
+            'damage': '7',
+            'survivability': '5',
+            'utility': '8'}],
+ 'universum': ['overwatch']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/778f1bd86fc754aaa1d757b2ba4c257d59224feb.jpg' -> 'D:/Images/full/Junkrat.jpg'
+2018-08-24 19:07:18 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['warrior'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/garrosh/bust.jpg'],
+ 'images': [{'checksum': '4de6feacb7461f316ad2256e8f34deed',
+             'path': 'full/3742893d63c15bfbf0534b2b331d03bfc7e4de69.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/garrosh/bust.jpg'}],
+ 'name': ['Garrosh'],
+ 'skillset': [{'abilities': ['Groundbreaker', 'Bloodthirst'],
+               'hero_trait': 'Wrecking Ball',
+               'heroics': ["Warlord's Challenge", 'Decimate']}],
+ 'stats': [{'complexity': '6',
+            'damage': '3',
+            'survivability': '9',
+            'utility': '7'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/3742893d63c15bfbf0534b2b331d03bfc7e4de69.jpg' -> 'D:/Images/full/Garrosh.jpg'
+2018-08-24 19:07:18 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/maiev/bust.jpg> referred in <None>
+2018-08-24 19:07:18 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/genji/bust.jpg> referred in <None>
+2018-08-24 19:07:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/ragnaros/> (referer: None)
+2018-08-24 19:07:18 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['support'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/deckard/bust.jpg'],
+ 'images': [{'checksum': 'd22db15dd784f937600d63f999dba8f2',
+             'path': 'full/9d01f60f6a030f2182819529a83b80717647aa8f.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/deckard/bust.jpg'}],
+ 'name': ['Deckard'],
+ 'skillset': [{'abilities': ['Healing Potion', 'Horadric Cube'],
+               'hero_trait': 'Scroll Of Sealing',
+               'heroics': ['Stay Awhile and Listen', 'Lorenado']}],
+ 'stats': [{'complexity': '5',
+            'damage': '3',
+            'survivability': '7',
+            'utility': '8'}],
+ 'universum': ['diablo']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/9d01f60f6a030f2182819529a83b80717647aa8f.jpg' -> 'D:/Images/full/Deckard.jpg'
+2018-08-24 19:07:18 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/fenix/bust.jpg> referred in <None>
+2018-08-24 19:07:18 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/malthael/bust.jpg'],
+ 'images': [{'checksum': '2a9952aad765c25a799086e28b4f2ac1',
+             'path': 'full/22ac856481ae22d0617895a51b4def9f30e27a65.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/malthael/bust.jpg'}],
+ 'name': ['Malthael'],
+ 'skillset': [{'abilities': ['Soul Rip', 'Wraith Strike'],
+               'hero_trait': 'Death Shroud',
+               'heroics': ['Tormented Souls', 'Last Rites']}],
+ 'stats': [{'complexity': '6',
+            'damage': '7',
+            'survivability': '6',
+            'utility': '4'}],
+ 'universum': ['diablo']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/22ac856481ae22d0617895a51b4def9f30e27a65.jpg' -> 'D:/Images/full/Malthael.jpg'
+2018-08-24 19:07:18 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/cassia/bust.jpg> referred in <None>
+2018-08-24 19:07:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/varian/> (referer: None)
+2018-08-24 19:07:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/samuro/> (referer: None)
+2018-08-24 19:07:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/auriel/> (referer: None)
+2018-08-24 19:07:18 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/maiev/bust.jpg'],
+ 'images': [{'checksum': '9963531a51eb8926931f82c933e341d1',
+             'path': 'full/4e9eea2c9126f90beac87bd49d3e01494d422aa9.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/maiev/bust.jpg'}],
+ 'name': ['Maiev'],
+ 'skillset': [{'abilities': ['Fan of Knives', 'Umbral Bind'],
+               'hero_trait': 'Spirit of Vengeance',
+               'heroics': ['Containment Disc', "Warden's Cage"]}],
+ 'stats': [{'complexity': '7',
+            'damage': '6',
+            'survivability': '7',
+            'utility': '5'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/4e9eea2c9126f90beac87bd49d3e01494d422aa9.jpg' -> 'D:/Images/full/Maiev.jpg'
+2018-08-24 19:07:18 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/probius/bust.jpg> referred in <None>
+2018-08-24 19:07:18 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/dva/bust.jpg> referred in <None>
+2018-08-24 19:07:18 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/genji/bust.jpg'],
+ 'images': [{'checksum': 'e8dbccfe09ad487cdc2fbc2e5b6c4a17',
+             'path': 'full/4d50e2b841e400ce2cb92c2307ff04cb4ce7d803.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/genji/bust.jpg'}],
+ 'name': ['Genji'],
+ 'skillset': [{'abilities': ['Shuriken', 'Deflect'],
+               'hero_trait': 'Swift Strike',
+               'heroics': ['Dragonblade', 'X-Strike']}],
+ 'stats': [{'complexity': '6',
+            'damage': '8',
+            'survivability': '4',
+            'utility': '4'}],
+ 'universum': ['overwatch']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/4d50e2b841e400ce2cb92c2307ff04cb4ce7d803.jpg' -> 'D:/Images/full/Genji.jpg'
+2018-08-24 19:07:18 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/fenix/bust.jpg'],
+ 'images': [{'checksum': '0a5b9964d84a8ec1a398e1103418d321',
+             'path': 'full/33716b4e5f56a8297153674f2a5d14ed395ce06d.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/fenix/bust.jpg'}],
+ 'name': ['Fenix'],
+ 'skillset': [{'abilities': ['Plasma Cutter', 'Weapon Modes'],
+               'hero_trait': 'Warp',
+               'heroics': ['Purification Salvo', 'Planet Cracker']}],
+ 'stats': [{'complexity': '5',
+            'damage': '9',
+            'survivability': '5',
+            'utility': '4'}],
+ 'universum': ['starcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/33716b4e5f56a8297153674f2a5d14ed395ce06d.jpg' -> 'D:/Images/full/Fenix.jpg'
+2018-08-24 19:07:18 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/lucio/bust.jpg> referred in <None>
+2018-08-24 19:07:18 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/kelthuzad/bust.jpg> referred in <None>
+2018-08-24 19:07:18 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/valeera/bust.jpg> referred in <None>
+2018-08-24 19:07:18 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/stukov/bust.jpg> referred in <None>
+2018-08-24 19:07:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/medivh/> (referer: None)
+2018-08-24 19:07:18 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/ragnaros/bust.jpg> referred in <None>
+2018-08-24 19:07:18 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/cassia/bust.jpg'],
+ 'images': [{'checksum': 'aa1406722816d5d14ba93ac28c31d71e',
+             'path': 'full/5efcc5529166c4e87e6d03e25b540a8b6dd32dff.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/cassia/bust.jpg'}],
+ 'name': ['Cassia'],
+ 'skillset': [{'abilities': ['Lightning Fury', 'Blinding Light'],
+               'hero_trait': 'Fend',
+               'heroics': ['Ball Lightning', 'Valkyrie']}],
+ 'stats': [{'complexity': '4',
+            'damage': '7',
+            'survivability': '6',
+            'utility': '5'}],
+ 'universum': ['diablo']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/5efcc5529166c4e87e6d03e25b540a8b6dd32dff.jpg' -> 'D:/Images/full/Cassia.jpg'
+2018-08-24 19:07:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/zarya/> (referer: None)
+2018-08-24 19:07:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/guldan/> (referer: None)
+2018-08-24 19:07:18 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['warrior'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/dva/bust.jpg'],
+ 'images': [{'checksum': '9b615a4c34ac64db15f4b3b0bbc94a8c',
+             'path': 'full/2ec4421467c341a566942cff88cdc6d9f2babad1.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/dva/bust.jpg'}],
+ 'name': ['D.Va'],
+ 'skillset': [{'abilities': ['Boosters', 'Defense Matrix'],
+               'hero_trait': 'Self-Destruct',
+               'heroics': ['Bunny Hop', 'Big Shot']}],
+ 'stats': [{'complexity': '6',
+            'damage': '4',
+            'survivability': '8',
+            'utility': '8'}],
+ 'universum': ['overwatch']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/2ec4421467c341a566942cff88cdc6d9f2babad1.jpg' -> 'D:/Images/full/D.Va.jpg'
+2018-08-24 19:07:18 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['specialist'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/probius/bust.jpg'],
+ 'images': [{'checksum': '1727e370a421eba63167f49a32483f8b',
+             'path': 'full/92789c744e1514a4a087e8509f55865ac99b870b.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/probius/bust.jpg'}],
+ 'name': ['Probius'],
+ 'skillset': [{'abilities': ['Disruption Pulse', 'Warp Rift'],
+               'hero_trait': 'Photon Cannon',
+               'heroics': ['Pylon Overcharge', 'Null Gate']}],
+ 'stats': [{'complexity': '7',
+            'damage': '8',
+            'survivability': '4',
+            'utility': '4'}],
+ 'universum': ['starcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/92789c744e1514a4a087e8509f55865ac99b870b.jpg' -> 'D:/Images/full/Probius.jpg'
+2018-08-24 19:07:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/chromie/> (referer: None)
+2018-08-24 19:07:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/xul/> (referer: None)
+2018-08-24 19:07:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/zuljin/> (referer: None)
+2018-08-24 19:07:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/tracer/> (referer: None)
+2018-08-24 19:07:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/alarak/> (referer: None)
+2018-08-24 19:07:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/dehaka/> (referer: None)
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['support'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/lucio/bust.jpg'],
+ 'images': [{'checksum': '7aaa47fbb6b6721c7d502a00c39f6b60',
+             'path': 'full/b2c2aeb848793c584101b97b91d274885c9acb23.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/lucio/bust.jpg'}],
+ 'name': ['Lúcio'],
+ 'skillset': [{'abilities': ['Soundwave', 'Crossfade: Speed Boost'],
+               'hero_trait': 'Crossfade: Healing Boost',
+               'heroics': ['Sound Barrier', 'Reverse Amp']}],
+ 'stats': [{'complexity': '5',
+            'damage': '3',
+            'survivability': '6',
+            'utility': '8'}],
+ 'universum': ['overwatch']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/b2c2aeb848793c584101b97b91d274885c9acb23.jpg' -> 'D:/Images/full/Lúcio.jpg'
+2018-08-24 19:07:19 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/varian/bust.jpg> referred in <None>
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/valeera/bust.jpg'],
+ 'images': [{'checksum': '6af6a170804d4c8083af4970b6fe2aa7',
+             'path': 'full/f37d1f74f4cde17cb55ebbb4ae53778e6cbb127c.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/valeera/bust.jpg'}],
+ 'name': ['Valeera'],
+ 'skillset': [{'abilities': ['Sinister Strike', 'Blade Flurry'],
+               'hero_trait': 'Eviscerate',
+               'heroics': ['Smoke Bomb', 'Cloak of Shadows']}],
+ 'stats': [{'complexity': '8',
+            'damage': '5',
+            'survivability': '6',
+            'utility': '8'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/f37d1f74f4cde17cb55ebbb4ae53778e6cbb127c.jpg' -> 'D:/Images/full/Valeera.jpg'
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['support'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/stukov/bust.jpg'],
+ 'images': [{'checksum': 'beab8a639af6afc1b917d9a9f712c1a5',
+             'path': 'full/045058db868f38145b48a539dd7f84d2ca82b208.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/stukov/bust.jpg'}],
+ 'name': ['Stukov'],
+ 'skillset': [{'abilities': ['Healing Pathogen', 'Weighted Pustule'],
+               'hero_trait': 'Lurking Arm',
+               'heroics': ['Flailing Swipe', 'Massive Shove']}],
+ 'stats': [{'complexity': '7',
+            'damage': '3',
+            'survivability': '5',
+            'utility': '8'}],
+ 'universum': ['starcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/045058db868f38145b48a539dd7f84d2ca82b208.jpg' -> 'D:/Images/full/Stukov.jpg'
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/ragnaros/bust.jpg'],
+ 'images': [{'checksum': '2c26ef563f1380909653e77c80d5cbf4',
+             'path': 'full/9da98a0324d49c61c982a79df870cdba122bcd72.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/ragnaros/bust.jpg'}],
+ 'name': ['Ragnaros'],
+ 'skillset': [{'abilities': ['Empower Sulfuras', 'Living Meteor'],
+               'hero_trait': 'Blast Wave',
+               'heroics': ['Sulfuras Smash', 'Lava Wave']}],
+ 'stats': [{'complexity': '7',
+            'damage': '8',
+            'survivability': '8',
+            'utility': '7'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/9da98a0324d49c61c982a79df870cdba122bcd72.jpg' -> 'D:/Images/full/Ragnaros.jpg'
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/kelthuzad/bust.jpg'],
+ 'images': [{'checksum': 'e9461ee95b341b4e26d4c37b25028299',
+             'path': 'full/f71b03ec7865c681e4c4581da26ae780d4e97ca7.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/kelthuzad/bust.jpg'}],
+ 'name': ["Kel'Thuzad"],
+ 'skillset': [{'abilities': ['Death and Decay', 'Frost Nova'],
+               'hero_trait': "Chains of Kel'Thuzad",
+               'heroics': ['Frost Blast', 'Shadow Fissure']}],
+ 'stats': [{'complexity': '7',
+            'damage': '8',
+            'survivability': '4',
+            'utility': '7'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/f71b03ec7865c681e4c4581da26ae780d4e97ca7.jpg' -> "D:/Images/full/Kel'Thuzad.jpg"
+2018-08-24 19:07:19 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/samuro/bust.jpg> referred in <None>
+2018-08-24 19:07:19 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/auriel/bust.jpg> referred in <None>
+2018-08-24 19:07:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/li-ming/> (referer: None)
+2018-08-24 19:07:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/greymane/> (referer: None)
+2018-08-24 19:07:19 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/medivh/bust.jpg> referred in <None>
+2018-08-24 19:07:19 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/zarya/bust.jpg> referred in <None>
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Spider error processing <GET https://heroesofthestorm.com/en-us/heroes/tracer/> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\spiders\hots.py", line 66, in parse_details
+    hero_trait = skills[5]
+IndexError: list index out of range
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['warrior'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/varian/bust.jpg'],
+ 'images': [{'checksum': 'e8366a46031ce49b932bd52defea711d',
+             'path': 'full/8048c900bda3cb1a87c6a9cf3052b054986e28f5.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/varian/bust.jpg'}],
+ 'name': ['Varian'],
+ 'skillset': [{'abilities': ['Parry', 'Charge'],
+               'hero_trait': 'Heroic Strike',
+               'heroics': ['Taunt', "Lion's Fang"]}],
+ 'stats': [{'complexity': '6',
+            'damage': '6',
+            'survivability': '6',
+            'utility': '7'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/8048c900bda3cb1a87c6a9cf3052b054986e28f5.jpg' -> 'D:/Images/full/Varian.jpg'
+2018-08-24 19:07:19 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/guldan/bust.jpg> referred in <None>
+2018-08-24 19:07:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/lunara/> (referer: None)
+2018-08-24 19:07:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/chogall/> (referer: None)
+2018-08-24 19:07:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/artanis/> (referer: None)
+2018-08-24 19:07:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/lt-morales/> (referer: None)
+2018-08-24 19:07:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/rexxar/> (referer: None)
+2018-08-24 19:07:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/kharazim/> (referer: None)
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/samuro/bust.jpg'],
+ 'images': [{'checksum': 'c5ca67d39926909c80aadd56a2c059af',
+             'path': 'full/633f804ce7cf51389f6a4d0862812a6ea8c1acd1.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/samuro/bust.jpg'}],
+ 'name': ['Samuro'],
+ 'skillset': [{'abilities': ['Mirror Image', 'Critical Strike'],
+               'hero_trait': 'Wind Walk',
+               'heroics': ['Bladestorm', 'Illusion Master']}],
+ 'stats': [{'complexity': '7',
+            'damage': '6',
+            'survivability': '7',
+            'utility': '3'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/633f804ce7cf51389f6a4d0862812a6ea8c1acd1.jpg' -> 'D:/Images/full/Samuro.jpg'
+2018-08-24 19:07:19 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/xul/bust.jpg> referred in <None>
+2018-08-24 19:07:19 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/chromie/bust.jpg> referred in <None>
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['support'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/auriel/bust.jpg'],
+ 'images': [{'checksum': 'd4eff0cfcbee4069c12ca87819e9a248',
+             'path': 'full/425e8de2e6bce9f7e12814128c147684234bae9c.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/auriel/bust.jpg'}],
+ 'name': ['Auriel'],
+ 'skillset': [{'abilities': ['Sacred Sweep', 'Ray of Heaven'],
+               'hero_trait': 'Detainment Strike',
+               'heroics': ['Crystal Aegis', 'Resurrect']}],
+ 'stats': [{'complexity': '8',
+            'damage': '3',
+            'survivability': '4',
+            'utility': '8'}],
+ 'universum': ['diablo']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/425e8de2e6bce9f7e12814128c147684234bae9c.jpg' -> 'D:/Images/full/Auriel.jpg'
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['specialist'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/medivh/bust.jpg'],
+ 'images': [{'checksum': '1864541fac9a3069ce42ef60842a1ded',
+             'path': 'full/7edc76e9ed7ff5aa0f176b5138539d14fdcfb5e4.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/medivh/bust.jpg'}],
+ 'name': ['Medivh'],
+ 'skillset': [{'abilities': ['Arcane Rift', 'Force of Will'],
+               'hero_trait': 'Portal',
+               'heroics': ['Poly Bomb', 'Ley Line Seal']}],
+ 'stats': [{'complexity': '8',
+            'damage': '2',
+            'survivability': '6',
+            'utility': '10'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/7edc76e9ed7ff5aa0f176b5138539d14fdcfb5e4.jpg' -> 'D:/Images/full/Medivh.jpg'
+2018-08-24 19:07:19 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/zuljin/bust.jpg> referred in <None>
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['warrior'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/zarya/bust.jpg'],
+ 'images': [{'checksum': '735fa9a1a36690573b05f43ac57e68cf',
+             'path': 'full/5d0f41fba857c9b8441866871676ca020164d093.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/zarya/bust.jpg'}],
+ 'name': ['Zarya'],
+ 'skillset': [{'abilities': ['Particle Grenade', 'Personal Barrier'],
+               'hero_trait': 'Shield Ally',
+               'heroics': ['Graviton Surge', 'Expulsion Zone']}],
+ 'stats': [{'complexity': '7',
+            'damage': '5',
+            'survivability': '8',
+            'utility': '7'}],
+ 'universum': ['overwatch']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/5d0f41fba857c9b8441866871676ca020164d093.jpg' -> 'D:/Images/full/Zarya.jpg'
+2018-08-24 19:07:19 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/alarak/bust.jpg> referred in <None>
+2018-08-24 19:07:19 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/dehaka/bust.jpg> referred in <None>
+2018-08-24 19:07:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/leoric/> (referer: None)
+2018-08-24 19:07:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/the-butcher/> (referer: None)
+2018-08-24 19:07:19 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/li-ming/bust.jpg> referred in <None>
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/guldan/bust.jpg'],
+ 'images': [{'checksum': '2ed25cfa586f01b0e126d0fe3511abde',
+             'path': 'full/b9adf318cb1b2669725f4c93a0e745a85a3e6ebc.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/guldan/bust.jpg'}],
+ 'name': ["Gul'dan"],
+ 'skillset': [{'abilities': ['Fel Flame', 'Drain Life'],
+               'hero_trait': 'Corruption',
+               'heroics': ['Horrify', 'Rain of Destruction']}],
+ 'stats': [{'complexity': '6',
+            'damage': '8',
+            'survivability': '5',
+            'utility': '3'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/b9adf318cb1b2669725f4c93a0e745a85a3e6ebc.jpg' -> "D:/Images/full/Gul'dan.jpg"
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/chromie/bust.jpg'],
+ 'images': [{'checksum': '18b039e921d39e930b10d00d6ab4b3ab',
+             'path': 'full/2c78d55235fc324e66725665617b3bee9e76482b.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/chromie/bust.jpg'}],
+ 'name': ['Chromie'],
+ 'skillset': [{'abilities': ['Sand Blast', 'Dragon’s Breath'],
+               'hero_trait': 'Time Trap',
+               'heroics': ['Slowing Sands', 'Temporal Loop']}],
+ 'stats': [{'complexity': '5',
+            'damage': '9',
+            'survivability': '3',
+            'utility': '4'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/2c78d55235fc324e66725665617b3bee9e76482b.jpg' -> 'D:/Images/full/Chromie.jpg'
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['specialist'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/xul/bust.jpg'],
+ 'images': [{'checksum': 'de78d8840a044a8e567e86e6bbdfa4e5',
+             'path': 'full/d06aad0d959c11a7e590ecf77a45b5ea43fef1b6.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/xul/bust.jpg'}],
+ 'name': ['Xul'],
+ 'skillset': [{'abilities': ['Spectral Scythe', 'Cursed Strikes'],
+               'hero_trait': 'Bone Prison',
+               'heroics': ['Poison Nova', 'Skeletal Mages']}],
+ 'stats': [{'complexity': '4',
+            'damage': '5',
+            'survivability': '7',
+            'utility': '9'}],
+ 'universum': ['diablo']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/d06aad0d959c11a7e590ecf77a45b5ea43fef1b6.jpg' -> 'D:/Images/full/Xul.jpg'
+2018-08-24 19:07:19 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/greymane/bust.jpg> referred in <None>
+2018-08-24 19:07:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/johanna/> (referer: None)
+2018-08-24 19:07:19 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/lunara/bust.jpg> referred in <None>
+2018-08-24 19:07:19 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/chogall/bust.jpg> referred in <None>
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['warrior'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/dehaka/bust.jpg'],
+ 'images': [{'checksum': '1049dfec279861e6513b77bea595551a',
+             'path': 'full/360183516dc9c0eb1b656bde9d1f4552c0e15d00.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/dehaka/bust.jpg'}],
+ 'name': ['Dehaka'],
+ 'skillset': [{'abilities': ['Drag', 'Dark Swarm'],
+               'hero_trait': 'Burrow',
+               'heroics': ['Isolation', 'Adaptation']}],
+ 'stats': [{'complexity': '7',
+            'damage': '6',
+            'survivability': '9',
+            'utility': '8'}],
+ 'universum': ['starcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/360183516dc9c0eb1b656bde9d1f4552c0e15d00.jpg' -> 'D:/Images/full/Dehaka.jpg'
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/alarak/bust.jpg'],
+ 'images': [{'checksum': '5956f8bc41996f68a1904ef9c5d2b1c7',
+             'path': 'full/9d699c9ab21c4a8db6b5bb7b670a39ca7430f93e.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/alarak/bust.jpg'}],
+ 'name': ['Alarak'],
+ 'skillset': [{'abilities': ['Discord Strike', 'Telekinesis'],
+               'hero_trait': 'Lightning Surge',
+               'heroics': ['Deadly Charge', 'Counter-Strike']}],
+ 'stats': [{'complexity': '8',
+            'damage': '7',
+            'survivability': '6',
+            'utility': '7'}],
+ 'universum': ['starcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/9d699c9ab21c4a8db6b5bb7b670a39ca7430f93e.jpg' -> 'D:/Images/full/Alarak.jpg'
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/zuljin/bust.jpg'],
+ 'images': [{'checksum': 'c4d3866085a90a0737db667a96d1a2ca',
+             'path': 'full/9a55df331e40dfd3010655ee14c37e168e37d104.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/zuljin/bust.jpg'}],
+ 'name': ["Zul'jin"],
+ 'skillset': [{'abilities': ['Grievous Throw', 'Twin Cleave'],
+               'hero_trait': 'Regeneration',
+               'heroics': ["Taz'dingo!", 'Guillotine']}],
+ 'stats': [{'complexity': '4',
+            'damage': '8',
+            'survivability': '6',
+            'utility': '4'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/9a55df331e40dfd3010655ee14c37e168e37d104.jpg' -> "D:/Images/full/Zul'jin.jpg"
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/li-ming/bust.jpg'],
+ 'images': [{'checksum': 'a80e965d4b3e9754049c32c422c1aaea',
+             'path': 'full/63aa6eb709e27d2888aba2abbc2b27620e68c071.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/li-ming/bust.jpg'}],
+ 'name': ['Li-Ming'],
+ 'skillset': [{'abilities': ['Magic Missiles', 'Arcane Orb'],
+               'hero_trait': 'Teleport',
+               'heroics': ['Disintegrate', 'Wave of Force']}],
+ 'stats': [{'complexity': '7',
+            'damage': '10',
+            'survivability': '3',
+            'utility': '1'}],
+ 'universum': ['diablo']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/63aa6eb709e27d2888aba2abbc2b27620e68c071.jpg' -> 'D:/Images/full/Li-Ming.jpg'
+2018-08-24 19:07:19 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/rexxar/bust.jpg> referred in <None>
+2018-08-24 19:07:19 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/lt-morales/bust.jpg> referred in <None>
+2018-08-24 19:07:19 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/artanis/bust.jpg> referred in <None>
+2018-08-24 19:07:19 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/kharazim/bust.jpg> referred in <None>
+2018-08-24 19:07:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/kaelthas/> (referer: None)
+2018-08-24 19:07:19 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/leoric/bust.jpg> referred in <None>
+2018-08-24 19:07:19 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/the-butcher/bust.jpg> referred in <None>
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/greymane/bust.jpg'],
+ 'images': [{'checksum': 'c2d4ffc24d04d2b7377b177814e9dce1',
+             'path': 'full/ce3064d66dcf18c28e8860e27813893772d6f01a.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/greymane/bust.jpg'}],
+ 'name': ['Greymane'],
+ 'skillset': [{'abilities': ['Gilnean Cocktail', 'Inner Beast'],
+               'hero_trait': 'Darkflight',
+               'heroics': ['Go for the Throat', 'Cursed Bullet']}],
+ 'stats': [{'complexity': '7',
+            'damage': '9',
+            'survivability': '4',
+            'utility': '3'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/ce3064d66dcf18c28e8860e27813893772d6f01a.jpg' -> 'D:/Images/full/Greymane.jpg'
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['warrior'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/chogall/bust.jpg'],
+ 'images': [{'checksum': 'f4a42a502362a3f4ae1e06c5983414d5',
+             'path': 'full/908cd999e3081aad019d49ef1a14131de6e153f6.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/chogall/bust.jpg'}],
+ 'name': ["Cho'gall"],
+ 'skillset': [{'abilities': ['Surging Fist', 'Consuming Blaze'],
+               'hero_trait': 'Rune Bomb',
+               'heroics': ['Hammer of Twilight', 'Upheaval']}],
+ 'stats': [{'complexity': '7',
+            'damage': '6',
+            'survivability': '10',
+            'utility': '2'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/908cd999e3081aad019d49ef1a14131de6e153f6.jpg' -> "D:/Images/full/Cho'gall.jpg"
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/lunara/bust.jpg'],
+ 'images': [{'checksum': 'b211d01bbcdd2c70822e4bc2020d9348',
+             'path': 'full/ed5420d56be862906dfd820948cb0c849977cece.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/lunara/bust.jpg'}],
+ 'name': ['Lunara'],
+ 'skillset': [{'abilities': ['Noxious Blossom', 'Crippling Spores'],
+               'hero_trait': 'Wisp',
+               'heroics': ['Thornwood Vine', 'Leaping Strike']}],
+ 'stats': [{'complexity': '5',
+            'damage': '8',
+            'survivability': '4',
+            'utility': '5'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/ed5420d56be862906dfd820948cb0c849977cece.jpg' -> 'D:/Images/full/Lunara.jpg'
+2018-08-24 19:07:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/sylvanas/> (referer: None)
+2018-08-24 19:07:19 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/johanna/bust.jpg> referred in <None>
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['support'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/kharazim/bust.jpg'],
+ 'images': [{'checksum': '545a7830f30c539a91a5049073d09941',
+             'path': 'full/198b64763a135f60e589224c73f09ccb3c29fb34.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/kharazim/bust.jpg'}],
+ 'name': ['Kharazim'],
+ 'skillset': [{'abilities': ['Radiant Dash', 'Breath of Heaven'],
+               'hero_trait': 'Deadly Reach',
+               'heroics': ['Seven-Sided Strike', 'Divine Palm']}],
+ 'stats': [{'complexity': '4',
+            'damage': '4',
+            'survivability': '7',
+            'utility': '9'}],
+ 'universum': ['diablo']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/198b64763a135f60e589224c73f09ccb3c29fb34.jpg' -> 'D:/Images/full/Kharazim.jpg'
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['warrior'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/artanis/bust.jpg'],
+ 'images': [{'checksum': 'eb3dc73faa4a7d3193faaa7e6f7f7745',
+             'path': 'full/3dd7d64c8451adbb220fcb63d74622949c5a0b2f.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/artanis/bust.jpg'}],
+ 'name': ['Artanis'],
+ 'skillset': [{'abilities': ['Blade Dash', 'Twin Blades'],
+               'hero_trait': 'Phase Prism',
+               'heroics': ['Suppression Pulse', 'Purifier Beam']}],
+ 'stats': [{'complexity': '5',
+            'damage': '6',
+            'survivability': '8',
+            'utility': '6'}],
+ 'universum': ['starcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/3dd7d64c8451adbb220fcb63d74622949c5a0b2f.jpg' -> 'D:/Images/full/Artanis.jpg'
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['warrior'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/rexxar/bust.jpg'],
+ 'images': [{'checksum': 'ac39fc709ebdb4054d192e66abe35225',
+             'path': 'full/07d0c55c87e535ec652450cade23261eb3868711.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/rexxar/bust.jpg'}],
+ 'name': ['Rexxar'],
+ 'skillset': [{'abilities': ['Spirit Swoop', 'Misha, Charge!'],
+               'hero_trait': 'Mend Pet',
+               'heroics': ['Unleash the Boars', 'Bestial Wrath']}],
+ 'stats': [{'complexity': '6',
+            'damage': '5',
+            'survivability': '7',
+            'utility': '8'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/07d0c55c87e535ec652450cade23261eb3868711.jpg' -> 'D:/Images/full/Rexxar.jpg'
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['support'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/lt-morales/bust.jpg'],
+ 'images': [{'checksum': 'f5845698dafebc08a39fd147f3b803c7',
+             'path': 'full/e46b10866fca7d5e57525234873927bd4405fcbe.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/lt-morales/bust.jpg'}],
+ 'name': ['Lt. Morales'],
+ 'skillset': [{'abilities': ['Healing Beam', 'Safeguard'],
+               'hero_trait': 'Displacement Grenade',
+               'heroics': ['Stim Drone', 'Medivac Dropship']}],
+ 'stats': [{'complexity': '5',
+            'damage': '3',
+            'survivability': '4',
+            'utility': '9'}],
+ 'universum': ['starcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/e46b10866fca7d5e57525234873927bd4405fcbe.jpg' -> 'D:/Images/full/Lt. Morales.jpg'
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['warrior'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/leoric/bust.jpg'],
+ 'images': [{'checksum': '283a46f75be3d092b0d02b945e767be0',
+             'path': 'full/129f9222b474878234b63212325e75e4b96f968e.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/leoric/bust.jpg'}],
+ 'name': ['Leoric'],
+ 'skillset': [{'abilities': ['Skeletal Swing', 'Drain Hope'],
+               'hero_trait': 'Wraith Walk',
+               'heroics': ['Entomb', 'March of the Black King']}],
+ 'stats': [{'complexity': '6',
+            'damage': '4',
+            'survivability': '8',
+            'utility': '5'}],
+ 'universum': ['diablo']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/129f9222b474878234b63212325e75e4b96f968e.jpg' -> 'D:/Images/full/Leoric.jpg'
+2018-08-24 19:07:19 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/the-butcher/bust.jpg'],
+ 'images': [{'checksum': '254f550fdb9cad4ce1bf12e66768d004',
+             'path': 'full/967f1e6801bbb4d5ca0e231bc3255f9ebdf8a9ad.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/the-butcher/bust.jpg'}],
+ 'name': ['The Butcher'],
+ 'skillset': [{'abilities': ['Hamstring', "Butcher's Brand"],
+               'hero_trait': 'Ruthless Onslaught',
+               'heroics': ['Lamb to the Slaughter', 'Furnace Blast']}],
+ 'stats': [{'complexity': '3',
+            'damage': '9',
+            'survivability': '5',
+            'utility': '4'}],
+ 'universum': ['diablo']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/967f1e6801bbb4d5ca0e231bc3255f9ebdf8a9ad.jpg' -> 'D:/Images/full/The Butcher.jpg'
+2018-08-24 19:07:19 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/kaelthas/bust.jpg> referred in <None>
+2018-08-24 19:07:20 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['warrior'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/johanna/bust.jpg'],
+ 'images': [{'checksum': '633dea4defc19e417eee925884516838',
+             'path': 'full/13142cd50e1daad1a74b3ed846837f328608e490.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/johanna/bust.jpg'}],
+ 'name': ['Johanna'],
+ 'skillset': [{'abilities': ['Punish', 'Condemn'],
+               'hero_trait': 'Shield Glare',
+               'heroics': ['Falling Sword', 'Blessed Shield']}],
+ 'stats': [{'complexity': '4',
+            'damage': '3',
+            'survivability': '10',
+            'utility': '6'}],
+ 'universum': ['diablo']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/13142cd50e1daad1a74b3ed846837f328608e490.jpg' -> 'D:/Images/full/Johanna.jpg'
+2018-08-24 19:07:20 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/sylvanas/bust.jpg> referred in <None>
+2018-08-24 19:07:20 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/kaelthas/bust.jpg'],
+ 'images': [{'checksum': '006705e2d9b9475525b0e532ede6e1e2',
+             'path': 'full/1fe28d60e5ee8fc058b3bac18805d734ac823baa.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/kaelthas/bust.jpg'}],
+ 'name': ["Kael'thas"],
+ 'skillset': [{'abilities': ['Flamestrike', 'Living Bomb'],
+               'hero_trait': 'Gravity Lapse',
+               'heroics': ['Phoenix', 'Pyroblast']}],
+ 'stats': [{'complexity': '7',
+            'damage': '9',
+            'survivability': '3',
+            'utility': '5'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/1fe28d60e5ee8fc058b3bac18805d734ac823baa.jpg' -> "D:/Images/full/Kael'thas.jpg"
+2018-08-24 19:07:20 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['specialist'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/sylvanas/bust.jpg'],
+ 'images': [{'checksum': '26b1e59c27ab8cc99a4e6d999abbd1ac',
+             'path': 'full/700922e40565840459a029b6df5ce46e06a50561.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/sylvanas/bust.jpg'}],
+ 'name': ['Sylvanas'],
+ 'skillset': [{'abilities': ['Withering Fire', 'Shadow Dagger'],
+               'hero_trait': 'Haunting Wave',
+               'heroics': ['Wailing Arrow', 'Mind Control']}],
+ 'stats': [{'complexity': '6',
+            'damage': '9',
+            'survivability': '3',
+            'utility': '7'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/700922e40565840459a029b6df5ce46e06a50561.jpg' -> 'D:/Images/full/Sylvanas.jpg'
+2018-08-24 19:07:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/chen/> (referer: None)
+2018-08-24 19:07:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/azmodan/> (referer: None)
+2018-08-24 19:07:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/zagara/> (referer: None)
+2018-08-24 19:07:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/murky/> (referer: None)
+2018-08-24 19:07:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/li-li/> (referer: None)
+2018-08-24 19:07:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/brightwing/> (referer: None)
+2018-08-24 19:07:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/tychus/> (referer: None)
+2018-08-24 19:07:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/diablo/> (referer: None)
+2018-08-24 19:07:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/zeratul/> (referer: None)
+2018-08-24 19:07:20 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/chen/bust.jpg> referred in <None>
+2018-08-24 19:07:20 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/azmodan/bust.jpg> referred in <None>
+2018-08-24 19:07:20 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/zagara/bust.jpg> referred in <None>
+2018-08-24 19:07:20 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/murky/bust.jpg> referred in <None>
+2018-08-24 19:07:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/illidan/> (referer: None)
+2018-08-24 19:07:20 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/brightwing/bust.jpg> referred in <None>
+2018-08-24 19:07:20 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['warrior'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/chen/bust.jpg'],
+ 'images': [{'checksum': '7038bb0139521306e43182f66701470b',
+             'path': 'full/fd151ab091ba3608a41875656309109bf2f15167.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/chen/bust.jpg'}],
+ 'name': ['Chen'],
+ 'skillset': [{'abilities': ['Flying Kick', 'Keg Smash'],
+               'hero_trait': 'Breath of Fire',
+               'heroics': ['Wandering Keg', 'Storm, Earth, Fire']}],
+ 'stats': [{'complexity': '6',
+            'damage': '3',
+            'survivability': '10',
+            'utility': '4'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/fd151ab091ba3608a41875656309109bf2f15167.jpg' -> 'D:/Images/full/Chen.jpg'
+2018-08-24 19:07:20 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/li-li/bust.jpg> referred in <None>
+2018-08-24 19:07:20 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/tychus/bust.jpg> referred in <None>
+2018-08-24 19:07:20 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/zeratul/bust.jpg> referred in <None>
+2018-08-24 19:07:20 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['specialist'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/azmodan/bust.jpg'],
+ 'images': [{'checksum': '81c520073bc51070033e5b9e8440f290',
+             'path': 'full/262a29107c5731c3a0477c5cffd0f69c28cd876b.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/azmodan/bust.jpg'}],
+ 'name': ['Azmodan'],
+ 'skillset': [{'abilities': ['Globe of Annihilation', 'Summon Demon Warrior'],
+               'hero_trait': 'All Shall Burn',
+               'heroics': ['Demonic Invasion', 'Tide of Sin']}],
+ 'stats': [{'complexity': '5',
+            'damage': '3',
+            'survivability': '7',
+            'utility': '6'}],
+ 'universum': ['diablo']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/262a29107c5731c3a0477c5cffd0f69c28cd876b.jpg' -> 'D:/Images/full/Azmodan.jpg'
+2018-08-24 19:07:20 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['specialist'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/zagara/bust.jpg'],
+ 'images': [{'checksum': 'e0c6cc94b461425afbaf1a2d29942004',
+             'path': 'full/114260acac8b2e680972a65332cd9af76b6e762e.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/zagara/bust.jpg'}],
+ 'name': ['Zagara'],
+ 'skillset': [{'abilities': ['Baneling Barrage', 'Hunter Killer'],
+               'hero_trait': 'Infested Drop',
+               'heroics': ['Devouring Maw', 'Nydus Network']}],
+ 'stats': [{'complexity': '6',
+            'damage': '6',
+            'survivability': '5',
+            'utility': '8'}],
+ 'universum': ['starcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/114260acac8b2e680972a65332cd9af76b6e762e.jpg' -> 'D:/Images/full/Zagara.jpg'
+2018-08-24 19:07:20 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/diablo/bust.jpg> referred in <None>
+2018-08-24 19:07:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/the-lost-vikings/> (referer: None)
+2018-08-24 19:07:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/thrall/> (referer: None)
+2018-08-24 19:07:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/rehgar/> (referer: None)
+2018-08-24 19:07:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/jaina/> (referer: None)
+2018-08-24 19:07:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/anubarak/> (referer: None)
+2018-08-24 19:07:20 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['specialist'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/murky/bust.jpg'],
+ 'images': [{'checksum': '017500cbbd126d38f8e255031947c759',
+             'path': 'full/141b67b404c58520f3f7638fec9c26307a3ad205.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/murky/bust.jpg'}],
+ 'name': ['Murky'],
+ 'skillset': [{'abilities': ['Slime', 'Pufferfish'],
+               'hero_trait': 'Safety Bubble',
+               'heroics': ['March of the Murlocs', 'Octo-Grab']}],
+ 'stats': [{'complexity': '8',
+            'damage': '5',
+            'survivability': '1',
+            'utility': '5'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/141b67b404c58520f3f7638fec9c26307a3ad205.jpg' -> 'D:/Images/full/Murky.jpg'
+2018-08-24 19:07:20 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['support'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/brightwing/bust.jpg'],
+ 'images': [{'checksum': '39e0597397d7345ec93a350c88e8a5f4',
+             'path': 'full/986ed65914ca5a51b0ce53108f36d5d5df11ebc6.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/brightwing/bust.jpg'}],
+ 'name': ['Brightwing'],
+ 'skillset': [{'abilities': ['Arcane Flare', 'Polymorph'],
+               'hero_trait': 'Pixie Dust',
+               'heroics': ['Blink Heal', 'Emerald Wind']}],
+ 'stats': [{'complexity': '7',
+            'damage': '4',
+            'survivability': '5',
+            'utility': '9'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/986ed65914ca5a51b0ce53108f36d5d5df11ebc6.jpg' -> 'D:/Images/full/Brightwing.jpg'
+2018-08-24 19:07:20 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['support'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/li-li/bust.jpg'],
+ 'images': [{'checksum': '6f41f738b0a6a5343ac742b4bb444dca',
+             'path': 'full/675d14268048ab9f46f226755abb066e085558c7.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/li-li/bust.jpg'}],
+ 'name': ['Li Li'],
+ 'skillset': [{'abilities': ['Healing Brew', 'Cloud Serpent'],
+               'hero_trait': 'Blinding Wind',
+               'heroics': ['Jug of 1,000 Cups', 'Water Dragon']}],
+ 'stats': [{'complexity': '3',
+            'damage': '3',
+            'survivability': '8',
+            'utility': '8'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/675d14268048ab9f46f226755abb066e085558c7.jpg' -> 'D:/Images/full/Li Li.jpg'
+2018-08-24 19:07:20 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/tychus/bust.jpg'],
+ 'images': [{'checksum': '51b61958ee6d30edf2ea1885171d80c8',
+             'path': 'full/e6332896c1d8f9f2a8879ff7c63a5e2b16c9738e.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/tychus/bust.jpg'}],
+ 'name': ['Tychus'],
+ 'skillset': [{'abilities': ['Overkill', 'Frag Grenade'],
+               'hero_trait': 'Run and Gun',
+               'heroics': ['Commandeer Odin', 'Drakken Laser Drill']}],
+ 'stats': [{'complexity': '6',
+            'damage': '8',
+            'survivability': '5',
+            'utility': '1'}],
+ 'universum': ['starcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/e6332896c1d8f9f2a8879ff7c63a5e2b16c9738e.jpg' -> 'D:/Images/full/Tychus.jpg'
+2018-08-24 19:07:20 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/zeratul/bust.jpg'],
+ 'images': [{'checksum': 'b2db96251826a271e33af63ece0090fa',
+             'path': 'full/45f5f814ff355a3bd14523d592b4babbbc83376d.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/zeratul/bust.jpg'}],
+ 'name': ['Zeratul'],
+ 'skillset': [{'abilities': ['Cleave', 'Singularity Spike'],
+               'hero_trait': 'Blink',
+               'heroics': ['Might Of The Nerazim', 'Void Prison']}],
+ 'stats': [{'complexity': '5',
+            'damage': '8',
+            'survivability': '6',
+            'utility': '6'}],
+ 'universum': ['starcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/45f5f814ff355a3bd14523d592b4babbbc83376d.jpg' -> 'D:/Images/full/Zeratul.jpg'
+2018-08-24 19:07:20 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['warrior'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/diablo/bust.jpg'],
+ 'images': [{'checksum': '6e41c1c277f39fb259f5a826bf4e8717',
+             'path': 'full/6b8b992fda184d33ba84ce4beb78b9ffa2faa46a.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/diablo/bust.jpg'}],
+ 'name': ['Diablo'],
+ 'skillset': [{'abilities': ['Shadow Charge', 'Fire Stomp'],
+               'hero_trait': 'Overpower',
+               'heroics': ['Apocalypse', 'Lightning Breath']}],
+ 'stats': [{'complexity': '5',
+            'damage': '5',
+            'survivability': '9',
+            'utility': '7'}],
+ 'universum': ['diablo']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/6b8b992fda184d33ba84ce4beb78b9ffa2faa46a.jpg' -> 'D:/Images/full/Diablo.jpg'
+2018-08-24 19:07:20 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/illidan/bust.jpg> referred in <None>
+2018-08-24 19:07:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/nazeebo/> (referer: None)
+2018-08-24 19:07:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/kerrigan/> (referer: None)
+2018-08-24 19:07:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/malfurion/> (referer: None)
+2018-08-24 19:07:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/sonya/> (referer: None)
+2018-08-24 19:07:20 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/the-lost-vikings/bust.jpg> referred in <None>
+2018-08-24 19:07:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/valla/> (referer: None)
+2018-08-24 19:07:20 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/illidan/bust.jpg'],
+ 'images': [{'checksum': 'e73e97bad17e77ccd1192d7fbc7ff128',
+             'path': 'full/f3db5bcf942a56e70f93ee30377695b1ac0740ec.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/illidan/bust.jpg'}],
+ 'name': ['Illidan'],
+ 'skillset': [{'abilities': ['Dive', 'Sweeping Strike'],
+               'hero_trait': 'Evasion',
+               'heroics': ['Metamorphosis', 'The Hunt']}],
+ 'stats': [{'complexity': '8',
+            'damage': '8',
+            'survivability': '6',
+            'utility': '3'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/f3db5bcf942a56e70f93ee30377695b1ac0740ec.jpg' -> 'D:/Images/full/Illidan.jpg'
+2018-08-24 19:07:20 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/thrall/bust.jpg> referred in <None>
+2018-08-24 19:07:21 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/rehgar/bust.jpg> referred in <None>
+2018-08-24 19:07:21 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/jaina/bust.jpg> referred in <None>
+2018-08-24 19:07:21 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/anubarak/bust.jpg> referred in <None>
+2018-08-24 19:07:21 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/sgt-hammer/> (referer: None)
+2018-08-24 19:07:21 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/tyrande/> (referer: None)
+2018-08-24 19:07:21 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/raynor/> (referer: None)
+2018-08-24 19:07:21 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/uther/> (referer: None)
+2018-08-24 19:07:21 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/nova/> (referer: None)
+2018-08-24 19:07:21 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/tyrael/> (referer: None)
+2018-08-24 19:07:21 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/abathur/> (referer: None)
+2018-08-24 19:07:21 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['specialist'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/the-lost-vikings/bust.jpg'],
+ 'images': [{'checksum': '4067553abd8a8157bebd4075b7528f5c',
+             'path': 'full/bca0f79b192740b3ff43bea926ee7a7fd570213c.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/the-lost-vikings/bust.jpg'}],
+ 'name': ['The Lost Vikings'],
+ 'skillset': [{'abilities': ['Jump!', 'Spin To Win!'],
+               'hero_trait': 'Norse Force!',
+               'heroics': ['Longboat Raid!', 'Play Again!']}],
+ 'stats': [{'complexity': '10',
+            'damage': '7',
+            'survivability': '6',
+            'utility': '5'}],
+ 'universum': ['retro']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/bca0f79b192740b3ff43bea926ee7a7fd570213c.jpg' -> 'D:/Images/full/The Lost Vikings.jpg'
+2018-08-24 19:07:21 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/nazeebo/bust.jpg> referred in <None>
+2018-08-24 19:07:21 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/kerrigan/bust.jpg> referred in <None>
+2018-08-24 19:07:21 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/thrall/bust.jpg'],
+ 'images': [{'checksum': 'e2664119a144bc2b27231d5643f5aa31',
+             'path': 'full/8eed086320aebcae5d2fb6e7b2320d7d66be079d.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/thrall/bust.jpg'}],
+ 'name': ['Thrall'],
+ 'skillset': [{'abilities': ['Chain Lightning', 'Feral Spirit'],
+               'hero_trait': 'Windfury',
+               'heroics': ['Sundering', 'Earthquake']}],
+ 'stats': [{'complexity': '6',
+            'damage': '8',
+            'survivability': '7',
+            'utility': '5'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/8eed086320aebcae5d2fb6e7b2320d7d66be079d.jpg' -> 'D:/Images/full/Thrall.jpg'
+2018-08-24 19:07:21 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/malfurion/bust.jpg> referred in <None>
+2018-08-24 19:07:21 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['support'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/rehgar/bust.jpg'],
+ 'images': [{'checksum': '56f7e73955224ada1fdba79d70482e65',
+             'path': 'full/ba10604e7de26e80b77c6824271f69f9be347583.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/rehgar/bust.jpg'}],
+ 'name': ['Rehgar'],
+ 'skillset': [{'abilities': ['Chain Heal', 'Lightning Shield'],
+               'hero_trait': 'Earthbind Totem',
+               'heroics': ['Ancestral Healing', 'Bloodlust']}],
+ 'stats': [{'complexity': '6',
+            'damage': '5',
+            'survivability': '7',
+            'utility': '7'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/ba10604e7de26e80b77c6824271f69f9be347583.jpg' -> 'D:/Images/full/Rehgar.jpg'
+2018-08-24 19:07:21 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/sonya/bust.jpg> referred in <None>
+2018-08-24 19:07:21 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/muradin/> (referer: None)
+2018-08-24 19:07:21 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/valla/bust.jpg> referred in <None>
+2018-08-24 19:07:21 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/jaina/bust.jpg'],
+ 'images': [{'checksum': 'eb5cd37ded89b15cac4951f31e49116a',
+             'path': 'full/20eb64fa863fa93fdadb79f34ab076909c529a08.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/jaina/bust.jpg'}],
+ 'name': ['Jaina'],
+ 'skillset': [{'abilities': ['Frostbolt', 'Blizzard'],
+               'hero_trait': 'Cone of Cold',
+               'heroics': ['Ring of Frost', 'Summon Water Elemental']}],
+ 'stats': [{'complexity': '4',
+            'damage': '10',
+            'survivability': '2',
+            'utility': '4'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/20eb64fa863fa93fdadb79f34ab076909c529a08.jpg' -> 'D:/Images/full/Jaina.jpg'
+2018-08-24 19:07:21 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['warrior'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/anubarak/bust.jpg'],
+ 'images': [{'checksum': '9934c6eecc5897f972852bcfe865a5bc',
+             'path': 'full/ff51899bb117b40810c262ec2ce9becc21205e48.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/anubarak/bust.jpg'}],
+ 'name': ["Anub'arak"],
+ 'skillset': [{'abilities': ['Impale', 'Harden Carapace'],
+               'hero_trait': 'Burrow Charge',
+               'heroics': ['Locust Swarm', 'Cocoon']}],
+ 'stats': [{'complexity': '5',
+            'damage': '4',
+            'survivability': '7',
+            'utility': '6'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/ff51899bb117b40810c262ec2ce9becc21205e48.jpg' -> "D:/Images/full/Anub'arak.jpg"
+2018-08-24 19:07:21 [scrapy.core.scraper] ERROR: Spider error processing <GET https://heroesofthestorm.com/en-us/heroes/sgt-hammer/> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\spiders\hots.py", line 66, in parse_details
+    hero_trait = skills[5]
+IndexError: list index out of range
+2018-08-24 19:07:21 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/tassadar/> (referer: None)
+2018-08-24 19:07:21 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/etc/> (referer: None)
+2018-08-24 19:07:21 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/gazlowe/> (referer: None)
+2018-08-24 19:07:21 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/stitches/> (referer: None)
+2018-08-24 19:07:21 [scrapy.core.scraper] ERROR: Spider error processing <GET https://heroesofthestorm.com/en-us/heroes/abathur/> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\spiders\hots.py", line 66, in parse_details
+    hero_trait = skills[5]
+IndexError: list index out of range
+2018-08-24 19:07:21 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/kerrigan/bust.jpg'],
+ 'images': [{'checksum': '36c12bfe5c370939b2dd16e9f07bb664',
+             'path': 'full/fa1c3487245c4d0119dcb49cb26836c389e085b5.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/kerrigan/bust.jpg'}],
+ 'name': ['Kerrigan'],
+ 'skillset': [{'abilities': ['Ravage', 'Impaling Blades'],
+               'hero_trait': 'Primal Grasp',
+               'heroics': ['Maelstrom', 'Summon Ultralisk']}],
+ 'stats': [{'complexity': '6',
+            'damage': '8',
+            'survivability': '6',
+            'utility': '4'}],
+ 'universum': ['starcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/fa1c3487245c4d0119dcb49cb26836c389e085b5.jpg' -> 'D:/Images/full/Kerrigan.jpg'
+2018-08-24 19:07:21 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['specialist'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/nazeebo/bust.jpg'],
+ 'images': [{'checksum': 'd9efafa609cf95b9a5a33e908fb0a06b',
+             'path': 'full/11940b0da04c3a8f384cd227348c80f3c7536b37.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/nazeebo/bust.jpg'}],
+ 'name': ['Nazeebo'],
+ 'skillset': [{'abilities': ['Corpse Spiders', 'Zombie Wall'],
+               'hero_trait': 'Plague of Toads',
+               'heroics': ['Gargantuan', 'Ravenous Spirit']}],
+ 'stats': [{'complexity': '6',
+            'damage': '8',
+            'survivability': '3',
+            'utility': '4'}],
+ 'universum': ['diablo']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/11940b0da04c3a8f384cd227348c80f3c7536b37.jpg' -> 'D:/Images/full/Nazeebo.jpg'
+2018-08-24 19:07:21 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/tyrande/bust.jpg> referred in <None>
+2018-08-24 19:07:21 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['support'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/malfurion/bust.jpg'],
+ 'images': [{'checksum': 'b40ca5e87ea2215a829d565ee727e177',
+             'path': 'full/b402e20b6ea4e3aafc4720c1d73fb3c9b7256b11.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/malfurion/bust.jpg'}],
+ 'name': ['Malfurion'],
+ 'skillset': [{'abilities': ['Regrowth', 'Moonfire'],
+               'hero_trait': 'Entangling Roots',
+               'heroics': ['Tranquility', 'Twilight Dream']}],
+ 'stats': [{'complexity': '5',
+            'damage': '4',
+            'survivability': '5',
+            'utility': '7'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/b402e20b6ea4e3aafc4720c1d73fb3c9b7256b11.jpg' -> 'D:/Images/full/Malfurion.jpg'
+2018-08-24 19:07:21 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['warrior'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/sonya/bust.jpg'],
+ 'images': [{'checksum': '1dbac6ef8253399b9c2b9ab37518b08e',
+             'path': 'full/26e0b0f5284112b4727511bf70f45c7a9b6a6341.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/sonya/bust.jpg'}],
+ 'name': ['Sonya'],
+ 'skillset': [{'abilities': ['Ancient Spear', 'Seismic Slam'],
+               'hero_trait': 'Whirlwind',
+               'heroics': ['Leap', 'Wrath of the Berserker']}],
+ 'stats': [{'complexity': '5',
+            'damage': '7',
+            'survivability': '6',
+            'utility': '5'}],
+ 'universum': ['diablo']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/26e0b0f5284112b4727511bf70f45c7a9b6a6341.jpg' -> 'D:/Images/full/Sonya.jpg'
+2018-08-24 19:07:21 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/arthas/> (referer: None)
+2018-08-24 19:07:21 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://heroesofthestorm.com/en-us/heroes/falstad/> (referer: None)
+2018-08-24 19:07:21 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/valla/bust.jpg'],
+ 'images': [{'checksum': '5fc46c5acf64479d000dd6a3430589bd',
+             'path': 'full/0146f739d562e453ce45fcc2c6562a7fd78d57d2.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/valla/bust.jpg'}],
+ 'name': ['Valla'],
+ 'skillset': [{'abilities': ['Hungering Arrow', 'Multishot'],
+               'hero_trait': 'Vault',
+               'heroics': ['Strafe', 'Rain of Vengeance']}],
+ 'stats': [{'complexity': '3',
+            'damage': '9',
+            'survivability': '4',
+            'utility': '1'}],
+ 'universum': ['diablo']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/0146f739d562e453ce45fcc2c6562a7fd78d57d2.jpg' -> 'D:/Images/full/Valla.jpg'
+2018-08-24 19:07:21 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/raynor/bust.jpg> referred in <None>
+2018-08-24 19:07:21 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/uther/bust.jpg> referred in <None>
+2018-08-24 19:07:21 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/nova/bust.jpg> referred in <None>
+2018-08-24 19:07:21 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/tyrael/bust.jpg> referred in <None>
+2018-08-24 19:07:21 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/muradin/bust.jpg> referred in <None>
+2018-08-24 19:07:21 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/gazlowe/bust.jpg> referred in <None>
+2018-08-24 19:07:21 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['support'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/tyrande/bust.jpg'],
+ 'images': [{'checksum': 'f0444a5534c30fe7e62c8cc8072bf11a',
+             'path': 'full/8bdbbd8eea980482f2cda6fafea6a1e586b62461.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/tyrande/bust.jpg'}],
+ 'name': ['Tyrande'],
+ 'skillset': [{'abilities': ['Light of Elune', 'Sentinel'],
+               'hero_trait': 'Lunar Flare',
+               'heroics': ['Starfall', 'Shadowstalk']}],
+ 'stats': [{'complexity': '7',
+            'damage': '5',
+            'survivability': '4',
+            'utility': '7'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/8bdbbd8eea980482f2cda6fafea6a1e586b62461.jpg' -> 'D:/Images/full/Tyrande.jpg'
+2018-08-24 19:07:21 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/raynor/bust.jpg'],
+ 'images': [{'checksum': '83e652ef4833196b075c1557090b8654',
+             'path': 'full/a7d748f62a4a1d70e054adc57b0effd60b95ede2.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/raynor/bust.jpg'}],
+ 'name': ['Raynor'],
+ 'skillset': [{'abilities': ['Penetrating Round', 'Inspire'],
+               'hero_trait': 'Adrenaline Rush',
+               'heroics': ['Hyperion', "Raynor's Raider"]}],
+ 'stats': [{'complexity': '3',
+            'damage': '9',
+            'survivability': '6',
+            'utility': '1'}],
+ 'universum': ['starcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/a7d748f62a4a1d70e054adc57b0effd60b95ede2.jpg' -> 'D:/Images/full/Raynor.jpg'
+2018-08-24 19:07:21 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/etc/bust.jpg> referred in <None>
+2018-08-24 19:07:21 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/tassadar/bust.jpg> referred in <None>
+2018-08-24 19:07:21 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/stitches/bust.jpg> referred in <None>
+2018-08-24 19:07:21 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/falstad/bust.jpg> referred in <None>
+2018-08-24 19:07:21 [scrapy.pipelines.files] DEBUG: File (uptodate): Downloaded image from <GET https://blzmedia-a.akamaihd.net/heroes/arthas/bust.jpg> referred in <None>
+2018-08-24 19:07:21 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/nova/bust.jpg'],
+ 'images': [{'checksum': 'be3caf8942d73b4f129b20e10d960dd8',
+             'path': 'full/d6f836d73ffa3ea6807b5b59fa436438fd1d0a18.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/nova/bust.jpg'}],
+ 'name': ['Nova'],
+ 'skillset': [{'abilities': ['Snipe', 'Pinning Shot'],
+               'hero_trait': 'Holo Decoy',
+               'heroics': ['Triple Tap', 'Precision Strike']}],
+ 'stats': [{'complexity': '5',
+            'damage': '10',
+            'survivability': '2',
+            'utility': '4'}],
+ 'universum': ['starcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/d6f836d73ffa3ea6807b5b59fa436438fd1d0a18.jpg' -> 'D:/Images/full/Nova.jpg'
+2018-08-24 19:07:21 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['support'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/uther/bust.jpg'],
+ 'images': [{'checksum': 'ff60836776e14a0d3b188e87cd6de25c',
+             'path': 'full/94f2c4f6c36895e9881e374ed6627c715cf8c3a6.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/uther/bust.jpg'}],
+ 'name': ['Uther'],
+ 'skillset': [{'abilities': ['Holy Light', 'Holy Radiance'],
+               'hero_trait': 'Hammer of Justice',
+               'heroics': ['Divine Shield', 'Divine Storm']}],
+ 'stats': [{'complexity': '2',
+            'damage': '3',
+            'survivability': '7',
+            'utility': '9'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/94f2c4f6c36895e9881e374ed6627c715cf8c3a6.jpg' -> 'D:/Images/full/Uther.jpg'
+2018-08-24 19:07:21 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['warrior'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/tyrael/bust.jpg'],
+ 'images': [{'checksum': 'aeca601f10aded8c2c00f2b46dc24e78',
+             'path': 'full/3f4045c897d22078f298b3d695970794def96c86.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/tyrael/bust.jpg'}],
+ 'name': ['Tyrael'],
+ 'skillset': [{'abilities': ["El'druin's Might", 'Righteousness'],
+               'hero_trait': 'Smite',
+               'heroics': ['Judgment', 'Sanctification']}],
+ 'stats': [{'complexity': '5',
+            'damage': '6',
+            'survivability': '8',
+            'utility': '6'}],
+ 'universum': ['diablo']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/3f4045c897d22078f298b3d695970794def96c86.jpg' -> 'D:/Images/full/Tyrael.jpg'
+2018-08-24 19:07:21 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['warrior'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/muradin/bust.jpg'],
+ 'images': [{'checksum': '6630f9aa52057e9e87549865e7beb7be',
+             'path': 'full/29f1c293005da8391d39278ca0d79ca23f7e8df8.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/muradin/bust.jpg'}],
+ 'name': ['Muradin'],
+ 'skillset': [{'abilities': ['Storm Bolt', 'Thunder Clap'],
+               'hero_trait': 'Dwarf Toss',
+               'heroics': ['Avatar', 'Haymaker']}],
+ 'stats': [{'complexity': '4',
+            'damage': '5',
+            'survivability': '9',
+            'utility': '5'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/29f1c293005da8391d39278ca0d79ca23f7e8df8.jpg' -> 'D:/Images/full/Muradin.jpg'
+2018-08-24 19:07:21 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['specialist'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/gazlowe/bust.jpg'],
+ 'images': [{'checksum': '64d1c928c2cfb108e03465233c99e470',
+             'path': 'full/13386245370a48c415cadaad73d546bdb83be5e5.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/gazlowe/bust.jpg'}],
+ 'name': ['Gazlowe'],
+ 'skillset': [{'abilities': ['Rock-It! Turret', 'Deth Lazor'],
+               'hero_trait': 'Xplodium Charge',
+               'heroics': ['Robo-Goblin', 'Grav-O-Bomb 3000']}],
+ 'stats': [{'complexity': '6',
+            'damage': '5',
+            'survivability': '5',
+            'utility': '6'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/13386245370a48c415cadaad73d546bdb83be5e5.jpg' -> 'D:/Images/full/Gazlowe.jpg'
+2018-08-24 19:07:21 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['warrior'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/etc/bust.jpg'],
+ 'images': [{'checksum': 'e6cc6a99caf5755828673cc278d2b0cd',
+             'path': 'full/09e1356795208809445d7071cf5fa480fda358f9.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/etc/bust.jpg'}],
+ 'name': ['E.T.C.'],
+ 'skillset': [{'abilities': ['Powerslide', 'Face Melt'],
+               'hero_trait': 'Guitar Solo',
+               'heroics': ['Mosh Pit', 'Stage Dive']}],
+ 'stats': [{'complexity': '3',
+            'damage': '4',
+            'survivability': '9',
+            'utility': '6'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/09e1356795208809445d7071cf5fa480fda358f9.jpg' -> 'D:/Images/full/E.T.C..jpg'
+2018-08-24 19:07:21 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['warrior'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/stitches/bust.jpg'],
+ 'images': [{'checksum': 'e06a675908171aa0ed75d3f0e0ae5776',
+             'path': 'full/2cebdfe1b2a2660740487410353d67c28fa2fac3.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/stitches/bust.jpg'}],
+ 'name': ['Stitches'],
+ 'skillset': [{'abilities': ['Hook', 'Slam'],
+               'hero_trait': 'Devour',
+               'heroics': ['Putrid Bile', 'Gorge']}],
+ 'stats': [{'complexity': '4',
+            'damage': '6',
+            'survivability': '8',
+            'utility': '10'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/2cebdfe1b2a2660740487410353d67c28fa2fac3.jpg' -> 'D:/Images/full/Stitches.jpg'
+2018-08-24 19:07:21 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['support'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/tassadar/bust.jpg'],
+ 'images': [{'checksum': '7b12cb4cb3ed323f9cae23ca7a613359',
+             'path': 'full/e8537e599d6cf1b592dd4a0c2253424f20c80161.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/tassadar/bust.jpg'}],
+ 'name': ['Tassadar'],
+ 'skillset': [{'abilities': ['Plasma Shield', 'Psionic Storm'],
+               'hero_trait': 'Dimensional Shift',
+               'heroics': ['Archon', 'Force Wall']}],
+ 'stats': [{'complexity': '4',
+            'damage': '6',
+            'survivability': '7',
+            'utility': '7'}],
+ 'universum': ['starcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/e8537e599d6cf1b592dd4a0c2253424f20c80161.jpg' -> 'D:/Images/full/Tassadar.jpg'
+2018-08-24 19:07:21 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['assassin'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/falstad/bust.jpg'],
+ 'images': [{'checksum': '4105ae6ff41aedb009cc2d7f79cc1f3e',
+             'path': 'full/6acb7025af4923354793960223f505fbfe5dec0c.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/falstad/bust.jpg'}],
+ 'name': ['Falstad'],
+ 'skillset': [{'abilities': ['Hammerang', 'Lightning Rod'],
+               'hero_trait': 'Barrel Roll',
+               'heroics': ['Hinterland Blast', 'Mighty Gust']}],
+ 'stats': [{'complexity': '5',
+            'damage': '8',
+            'survivability': '4',
+            'utility': '4'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/6acb7025af4923354793960223f505fbfe5dec0c.jpg' -> 'D:/Images/full/Falstad.jpg'
+2018-08-24 19:07:21 [scrapy.core.scraper] ERROR: Error processing {'hero_class': ['warrior'],
+ 'image_urls': ['https://blzmedia-a.akamaihd.net/heroes/arthas/bust.jpg'],
+ 'images': [{'checksum': 'fc3871cb645803965530c18b32f036db',
+             'path': 'full/fe7836932e37470aae6a07fadd3e3c50450f4af3.jpg',
+             'url': 'https://blzmedia-a.akamaihd.net/heroes/arthas/bust.jpg'}],
+ 'name': ['Arthas'],
+ 'skillset': [{'abilities': ['Death Coil', 'Howling Blast'],
+               'hero_trait': 'Frozen Tempest',
+               'heroics': ['Army of the Dead', 'Summon Sindragosa']}],
+ 'stats': [{'complexity': '4',
+            'damage': '6',
+            'survivability': '8',
+            'utility': '5'}],
+ 'universum': ['warcraft']}
+Traceback (most recent call last):
+  File "c:\users\maximusminimus\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\heroes\heroes\pipelines.py", line 17, in process_item
+    os.rename(item['images'][0]['path'], new_image_path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'full/fe7836932e37470aae6a07fadd3e3c50450f4af3.jpg' -> 'D:/Images/full/Arthas.jpg'
+2018-08-24 19:07:21 [scrapy.core.engine] INFO: Closing spider (finished)
+2018-08-24 19:07:21 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 24599,
+ 'downloader/request_count': 81,
+ 'downloader/request_method_count/GET': 81,
+ 'downloader/response_bytes': 3887520,
+ 'downloader/response_count': 81,
+ 'downloader/response_status_count/200': 81,
+ 'file_count': 78,
+ 'file_status_count/uptodate': 78,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 8, 24, 18, 7, 21, 959366),
+ 'log_count/DEBUG': 170,
+ 'log_count/ERROR': 81,
+ 'log_count/INFO': 7,
+ 'response_received_count': 81,
+ 'scheduler/dequeued': 81,
+ 'scheduler/dequeued/memory': 81,
+ 'scheduler/enqueued': 81,
+ 'scheduler/enqueued/memory': 81,
+ 'spider_exceptions/IndexError': 3,
+ 'start_time': datetime.datetime(2018, 8, 24, 18, 7, 10, 725677)}
+2018-08-24 19:07:21 [scrapy.core.engine] INFO: Spider closed (finished)

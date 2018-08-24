@@ -9,6 +9,16 @@ import scrapy
 
 
 class HeroesItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+	name = scrapy.Field()
+	title = scrapy.Field()
+	hero_class = scrapy.Field()
+	description = scrapy.Field()
+	stats = scrapy.Field()
+	skillset = scrapy.Field()
+	universum = scrapy.Field()
+
+	image_urls = scrapy.Field()
+	images = scrapy.Field()
+
+
+
