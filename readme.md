@@ -50,3 +50,7 @@ https://heroesofthestorm.com/en-us/
 #### 10. Scrapy with Multiple Pages
 ##### multi/
 http://quotes.toscrape.com/ | http://books.toscrape.com/
+
+#### 11. Daft Crawler (in progress)
+##### daftcrawler
+https://www.daft.ie/
