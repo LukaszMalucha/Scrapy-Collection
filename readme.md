@@ -36,3 +36,5 @@ https://github.com/
 
 #### 9. Heroes of the Storm Official (Scrapy + Selenium + Image Scraping/Renaming)
 https://heroesofthestorm.com/en-us/
+
+#### 10. Scraping Multiple Pages
