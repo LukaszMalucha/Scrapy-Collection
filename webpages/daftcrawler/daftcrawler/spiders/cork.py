@@ -15,7 +15,7 @@ class CorkSpider(Spider):
 
 	def parse(self, response):
 		self.driver = webdriver.Chrome('D:/PYTHON/WebScraping/chromedriver')
-		self.driver.get('https://www.daft.ie/cork/residential-property-for-rent/')
+		self.driver.get('https://www.daft.ie/cork-city/residential-property-for-rent/')
 
 		sel = Selector(text = self.driver.page_source)
 		property_urls = sel.xpath('.//*[@class="search_result_title_box"]/h2/a/@href').extract()
@@ -32,6 +32,8 @@ class CorkSpider(Spider):
 				sel = Selector(text=self.driver.page_source)
 				property_urls = sel.xpath('.//*[@class="search_result_title_box"]/h2/a/@href').extract()
 				property_urls = ['https://www.daft.ie' + property_url for property_url in property_urls] 
+				for url in property_urls:
+					 yield Request(url, callback= self.parse_details)
 
 			except NoSuchElementException:   					   
 				self.logger.info('Last Page')
