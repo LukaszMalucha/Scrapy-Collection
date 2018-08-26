@@ -51,6 +51,6 @@ https://heroesofthestorm.com/en-us/
 ##### multi/
 http://quotes.toscrape.com/ | http://books.toscrape.com/
 
-#### 11. Daft Crawler (in progress)
+#### 11. Daft Crawler (Scrapy + Selenium)
 ##### daftcrawler
 https://www.daft.ie/
