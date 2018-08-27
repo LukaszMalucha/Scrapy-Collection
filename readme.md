@@ -52,7 +52,9 @@ https://heroesofthestorm.com/en-us/
 http://quotes.toscrape.com/ | http://books.toscrape.com/
 
 #### 11. Daft Crawler (Scrapy + Selenium)
-##### daftcrawler
+##### daftcrawler/
 https://www.daft.ie/
 
-#### 12. Irishjobs.ie Crawler (in progress)
+#### 12. Irishjobs.ie Crawler (Scrapy + Selenium)
+##### irishjobs/
+https://www.irishjobs.ie/
