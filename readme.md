@@ -55,4 +55,4 @@ http://quotes.toscrape.com/ | http://books.toscrape.com/
 ##### daftcrawler
 https://www.daft.ie/
 
-#### 12. Indeed Crawler (in progress)
+#### 12. Irishjobs.ie Crawler (in progress)
