@@ -54,3 +54,5 @@ http://quotes.toscrape.com/ | http://books.toscrape.com/
 #### 11. Daft Crawler (Scrapy + Selenium)
 ##### daftcrawler
 https://www.daft.ie/
+
+#### 12. Indeed Crawler (in progress)
