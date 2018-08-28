@@ -58,3 +58,7 @@ https://www.daft.ie/
 #### 12. Irishjobs.ie Crawler (Scrapy + Selenium)
 ##### irishjobs/
 https://www.irishjobs.ie/
+
+### 13. Property Price Crawler (Scrapy + Selenium)
+##### otodom/
+https://www.otodom.pl/
