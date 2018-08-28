@@ -1,0 +1,312 @@
+city,rank
+New York,1
+Los Angeles,2
+Chicago,3
+Houston,4
+Phoenix,5
+Philadelphia,6
+San Antonio,7
+San Diego,8
+Dallas,9
+San Jose,10
+Austin,11
+Jacksonville,12
+San Francisco,13
+Columbus,14
+Fort Worth,15
+Indianapolis,16
+Charlotte,17
+Seattle,18
+Denver,19
+Washington,20
+Boston,21
+El Paso,22
+Detroit,23
+Nashville,24
+Memphis,25
+Portland,26
+Oklahoma City,27
+Las Vegas,28
+Louisville,29
+Baltimore,30
+Milwaukee,31
+Albuquerque,32
+Tucson,33
+Fresno,34
+Sacramento,35
+Mesa,36
+Kansas City,37
+Atlanta,38
+Long Beach,39
+Omaha,40
+Raleigh,41
+Colorado Springs,42
+Miami,43
+Virginia Beach,44
+Oakland,45
+Minneapolis,46
+Tulsa,47
+Arlington,48
+New Orleans,49
+Wichita,50
+Cleveland,51
+Tampa,52
+Bakersfield,53
+Aurora,54
+Anaheim,55
+Honolulu,56
+Santa Ana,57
+Riverside,58
+Corpus Christi,59
+Lexington,60
+Stockton,61
+St. Louis,62
+Saint Paul,63
+Henderson,64
+Pittsburgh,65
+Cincinnati,66
+Anchorage,67
+Greensboro,68
+Plano,69
+Newark,70
+Lincoln,71
+Orlando,72
+Irvine,73
+Toledo,74
+Jersey City,75
+Chula Vista,76
+Durham,77
+Fort Wayne,78
+St. Petersburg,79
+Laredo,80
+Buffalo,81
+Madison,82
+Lubbock,83
+Chandler,84
+Scottsdale,85
+Reno,86
+Glendale,87
+Norfolk,88
+Winston–Salem,89
+North Las Vegas,90
+Gilbert,91
+Chesapeake,92
+Irving,93
+Hialeah,94
+Garland,95
+Fremont,96
+Richmond,97
+Boise,98
+Baton Rouge,99
+Des Moines,100
+Spokane,101
+San Bernardino,102
+Modesto,103
+Tacoma,104
+Fontana,105
+Santa Clarita,106
+Birmingham,107
+Oxnard,108
+Fayetteville,109
+Rochester,110
+Moreno Valley,111
+Glendale,112
+Yonkers,113
+Huntington Beach,114
+Aurora,115
+Salt Lake City,116
+Amarillo,117
+Montgomery,118
+Grand Rapids,119
+Little Rock,120
+Akron,121
+Augusta,122
+Huntsville,123
+Columbus,124
+Grand Prairie,125
+Shreveport,126
+Overland Park,127
+Tallahassee,128
+Mobile,129
+Port St. Lucie,130
+Knoxville,131
+Worcester,132
+Tempe,133
+Cape Coral,134
+Brownsville,135
+McKinney,136
+Providence,137
+Fort Lauderdale,138
+Newport News,139
+Chattanooga,140
+Rancho Cucamonga,141
+Frisco,142
+Sioux Falls,143
+Oceanside,144
+Ontario,145
+Vancouver,146
+Santa Rosa,147
+Garden Grove,148
+Elk Grove,149
+Pembroke Pines,150
+Salem,151
+Eugene,152
+Peoria,153
+Corona,154
+Springfield,155
+Jackson,156
+Cary,157
+Fort Collins,158
+Hayward,159
+Lancaster,160
+Alexandria,161
+Salinas,162
+Palmdale,163
+Lakewood,164
+Springfield,165
+Sunnyvale,166
+Hollywood,167
+Pasadena,168
+Clarksville,169
+Pomona,170
+Kansas City,171
+Macon,172
+Escondido,173
+Paterson,174
+Joliet,175
+Naperville,176
+Rockford,177
+Torrance,178
+Bridgeport,179
+Savannah,180
+Killeen,181
+Bellevue,182
+Mesquite,183
+Syracuse,184
+McAllen,185
+Pasadena,186
+Orange,187
+Fullerton,188
+Dayton,189
+Miramar,190
+Olathe,191
+Thornton,192
+Waco,193
+Murfreesboro,194
+Denton,195
+West Valley City,196
+Midland,197
+Carrollton,198
+Roseville,199
+Warren,200
+Charleston,201
+Hampton,202
+Surprise,203
+Columbia,204
+Coral Springs,205
+Visalia,206
+Sterling Heights,207
+Gainesville,208
+Cedar Rapids,209
+New Haven,210
+Stamford,211
+Elizabeth,212
+Concord,213
+Thousand Oaks,214
+Kent,215
+Santa Clara,216
+Simi Valley,217
+Lafayette,218
+Topeka,219
+Athens,220
+Round Rock,221
+Hartford,222
+Norman,223
+Victorville,224
+Fargo,225
+Berkeley,226
+Vallejo,227
+Abilene,228
+Columbia,229
+Ann Arbor,230
+Allentown,231
+Pearland,232
+Beaumont,233
+Wilmington,234
+Evansville,235
+Arvada,236
+Provo,237
+Independence,238
+Lansing,239
+Odessa,240
+Richardson,241
+Fairfield,242
+El Monte,243
+Rochester,244
+Clearwater,245
+Carlsbad,246
+Springfield,247
+Temecula,248
+West Jordan,249
+Costa Mesa,250
+Miami Gardens,251
+Cambridge,252
+College Station,253
+Murrieta,254
+Downey,255
+Peoria,256
+Westminster,257
+Elgin,258
+Antioch,259
+Palm Bay,260
+High Point,261
+Lowell,262
+Manchester,263
+Pueblo,264
+Gresham,265
+North Charleston,266
+Ventura,267
+Inglewood,268
+Pompano Beach,269
+Centennial,270
+West Palm Beach,271
+Everett,272
+Richmond,273
+Clovis,274
+Billings,275
+Waterbury,276
+Broken Arrow,277
+Lakeland,278
+West Covina,279
+Boulder,280
+Daly City,281
+Santa Maria,282
+Hillsboro,283
+Sandy Springs,284
+Norwalk,285
+Jurupa Valley,286
+Lewisville,287
+Greeley,288
+Davie,289
+Green Bay,290
+Tyler,291
+League City,292
+Burbank,293
+San Mateo,294
+Wichita Falls,295
+El Cajon,296
+Rialto,297
+Lakewood,298
+Edison,299
+Davenport,300
+South Bend,301
+Woodbridge,302
+Las Cruces,303
+Vista,304
+Renton,305
+Sparks,306
+Clinton,307
+Allen,308
+Tuscaloosa,309
+San Angelo,310
+Vacaville,311
