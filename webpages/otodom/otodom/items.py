@@ -14,3 +14,4 @@ class OtodomItem(scrapy.Item):
 	area = scrapy.Field()
 	rooms = scrapy.Field()
 	level = scrapy.Field()
+	url = scrapy.Field()

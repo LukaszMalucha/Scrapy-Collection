@@ -59,6 +59,6 @@ https://www.daft.ie/
 ##### irishjobs/
 https://www.irishjobs.ie/
 
-### 13. Property Price Crawler (Scrapy + Selenium, in progress)
+### 13. Property Price Crawler (Scrapy + Selenium)
 ##### otodom/
 https://www.otodom.pl/
