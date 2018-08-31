@@ -52,7 +52,7 @@ https://heroesofthestorm.com/en-us/
 http://quotes.toscrape.com/ | http://books.toscrape.com/
 
 #### 11. Daft Crawler (Scrapy + Selenium)
-##### daftcrawler/
+##### daftcrawler(rent)/
 https://www.daft.ie/
 
 #### 12. Irishjobs.ie Crawler (Scrapy + Selenium)
@@ -62,3 +62,7 @@ https://www.irishjobs.ie/
 ### 13. Property Price Crawler (Scrapy + Selenium)
 ##### otodom/
 https://www.otodom.pl/
+
+### 14. Irish cities property market (Scrapy + Selenium)
+##### daftcrawler(sale)/
+https://www.daft.ie/
