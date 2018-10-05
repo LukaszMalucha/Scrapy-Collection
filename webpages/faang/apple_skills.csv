@@ -1,0 +1,641 @@
+skill_sets,top_skills
+,
+"[{'\n  Industry Knowledge': ['Research', 'Mathematics', 'Event Planning', 'Event Management', 'Technical Writing', 'Drums']}, {'\n  Tools & Technologies': ['Microsoft Excel', 'PowerPoint', 'R', 'Microsoft Word', 'SPSS', 'SAS', 'Windows', 'HTML', 'Outlook']}, {'\n  Interpersonal Skills': ['Teamwork', 'Customer Service', 'Public Speaking', 'Time Management', 'Team Leadership', 'Teaching']}, {'\n  Languages': ['English', 'French']}, {'\n  Other Skills': ['Orchestral Percussion', 'Alto Saxophone', 'Fluent English', 'fluent sign language', 'Social Networking', 'fluent irish']}]","Statistics,Data Analysis,Microsoft Office"
+,
+"[{'\n  Industry Knowledge': ['Statistics', 'Mathematical Modeling', 'Data Analysis', 'Algorithms', 'Research', 'Physics', 'Characterization', 'Financial Modeling']}, {'\n  Tools & Technologies': ['Matlab', 'C++', 'Mathematica', 'MySQL', 'C', 'Perl', 'JavaScript']}, {'\n  Interpersonal Skills': ['Teaching', 'Team Leadership']}, {'\n  Other Skills': ['Condensed Matter Physics', 'Experimental Physics', 'AFM', 'Data Analytics', 'Cryogenics', 'Theoretical Physics', 'Time Series Analysis', 'Vacuum Chambers', 'Algorithm Design', 'Friendliness']}]","Machine Learning,Python,R"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Statistical Modeling', 'Business Planning', 'Data Modeling', 'Statistical Data Analysis', 'Forecasting', 'Data Management', 'Creative Writing', 'Consulting', 'Marketing', 'Market Research', 'Data Analysis', 'Entrepreneurship']}, {'\n  Tools & Technologies': ['Matlab', 'Amazon Web Services (AWS)', 'MongoDB', 'Tableau', 'Microsoft Excel', 'SQL', 'Hadoop']}, {'\n  Other Skills': ['Applied Regression', 'Predictive Analytics', 'Spotfire', 'Exploratory Data Analysis', 'Statistical Inference', 'Data Science', 'ANOVA', 'Data Strategies', 'Hive', 'Looker', 'Fraud Detection']}]","Analytics,Python,R"
+,
+"[{'\n  Industry Knowledge': ['Data Mining', 'Programming', 'Artificial Intelligence', 'Computer Science', 'Data Analysis', 'Research', 'Computer Vision', 'Statistics', 'Distributed Systems', 'Optimization', 'Signal Processing', 'Software Engineering', 'Software Development']}, {'\n  Tools & Technologies': ['Matlab', 'LaTeX', 'C++', 'Java', 'C', 'Python', 'HTML']}, {'\n  Other Skills': ['Pattern Recognition', 'Information Retrieval', 'Apache Spark']}]","Algorithms,R,Machine Learning"
+,
+"[{'\n  Industry Knowledge': ['Market Research', 'Analytics', 'Business Strategy']}, {'\n  Tools & Technologies': ['Microsoft Office', 'SQL', 'R', 'AutoCAD']}, {'\n  Interpersonal Skills': ['Team Management', 'Team Leadership', 'Management']}, {'\n  Other Skills': ['Decision Sciences', 'Data Analytics']}]","Data Analysis,Business Analysis,Microsoft Excel"
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Data Mining', 'Machine Learning', 'SAS programming', 'Analytics', 'Mathematical Modeling', 'Shell Scripting']}, {'\n  Tools & Technologies': ['SAS', 'Matlab', 'Python', 'SQL', 'SPSS', 'Hadoop', 'Scala']}, {'\n  Other Skills': ['Logistic Regression', 'Time Series Analysis', 'MapReduce', 'Survival Analysis', 'Support Vector Machines', 'Octave', 'Apache Pig', 'Hive', 'Spark', 'R studio - Shiny']}]","R,Statistics,Statistical Modeling"
+,
+"[{'\n  Industry Knowledge': ['Database Marketing', 'Statistical Modeling', 'Big Data', 'Business Analytics', 'Data Analysis', 'Machine Learning', 'Modeling', 'Segmentation', 'Optimization', 'Program Management', 'Management Consulting', 'Optimizations']}, {'\n  Tools & Technologies': ['SAS', 'Databases', 'R', 'Unix', 'Linux', 'SQL']}, {'\n  Interpersonal Skills': ['Management']}, {'\n  Other Skills': ['Communications Audits', 'analytics, statistics, data mining, optimization']}]","Analytics,Data Mining,Statistics"
+,
+"[{'\n  Industry Knowledge': ['Analysis', 'Business Analysis', 'Web Analytics', 'Business Intelligence', 'Data Mining', 'Strategy', 'Business Analytics', 'Process Improvement', 'Big Data', 'Segmentation', 'Statistical Modeling', 'CRM', 'Business Strategy', 'SAS Programming']}, {'\n  Tools & Technologies': ['SQL', 'Tableau', 'VBA', 'SAS', 'R']}, {'\n  Interpersonal Skills': ['Management', 'Team Management']}, {'\n  Other Skills': ['Predictive Modeling', 'Teradata', 'Logistic Regression', 'Marketing Analytics', 'Spotfire', 'Customer Analysis', 'A/B testing']}]","Analytics,Predictive Analytics,Data Analysis"
+,
+"[{'\n  Industry Knowledge': ['Programming', 'Algorithms', 'Data Structures', 'Analysis', 'Business Analysis']}, {'\n  Tools & Technologies': ['MySQL', 'Python', 'R', 'C', 'C++', 'Java', 'SQL', 'Matlab', 'Microsoft Excel', 'Tableau', 'Oracle Database', 'Oracle SQL Developer']}, {'\n  Other Skills': ['Teradata', 'Gephi', 'CBR', 'Apache Spark', 'Data Science']}]","Data Mining,Data Analysis,Hive"
+,
+"[{'\n  Industry Knowledge': ['Machine Learning', 'Data Visualization', 'Email Marketing', 'Data Analysis', 'Quantitative Analytics', 'Data Mining']}, {'\n  Tools & Technologies': ['Python', 'Matlab', 'SPSS', 'Stata', 'Fortran 90', 'SAS', 'LaTeX', 'C++', 'Jenkins', 'Excel', 'Tableau']}, {'\n  Other Skills': ['A/B Testing', 'Predictive Modeling', 'Statistical Consulting', 'Time Series Analysis', 'Experimental Design', 'Bayesian statistics', 'Statistical Programming', 'Linear Regression', 'Monte Carlo Simulation', 'Statistical Computing', 'Applied Mathematics', 'Probability']}]","R,Statistics,SQL"
+,
+"[{'\n  Industry Knowledge': ['Machine Learning', 'Statistical Analysis', 'Advanced Analytics']}, {'\n  Tools & Technologies': ['SAS', 'SQL', 'Java', 'C']}, {'\n  Other Skills': ['Natural Language Processing', 'Predictive Modeling']}]","Data Mining,Python,R"
+,
+"[{'\n  Industry Knowledge': ['Quality Assurance', 'Object Oriented Design', 'Software Development', 'OOP', 'System Testing', 'Software Design', 'Object-Oriented Programming (OOP)']}, {'\n  Tools & Technologies': ['Java', 'C++', 'Eclipse', 'Microsoft Office', 'JavaScript', 'Visual Studio', 'HTML', 'Bash', 'Microsoft Excel', 'PowerPoint', 'Microsoft SQL Server', 'Python']}, {'\n  Other Skills': ['Works well in a team', 'Spark', 'Apache Spark']}]","SQL,C#,C"
+,
+"[{'\n  Industry Knowledge': ['Machine Learning', 'SAS Programming', 'Statistics', 'Data Analysis', 'Research', 'Analysis', 'Mathematics', 'Financial Analysis', 'Risk Management', 'Analytical Skills']}, {'\n  Tools & Technologies': ['Microsoft Excel', 'PowerPoint', 'Microsoft Office', 'Microsoft Word', 'C++', 'MySQL', 'LaTeX', 'SAS', 'Microsoft PowerPoint']}, {'\n  Interpersonal Skills': ['Public Speaking', 'Teamwork']}, {'\n  Other Skills': []}]","Python,R,SQL"
+,
+"[{'\n  Industry Knowledge': ['Research', 'Machine Learning', 'Econometrics', 'Strategic Planning', 'Actuarial Science', 'Policy', 'Event Management', 'Business Strategy', 'Entrepreneurship', 'Policy Analysis', 'Strategy', 'Program Management', 'Project Management', 'Project Planning', 'Management Consulting', 'Social Media', 'Business Planning', 'Market Research', 'Business Development', 'Business Analysis', 'Government', 'Statistics']}, {'\n  Tools & Technologies': ['R', 'Python', 'Stata', 'VBA for Excel', 'Microsoft Excel', 'Scala', 'Microsoft Azure']}, {'\n  Interpersonal Skills': ['Management', 'Leadership', 'Teamwork', 'Team Leadership', 'Team Management']}, {'\n  Languages': ['English']}, {'\n  Other Skills': ['Time Series Analysis', 'Data Science', 'Deep Learning', 'R-Shiny', 'Social Networking', 'Regression Analysis', 'JMP']}]","Economics,Analysis,Data Analysis"
+,
+"[{'\n  Industry Knowledge': ['Statistical Modeling', 'Circuit Design', 'PCB design', 'Power Electronics', 'PCB Design', 'Simulations']}, {'\n  Tools & Technologies': ['Python', 'SQL', 'R', 'ANSYS', 'C and C++', 'Microsoft Office']}, {'\n  Other Skills': ['Battery Management', 'Batteries', 'Battery Design Studio', 'Star-CCM+', 'Altium Designer', 'Electric Vehicles']}]","Matlab,Machine Learning,Data Analysis"
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Modeling', 'Statistics']}, {'\n  Tools & Technologies': ['C++', 'Hadoop', 'NoSQL', 'SQL']}, {'\n  Other Skills': ['Deep Learning', 'Natural Language Processing', 'Bayesian statistics', 'Regression Models']}]","Python,R,Machine Learning"
+,
+"[{'\n  Industry Knowledge': ['Data Structures', 'Business Strategy', 'Software Development', 'Data Analysis', 'Analytics', 'Strategy', 'Business Intelligence', 'Requirements Analysis', 'Data Mining', 'Algorithms', 'Big Data', 'Data Modeling']}, {'\n  Tools & Technologies': ['Core Java', 'SQL', 'Linux', 'Unix', 'JavaScript', 'Python', 'JSP', 'PL/SQL', 'Hadoop', 'Microsoft Office', 'Servlets', 'Java Enterprise Edition']}, {'\n  Interpersonal Skills': ['Management']}]","C,Java,C++"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Big Data', 'Data Mining', 'Machine Learning']}, {'\n  Tools & Technologies': ['Python', 'Java', 'Hadoop']}, {'\n  Other Skills': []}]","Software Development,LiDAR,Algorithms"
+,
+"[{'\n  Industry Knowledge': ['Statistical Data Analysis', 'Data Analysis', 'Data Mining']}, {'\n  Tools & Technologies': ['SQL', 'MySQL', 'NoSQL']}, {'\n  Other Skills': ['Apache Spark', 'Hive', 'Big Data Analysis', 'Statistical Consulting']}]","R,Python,Data Visualization"
+,
+"[{'\n  Industry Knowledge': ['Solution Architecture', 'Machine Learning', 'Business Analytics', 'Data Analysis', 'Algorithms', 'Mathematical Modeling', 'Data Visualization', 'Data Mining', 'Numerical Analysis', 'Statistical Data Analysis', 'Optics', 'Performance Optimization', 'R&D', 'Signal Processing', 'Physics', 'Spectroscopy']}, {'\n  Tools & Technologies': ['Python', 'SQL', 'NoSQL', 'Amazon Web Services (AWS)', 'Hadoop', 'Tableau', 'JSON', 'Matlab', 'Mathematica', 'R', 'AutoCAD', 'Linux', 'JavaScript', 'LaTeX']}, {'\n  Interpersonal Skills': ['People Skills']}, {'\n  Other Skills': ['Data Engineering', 'MapReduce', 'Scientific Computing', 'Data Acquisition', 'Apache Pig', 'IDL', 'Numerical Simulation', 'Parallel Computing', 'Optical Imaging', 'Multivariate Analysis', 'Octave', 'Vacuum Technology', 'Time Series Analysis', 'Recommender Systems', 'Experimental Physics', 'Plasma Physics']}]","Big Data,Data Science,Data Architecture"
+,
+"[{'\n  Industry Knowledge': ['Statistics', 'Bioinformatics', 'Computer Science', 'Research', 'Software Development', 'Shell Scripting', 'Data Analysis', 'Data Mining', 'Artificial Intelligence', 'Programming']}, {'\n  Tools & Technologies': ['Python', 'Perl', 'Matlab', 'C', 'Java', 'R', 'Linux', 'Unix', 'C++', 'SQL']}, {'\n  Other Skills': ['Apache Spark', 'Drug Design', 'Computational Modeling', 'Pattern Recognition', 'Computational Biology', 'Data Science']}]","Machine Learning,Algorithms,Hadoop"
+,
+"[{'\n  Industry Knowledge': ['Algorithms', 'Distributed Systems', 'Computer Science', 'Data Analysis', 'Artificial Intelligence', 'Statistical Modeling', 'Statistics']}, {'\n  Tools & Technologies': ['Java', 'C++', 'Hadoop', 'MySQL', 'Matlab', 'SQL', 'LaTeX', 'PL/SQL', 'R', 'C', 'Oracle', 'Microsoft Excel', 'Microsoft Office', 'Tableau']}, {'\n  Other Skills': ['Natural Language Processing', 'Information Retrieval', 'Text Mining', 'Deep Learning', 'Hive']}]","Machine Learning,Python,Data Mining"
+,
+"[{'\n  Industry Knowledge': ['Machine Learning', 'Artificial Intelligence', 'Data Mining', 'Big Data', 'Algorithms', 'Credit Risk Modeling', 'Analytics', 'Statistical Modeling', 'Mathematical Modeling']}, {'\n  Tools & Technologies': ['R', 'Scala', 'Hadoop', 'SQL', 'SAS', 'TensorFlow']}, {'\n  Other Skills': ['Deep Learning', 'Data Science', 'Fraud Detection', 'Predictive Modeling', 'Logistic Regression', 'Time Series Analysis', 'Decision Trees', 'Model Validation', 'MapReduce', 'Big Data Analytics', 'Hive']}]","Apache Spark,Java,Python"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Analysis', 'Computer Science', 'Mathematics', 'Research', 'Machine Learning', 'Data Analysis', 'Economics', 'Financial Markets', 'Investments', 'Social Media', 'IT Strategy', 'Foreign Languages', 'Finance', 'Art History']}, {'\n  Tools & Technologies': ['SQL', 'Python', 'Microsoft Office', 'Microsoft Excel', 'Matlab', 'C', 'Stata', 'Objective-C']}, {'\n  Interpersonal Skills': ['Public Speaking']}, {'\n  Other Skills': ['Dynamic Programming', 'Big Data Analytics']}]","Java,Databases,Leadership"
+,
+"[{'\n  Industry Knowledge': []}, {'\n  Tools & Technologies': []}, {'\n  Other Skills': []}]",
+,
+"[{'\n  Industry Knowledge': ['Statistics', 'Algorithms', 'Data Mining', 'Programming', 'Web Applications', 'Research']}, {'\n  Tools & Technologies': ['SQL', 'Git', 'C++', 'Github', 'LaTeX', 'Mathematica', 'Bash', 'JavaScript', 'Linux']}, {'\n  Other Skills': ['NumPy', 'Matplotlib', 'Parallel Programming', 'CUDA']}]","Python,Data Analysis,Machine Learning"
+,
+"[{'\n  Industry Knowledge': ['Project Management', 'Business Analysis', 'Data Analysis', 'Web Analytics', 'Business Analytics', 'Graphic Design', 'Customer Insight', 'Segmentation', 'Statistical Data Analysis', 'SAS Programming', 'Quantitative Analytics']}, {'\n  Tools & Technologies': ['Microsoft Excel', 'Business Objects', 'SQL', 'Python', 'Tableau', 'SPSS', 'HTML', 'ArcGIS', 'PHP']}, {'\n  Interpersonal Skills': ['Cross-functional Team Leadership', 'Management']}, {'\n  Other Skills': ['Visualization', 'Geomarketing', 'Decision Support', 'Decision Analysis', 'Teradata SQL', 'KXEN', 'Pentaho', 'ETL Tools', 'Decision Trees', 'Analytique', 'Informatique décisionnelle', 'Exploration des données', 'Analyste commercial', ""Leadership d'équipe multifonctionnelle"", 'Analyses', 'Stratégie marketing', 'Gestion de projet', 'Stratégie', 'Base de données', 'Stratégie commerciale']}]","CRM,Data Mining,Business Intelligence"
+,
+"[{'\n  Industry Knowledge': ['Data Mining', 'Statistics', 'Data Analysis', 'Shell Scripting']}, {'\n  Tools & Technologies': ['SAS', 'Matlab', 'LaTeX', 'Github']}, {'\n  Interpersonal Skills': ['Teaching']}, {'\n  Other Skills': ['Survival Analysis', 'Logistic Regression', 'SAS E-Miner', 'Experimental Design', 'Monte Carlo Simulation']}]","R,Python,Statistical Modeling"
+,
+"[{'\n  Industry Knowledge': ['Business Intelligence', 'Data Modeling', 'Shell Scripting', 'Reporting & Analysis', 'Requirements Analysis', 'Analytics', 'Data Warehousing', 'Extract, Transform, Load (ETL)']}, {'\n  Tools & Technologies': ['R', 'Hadoop', 'JavaScript', 'Databases']}, {'\n  Other Skills': ['Text Mining', 'Data Engineering', 'Apache Spark', 'Apache Pig', 'Alteryx', 'Hive', 'Sqoop', 'Dashboarding', 'Unstructured Data', 'Predictive Analytics']}]","SQL,Python,Machine Learning"
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Mathematics', 'Big Data', 'Research', 'Statistics', 'Programming', 'Algorithms']}, {'\n  Tools & Technologies': ['Linux', 'Microsoft Excel', 'Microsoft Office', 'Microsoft Word']}, {'\n  Interpersonal Skills': ['Leadership', 'Public Speaking', 'Customer Service', 'Teaching']}]","Python,Machine Learning,Mathematical Modeling"
+,
+"[{'\n  Industry Knowledge': ['Geophysics', 'Signal Processing', 'Electronics', 'Mechanical Engineering', 'Robotics', 'Earth Science', 'Numerical Analysis', 'Algorithms', 'Energy', 'Data Analysis', 'Machine Learning', 'CAD', 'Artificial Intelligence', 'Project Management', 'Data Mining', 'Statistics', 'Data Structures', 'Object Oriented Design', 'Cloud Computing']}, {'\n  Tools & Technologies': ['Python', 'LaTeX', 'Microsoft Office', 'Linux', 'C', 'Labview', 'SQL', 'Java', 'AutoCAD', 'Hadoop', 'R', 'ArcGIS', 'Perl']}, {'\n  Other Skills': ['Fluid Dynamics', 'Seismology', 'Seismic Imaging', 'Logistic Regression', 'Linear Regression']}]","Matlab,Engineering,Simulations"
+,
+"[{'\n  Industry Knowledge': ['Research', 'Simulations', 'Machine Learning', 'Algorithms', 'Image Processing', 'Programming', 'Optimization', 'Statistics', 'Data Analysis']}, {'\n  Tools & Technologies': ['Simulink', 'C++', 'Microsoft Office', 'Python', 'Java', 'Microsoft Excel', 'SQL']}, {'\n  Interpersonal Skills': []}, {'\n  Other Skills': []}]","Matlab,Signal Processing,LaTeX"
+,
+"[{'\n  Industry Knowledge': ['Computer Vision', 'Algorithms', 'Computer Science', 'Programming', 'Data Structures', 'Artificial Intelligence', 'Image Processing']}, {'\n  Tools & Technologies': ['Python', 'C++', 'C', 'OpenGL', 'HTML', 'Java', 'Linux']}, {'\n  Other Skills': ['Pattern Recognition']}]","Search Engine Ranking,Machine Learning,Spark"
+,
+"[{'\n  Industry Knowledge': ['Quantitative Analytics', 'Data Modeling', 'Financial Risk', 'Risk Management', 'Enterprise Risk Management', 'Financial Modeling', 'Business Intelligence', 'Strategy', 'ETL', 'Financial Analysis', 'Data Visualization', 'Actuarial Science', 'Investment Management', 'Process Improvement', 'Analysis', 'Consulting']}, {'\n  Tools & Technologies': ['SQL', 'Tableau', 'VBA', 'Databases']}, {'\n  Interpersonal Skills': ['Management']}, {'\n  Other Skills': ['Apache Pig', 'MicroStrategy', 'Data Stewardship', 'Data Quality']}]","Business Analysis,Data Analysis,Analytics"
+,
+"[{'\n  Industry Knowledge': ['Machine Learning', 'Data Mining', 'Algorithms', 'Research', 'Computer Vision', 'Mathematical Modeling', 'Optics', 'Human Factors', 'Technical Writing', 'Simulations', 'Research Design']}, {'\n  Tools & Technologies': ['Python', 'R', 'Matlab', 'C++', 'LaTeX', 'OpenGL', 'Mathematica']}, {'\n  Interpersonal Skills': ['Public Speaking']}, {'\n  Other Skills': ['Experimental Design', 'Bayesian statistics']}]","Statistics,Data Analysis,Programming"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Statistics', 'Statistical Modeling', 'Econometrics', 'Machine Learning', 'Analysis', 'Data Visualization', 'Quantitative Analytics', 'Web Development']}, {'\n  Tools & Technologies': ['SAS', 'Python', 'Git', 'LaTeX', 'JavaScript', 'Microsoft Excel', 'Tableau', 'D3']}, {'\n  Other Skills': ['Time Series Analysis', 'RStudio', 'Cake Decorating', 'Predictive Modeling', 'Essential Oils', 'Gephi', 'Customer Analysis', 'Marketing Analytics', 'Imagination']}]","Data Mining,R,Data Analysis"
+,
+"[{'\n  Industry Knowledge': ['Data Visualization']}, {'\n  Tools & Technologies': ['ArcGIS', 'LaTeX', 'Tableau', 'SAS', 'Microsoft Excel']}, {'\n  Interpersonal Skills': ['Teaching']}, {'\n  Other Skills': ['Linear Algebra', 'Membership Recruitment', 'R Markdown']}]","Statistics,Data Analysis,R"
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Business Strategy', 'HR Policies', 'Analysis', 'Market Research', 'Analytical Skills', 'Recruiting', 'CRM', 'Business Development', 'Deferred Compensation']}, {'\n  Tools & Technologies': ['Microsoft Office', 'SQL', 'Microsoft Excel', 'MS Excel', 'MS Office', 'SAS']}, {'\n  Interpersonal Skills': ['Employee Relations', 'Personnel Management', 'Management', 'Organizational Development', 'Leadership', 'Team Management', 'Training', 'Interviews', 'Team Building', 'Employee Engagement', 'Performance Appraisal', 'Leadership Development']}, {'\n  Other Skills': ['Predictive Analytics', 'Data Science', 'Talent Acquisition']}]","Performance Management,Talent Management,Human Resources"
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Business Intelligence', 'Six Sigma', 'Industrial Engineering', 'Operations Research', 'Continuous Improvement', 'Analytics', 'Business Requirements', 'Requirements Analysis', 'Statistics', 'Forecasting']}, {'\n  Tools & Technologies': ['Python', 'Java', 'C++', 'Microsoft Excel', 'SQL', 'MS Excel', 'SAP', 'PowerPoint']}, {'\n  Interpersonal Skills': ['Leadership']}, {'\n  Other Skills': ['Apache Spark', 'Performance Dashboards', 'Web Intelligence']}]","Data Science,Machine Learning,R"
+,
+"[{'\n  Industry Knowledge': ['Statistical Data Analysis', 'Machine Learning', 'Data Analysis', 'Science', 'Research']}, {'\n  Tools & Technologies': ['Python', 'SQL', 'Matlab']}, {'\n  Interpersonal Skills': ['Teaching']}, {'\n  Other Skills': ['Multivariate Statistics', 'Time Series Analysis', 'multilevel modeling']}]","R,Experimental Design,Statistics"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Mathematical Modeling', 'Data Visualization', 'Signal Processing', 'Computer Science', 'Neuroscience', 'Scientific Writing', 'Simulations', 'Science', 'Algorithms', 'Programming']}, {'\n  Tools & Technologies': ['Matlab', 'Java', 'LaTeX', 'Linux', 'Bash', 'JavaScript', 'Mathematica']}, {'\n  Other Skills': ['Parallel Computing', 'Deep Learning', 'NumPy', 'Computational Neuroscience', 'Scientific Computing', 'SciPy', 'Matplotlib', 'Fourier Analysis', 'Time Series Analysis', 'Biophysics']}]","Python,Data Analysis,Machine Learning"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Machine Learning', 'Statistics', 'Data Mining', 'Data Analysis', 'Image Processing']}, {'\n  Tools & Technologies': ['Pandas', 'SQL', 'C++', 'NoSQL', 'LaTeX', 'D3.js', 'Amazon Web Services (AWS)']}, {'\n  Interpersonal Skills': ['Public Speaking']}, {'\n  Other Skills': ['NumPy', 'Linear Algebra', 'ggplot2', 'RMarkdown', 'Fourier Analysis', 'Abstract Algebra', 'Time Series Analysis', 'matplotlib', 'Deep Learning', 'Neural Networks', 'Data Science', 'Scikit-Learn']}]","Python,R,SciPy"
+,
+"[{'\n  Industry Knowledge': ['Mathematics', 'Software Engineering', 'Software Development', 'Technical Translation', 'Localization', 'Debugging', 'Programming', 'Shell Scripting', 'Translation', 'Software Design', 'Scalability', 'Data Structures']}, {'\n  Tools & Technologies': ['C', 'Python', 'iOS', 'OS X', 'Operating Systems', 'Xcode', 'Bash', 'Unix', 'Subversion', 'Mac OS X', 'Ruby']}, {'\n  Interpersonal Skills': []}, {'\n  Other Skills': ['Internationalization', 'Localization Testing', 'Globalization', 'Mac OS', 'Unix Shell Scripting']}]","Algorithms,Mathematics,Software Engineering"
+,
+"[{'\n  Industry Knowledge': []}, {'\n  Tools & Technologies': []}, {'\n  Other Skills': []}]",Software Development
+,
+"[{'\n  Industry Knowledge': []}, {'\n  Tools & Technologies': ['Databases']}, {'\n  Interpersonal Skills': []}, {'\n  Other Skills': ['Data ']}]","Data Science,Statistical Data Analysis,Machine Learning"
+,
+,
+,
+"[{'\n  Industry Knowledge': []}, {'\n  Tools & Technologies': []}, {'\n  Interpersonal Skills': []}, {'\n  Other Skills': []}]",
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Machine Learning', 'Big Data']}, {'\n  Tools & Technologies': ['Python']}, {'\n  Other Skills': ['Information Extraction', 'Knowledge Discovery', 'Information Retrieval', 'Knowledge Representation']}]","Text Mining,Semantic Web,Natural Language Processing"
+,
+"[{'\n  Industry Knowledge': ['Data Mining', 'Signal Processing', 'Image Processing', 'Data Analysis', 'Artificial Intelligence']}, {'\n  Tools & Technologies': ['R', 'Python', 'SQL']}, {'\n  Other Skills': ['Bayesian statistics', 'Apache Pig', 'Hive']}]","Machine Learning,LaTeX,Matlab"
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Economics', 'Data Mining', 'Econometrics', 'Analysis', 'Statistics', 'Macroeconomics', 'Mathematical Modeling', 'Higher Education', 'Research']}, {'\n  Tools & Technologies': ['SQL', 'VBA', 'LaTeX', 'Stata', 'Matlab']}, {'\n  Other Skills': ['Microeconomics']}]","R,Python,Predictive Modeling"
+,
+"[{'\n  Industry Knowledge': ['Algorithms', 'Research', 'Machine Learning', 'Statistics', 'Data Visualization']}, {'\n  Tools & Technologies': ['R', 'Matlab', 'SQL']}, {'\n  Interpersonal Skills': ['Teaching']}, {'\n  Other Skills': ['Data Science']}]","Probability Theory,Data Analysis,Python"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Requirements Analysis', 'ETL', 'Data Modeling', 'Business Intelligence', 'Integration', 'Software Development', 'User Acceptance Testing', 'Solution Architecture', 'Software Project Management', 'Shell Scripting', 'Data Migration', 'Testing', 'Data Analysis', 'SDLC', 'Business Analysis', 'Agile Methodologies', 'Extract, Transform, Load (ETL)']}, {'\n  Tools & Technologies': ['Unix', 'SQL', 'Databases', 'PL/SQL', 'Oracle', 'Business Objects', 'Cognos', 'SAP BusinessObjects']}, {'\n  Other Skills': ['Teradata', 'Unix Shell Scripting']}]","Data Warehousing,Informatica,Tableau"
+,
+"[{'\n  Industry Knowledge': ['Machine Learning', 'Data Mining', 'Bioinformatics', 'Statistics', 'Data Analysis', 'Optimization', 'Research', 'Programming', 'Data Warehousing', 'Distributed Systems', 'Shell Scripting']}, {'\n  Tools & Technologies': ['C', 'C++', 'R', 'Perl', 'Java', 'LaTeX', 'Linux', 'LAMP', 'SQL']}, {'\n  Other Skills': ['Computational Biology']}]","Matlab,Python,Algorithms"
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Artificial Intelligence', 'Big Data', 'Physics', 'Sustainable Development', 'Chemical Engineering']}, {'\n  Tools & Technologies': ['R', 'Matlab', 'SQL']}, {'\n  Interpersonal Skills': ['Team Leadership', 'Creative Problem Solving', 'Teamwork']}, {'\n  Languages': ['English', 'Russian']}, {'\n  Other Skills': ['Social Responsibility', 'Kazakh', 'Turkish', 'Professional Responsibility']}]","Python,Data Science,Machine Learning"
+,
+"[{'\n  Industry Knowledge': ['Failure Analysis', 'Mechanical Engineering', 'Reliability', 'Simulations', 'Statistics', 'Engineering', 'Modeling', 'Design of Experiments', 'Scanning Electron Microscopy', 'Materials Science', 'Data Analysis', 'Characterization']}, {'\n  Tools & Technologies': ['Matlab', 'Labview', 'SQL', 'LabVIEW']}, {'\n  Interpersonal Skills': ['Leadership']}, {'\n  Other Skills': ['Apache Spark', 'Reliability Engineering', 'Modern Dance', 'Electronics Packaging', 'Predictive Analytics']}]","Data Science,Machine Learning,Python"
+,
+"[{'\n  Industry Knowledge': ['Project Management', 'Research', 'Data Analysis', 'Machine Learning', 'Statistics']}, {'\n  Tools & Technologies': ['Matlab', 'Microsoft Excel', 'Microsoft PowerPoint', 'Tableau', 'TensorFlow']}, {'\n  Interpersonal Skills': ['Public Speaking', 'Teaching']}, {'\n  Other Skills': ['Data Scientist']}]","R,Python,C++"
+,
+"[{'\n  Industry Knowledge': ['Statistical Data Analysis', 'Statistics', 'Data Analysis', 'Scientific Writing', 'Molecular Cloning', 'Microscopy']}, {'\n  Tools & Technologies': ['SPSS', 'Microsoft Office']}, {'\n  Interpersonal Skills': ['University Teaching', 'Presentations']}, {'\n  Other Skills': ['General Linear Models', 'Multivariate Statistics', 'Regression Models', 'JMP', 'Cognitive fitness']}]","Genetics,Molecular Biology,PCR"
+,
+"[{'\n  Industry Knowledge': ['Algorithms', 'Statistics', 'Operations Research', 'Optimization', 'Mathematical Modeling', 'Data Mining', 'Data Analysis', 'Bioinformatics', 'Big Data', 'Financial Modeling', 'Analytics', 'Econometrics']}, {'\n  Tools & Technologies': ['Matlab', 'Python', 'C', 'SAS', 'Hadoop']}, {'\n  Other Skills': ['Predictive Modeling', 'Time Series Analysis', 'Bayesian statistics', 'Quantitative Finance', 'Applied Mathematics', 'Predictive Analytics', 'Text Mining', 'Financial Mathematics', 'Hive', 'Algorithm Design']}]","R,Machine Learning,Statistical Modeling"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Econometrics', 'Data Analysis', 'Statistics', 'Data Mining', 'Quantitative Analytics', 'Report Writing']}, {'\n  Tools & Technologies': ['Matlab', 'Stata', 'SPSS', 'Python', 'SQL', 'Linux', 'Microsoft Excel', 'Excel', 'DB2']}, {'\n  Other Skills': ['Linear Regression', 'Time Series Analysis', 'SSH Client', 'Marketing Analytics', 'Logistic Regression']}]","R,SAS,Statistical Modeling"
+,
+"[{'\n  Industry Knowledge': ['Algorithms', 'Big Data', 'Machine Learning', 'Software Engineering', 'Computer Science', 'Scalability']}, {'\n  Tools & Technologies': ['Perl']}, {'\n  Other Skills': ['Information Retrieval']}]","Hadoop,Distributed Systems,MapReduce"
+,
+"[{'\n  Industry Knowledge': ['Machine Learning', 'Image Processing', 'Numerical Analysis', 'Simulations', 'Mathematical Modeling', 'Data Analysis']}, {'\n  Tools & Technologies': ['Python', 'Linux', 'LaTeX', 'Mathematica', 'SQL', 'Matlab', 'Microsoft Office', 'C', 'C++', 'Fortran', 'Scala', 'Git', 'D3.js']}, {'\n  Other Skills': ['Scientific Computing', 'Apache Spark', 'Data Science', 'Large-scale Data Analysis', 'IDL programming', 'Cloudera', 'Cloudera Impala']}]","Physics,Astrophysics,Research"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Statistics', 'Data Analysis', 'Data Mining', 'Machine Learning', 'Statistical Modeling']}, {'\n  Tools & Technologies': ['Matlab', 'LaTeX']}, {'\n  Other Skills': ['Time Series Analysis']}]","R,SAS,Python"
+,
+"[{'\n  Industry Knowledge': ['Research', 'Machine Learning', 'Quantitative Analytics', 'Statistics', 'Data Visualization', 'Financial Analysis', 'Corporate Finance', 'Valuation', 'Statistical Modeling']}, {'\n  Tools & Technologies': ['R', 'SQL', 'Stata', 'Python', 'VBA', 'PowerPoint']}, {'\n  Languages': ['Mandarin', 'English']}]","Data Analysis,Financial Modeling,Economics"
+,
+,
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Research', 'Algorithms', 'Simulations']}, {'\n  Tools & Technologies': ['C++', 'Microsoft Office', 'LaTeX']}]","Matlab,Python,C"
+,
+"[{'\n  Industry Knowledge': ['Big Data', 'Algorithms', 'Cloud Computing', 'Data Visualization', 'Statistical Modeling', 'Artificial Intelligence']}, {'\n  Tools & Technologies': ['Python', 'Hadoop', 'Java', 'SQL', 'C++', 'C', 'Matlab']}, {'\n  Other Skills': ['Crowdsourcing', 'Natural Language Processing', 'Semantic Web', 'Information Extraction', 'MapReduce', 'Recommender Systems', 'Social Network Analysis', 'Search Engines', 'Information Visualization', 'recommendation']}]","Machine Learning,Data Mining,Information Retrieval"
+,
+"[{'\n  Industry Knowledge': ['Software Project Management', 'Software Development', 'Enterprise Architecture', 'SOA', 'Requirements Analysis', 'Agile Methodologies', 'Web Services', 'Integration']}, {'\n  Tools & Technologies': ['XML', 'Hadoop', 'Java', 'Python', 'Java Enterprise Edition', 'JBoss Application Server', 'REST', 'UML', 'Hibernate', 'Core Java']}, {'\n  Other Skills': ['ESB', 'MapReduce', 'Data Models', 'Pig', 'DataPower', 'Apache Pig']}]","SQL,Business Analysis,Enterprise Software"
+,
+"[{'\n  Industry Knowledge': ['Statistics', 'Algorithms', 'Data Analysis', 'Software Development', 'Statistical Modeling', 'Analytics', 'Programming', 'Design of Experiments', 'Mathematical Modeling', 'Machine Learning', 'Operations Research', 'Physics', 'Optimization', 'Modeling', 'Database Design', 'Software Engineering', 'Object Oriented Design', 'Options', 'Test Automation', 'Test Driven Development', 'Multithreading', 'NLP']}, {'\n  Tools & Technologies': ['SQL', 'R', 'Python', 'Java', 'Matlab', 'C++', 'Mathematica', 'Hadoop', 'Linux', 'LaTeX', 'XML', 'C#']}, {'\n  Other Skills': ['Monte Carlo Simulation', 'Predictive Modeling', 'High Performance Computing', 'Discrete Event Simulation', 'Trading System Development', 'Predictive Analytics', 'JMP', 'Automated Trading', 'Futures Trading', 'Apache Spark', 'Bayesian methods', 'Markov Chain Monte Carlo']}]","Data Mining,Simulations,Deep Learning"
+,
+"[{'\n  Industry Knowledge': ['Optimization', 'Simulation', 'Operations Research', 'Statistics', 'Data Mining', 'mathematical modeling']}, {'\n  Tools & Technologies': ['Python', 'Scala', 'SQL', 'R', 'SAS', 'Matlab', 'Hadoop', 'C', 'C++', 'Java', 'TensorFlow', 'Caffe']}, {'\n  Other Skills': ['Spark', 'Decision Making Under Uncertainty', 'applied mathematics', 'stochastic process']}]","Machine Learning,Deep Learning,Data Analysis"
+,
+"[{'\n  Industry Knowledge': ['Statistics', 'Simulations', 'Numerical Analysis', 'Operations Research', 'Statistical Modeling', 'Data Mining']}, {'\n  Tools & Technologies': ['R', 'SPSS', 'Microsoft Office', 'LaTeX', 'Mathematica', 'SAS', 'Fortran']}]","Data Analysis,Matlab,Mathematical Modeling"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Financial Analysis', 'Algorithms', 'Data Structures', 'Computer Science', 'Data Analysis', 'Programming', 'Research', 'Higher Education', 'Agile Methodologies']}, {'\n  Tools & Technologies': ['Microsoft Office', 'Mircosoft Excel', 'C++', 'LaTeX', 'Tableau', 'Python', 'SQL', 'JIRA', 'Github', 'TensorFlow']}, {'\n  Interpersonal Skills': []}, {'\n  Other Skills': ['Algorithm Design', 'Applied Mathematics', 'Artificial Neural Networks', 'Pattern Recognition', 'Natural Language Processing', 'Algorithm Development', 'Spark', 'Vertica', 'Predictive Modeling', 'Data Science', 'Regression Models']}]","Mathematics,Machine Learning,Clinical Research"
+,
+"[{'\n  Industry Knowledge': ['Statistics', 'Data Mining']}, {'\n  Tools & Technologies': ['R', 'SAS', 'SQL', 'Microsoft Excel', 'Databases', 'SPSS', 'Microsoft Office']}, {'\n  Interpersonal Skills': ['Management']}]","Data Analysis,Python,Research"
+,
+"[{'\n  Industry Knowledge': ['Renewable Energy', 'Engineering', 'Optimization', 'Modeling', 'Simulations', 'Operations Research', 'Data Analysis', 'Process Engineering', 'Analysis', 'Statistics', 'Energy', 'Quantitative Analytics', 'Chemical Engineering', 'Project Engineering', 'Proposal Writing', 'Mechanical Engineering', '@Risk', 'Energy Efficiency', 'CAD', 'Sustainability', 'Water', 'Process Optimization']}, {'\n  Tools & Technologies': ['Python', 'Matlab', 'Microsoft Excel', 'MathCAD', 'Access', 'R', 'MS Project', 'Visual Basic', 'Java', 'Microsoft Access', 'C++', 'ArcGIS', 'VBA', 'GIS']}, {'\n  Interpersonal Skills': ['Engineering Management']}, {'\n  Other Skills': ['Biofuels', 'Biomass', 'Decision Analysis', 'Monte Carlo Simulation', 'Process Design', 'Regression Analysis', 'Nonlinear Dynamics', 'Computational Biology', 'Alternative Energy']}]","Data Science,Data Mining,Machine Learning"
+,
+,
+,
+,
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Logging', 'Drilling', 'Directional Drilling', 'Onshore', 'Data Analysis', 'Drilling Engineering', 'Upstream', 'Field Development', 'Reservoir Management', 'Physics', 'Reservoir Engineering', 'QHSE', 'Well Testing', 'Completion']}, {'\n  Tools & Technologies': ['SQL', 'Python']}, {'\n  Other Skills': ['Petrophysics', 'Log Analysis', 'LWD', 'Nuclear Physics', 'Stimulation', 'Reservoir Simulation', 'Petrel', 'Condensed Matter Physics', 'Completions']}]","Oilfield,Formation Evaluation,Petroleum Engineering"
+,
+"[{'\n  Industry Knowledge': ['Data Visualization', 'Research', 'Programming', 'Guitar']}, {'\n  Tools & Technologies': ['Tableau', 'Matlab', 'Java', 'C++', 'C', 'Pro Tools', 'Logic Pro', 'PowerPoint', 'Keynote']}, {'\n  Other Skills': ['Digital Signal Processing', 'Narrative Analysis', 'Teradata SQL']}]","Data Analysis,Python,Data Visualization"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Analytics', 'Agile Methodologies', 'Distributed Systems']}, {'\n  Tools & Technologies': ['Java', 'Matlab', 'R', 'Python', 'MongoDB', 'HBase']}, {'\n  Other Skills': ['MapReduce', 'Hive', 'Weka', 'Splunk', 'Propensity Modelling', 'Social Media Integration', 'Twitter API', 'Facebook API']}]","Machine Learning,Hadoop,Artificial Intelligence"
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Simulations', 'Signal Processing', 'Research', 'Machine Learning']}, {'\n  Tools & Technologies': ['Python', 'C++', 'MySQL', 'Visual Basic', 'Microsoft Office', 'PowerPoint', 'Fortran', 'Microsoft Word']}, {'\n  Other Skills': ['Web Application Development', 'Ground-Penetrating Radar']}]","Matlab,Algorithms,LaTeX"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Research', 'Mathematical Modeling', 'Fluid Mechanics', 'Modeling', 'Machine Learning', 'Analysis']}, {'\n  Tools & Technologies': ['Matlab']}, {'\n  Interpersonal Skills': ['Teaching', 'Public Speaking']}, {'\n  Other Skills': ['Groundwater Modeling', 'Hydrogeophysics']}]","Data Analysis,Python,R"
+,
+"[{'\n  Industry Knowledge': ['Statistical Modeling', 'Data Mining', 'Mathematical Modeling', 'Machine Learning', 'Research']}, {'\n  Tools & Technologies': ['SAS', 'Matlab', 'LaTeX', 'Microsoft Excel', 'Python']}, {'\n  Other Skills': ['Experimental Design']}]","Data Analysis,Statistics,R"
+,
+"[{'\n  Industry Knowledge': ['Strategic Planning', 'Physics', 'Statistics', 'Machine Learning', 'Data Analysis', 'Algorithms', 'Science', 'Simulations']}, {'\n  Tools & Technologies': ['C++', 'SQL', 'LaTeX', 'Microsoft Excel', 'PowerPoint', 'Mathematica', 'Matlab']}, {'\n  Interpersonal Skills': ['Teaching', 'Public Speaking']}]","Mathematical Modeling,Research,Python"
+,
+"[{'\n  Industry Knowledge': ['Screenwriting', 'Programming', 'System Administration', 'Data Mining', 'Business Analysis', 'Analysis', 'Analytics', 'Data Warehousing', 'SDLC', 'Software Documentation', 'Statistical Modeling', 'Statistics']}, {'\n  Tools & Technologies': ['Microsoft Excel', 'Perl', 'PHP', 'C++', 'Windows', 'Databases', 'ArcGIS', 'Access', 'GIS', 'PowerPoint', 'SAS', 'Unix']}, {'\n  Interpersonal Skills': ['Management', 'Leadership']}, {'\n  Other Skills': ['Script Analysis', 'Teradata Data Warehouse', 'Unix Shell Scripting']}]","Data Analysis,SQL,Teradata"
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Optimization', 'Software Development']}, {'\n  Tools & Technologies': ['Python', 'C/C++', 'Linux', 'Matlab']}, {'\n  Other Skills': ['CPLEX', 'PostGIS']}]","Java,Data Analysis,Optimization"
+,
+"[{'\n  Industry Knowledge': []}, {'\n  Tools & Technologies': ['C++', 'Java', 'C', 'HTML', 'Matlab']}, {'\n  Interpersonal Skills': ['Public Speaking']}, {'\n  Other Skills': []}]","Python,Keras,Tensorflow"
+,
+"[{'\n  Industry Knowledge': ['Signal Processing', 'Simulations', 'Big Data', 'Optimization', 'NLP', 'Digital Signal Processors']}, {'\n  Tools & Technologies': ['Matlab', 'C++', 'hadoop', 'R', 'Java']}, {'\n  Other Skills': ['map reduce']}]","Algorithms,Software Development,Machine Learning"
+,
+"[{'\n  Tools & Technologies': ['Fortran']}, {'\n  Other Skills': []}]","Linux,Python,Matlab"
+,
+"[{'\n  Industry Knowledge': ['Shell Scripting', 'Database Design']}, {'\n  Tools & Technologies': ['Access', 'SQL']}, {'\n  Other Skills': []}]","Data Analysis,Analysis,Microsoft Excel"
+,
+,
+,
+,
+,
+,
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Research', 'Data Analysis', 'Quantitative Analytics', 'Quantitative Research', 'Financial Modeling', 'Research Design', 'Emerging Markets', 'Higher Education', 'Macroeconomics', 'International Business', 'Academic Advising', 'Statistics']}, {'\n  Tools & Technologies': ['R', 'SAS', 'Eviews', 'Matlab', 'SPSS', 'EViews']}, {'\n  Interpersonal Skills': ['Qualitative Research', 'Teaching', 'University Teaching', 'Lecturing', 'Student Development']}, {'\n  Other Skills': ['International Finance', 'Economic Research', 'South Asia', 'Asian markets']}]","Economics,Econometrics,Stata"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Research', 'Neuroscience']}, {'\n  Tools & Technologies': ['R', 'SPSS', 'Matlab']}, {'\n  Interpersonal Skills': []}, {'\n  Other Skills': []}]","Python,Statistics,SQL"
+,
+"[{'\n  Industry Knowledge': ['OOP', 'Object Oriented Design', 'Design Patterns', 'Software Development', 'Object-Oriented Programming (OOP)', 'Programming', 'Machine Learning']}, {'\n  Tools & Technologies': ['C++', 'C', 'Visual Studio', 'C#', 'XML', 'MySQL', 'AJAX', 'Python']}, {'\n  Other Skills': ['SPARQL', 'Sentiment Analysis', 'OWL API', 'Text Mining', 'Crowdsourcing', 'Ontologies', 'Entity Resolution (Co-reference)', 'Semantic Data Integration']}]","Semantic Web,Java,Human Computer Interaction"
+,
+"[{'\n  Industry Knowledge': ['Statistics', 'Data Mining', 'Machine Learning', 'SAS Programming', 'Analytics', 'Business Intelligence', 'Analysis', 'Analytical Skills']}, {'\n  Tools & Technologies': ['Java', 'Databases', 'C++', 'R', 'Hadoop', 'Python', 'Microsoft Excel', 'Microsoft Office']}]","Data Analysis,Business Analysis,SQL"
+,
+,
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Biostatistics', 'SAS Programming']}, {'\n  Tools & Technologies': ['LaTeX']}, {'\n  Languages': []}, {'\n  Other Skills': ['Survival Analysis', 'Experimental Design', 'Bayesian statistics']}]","SAS,R,Clinical Trials"
+,
+,
+,
+,
+,
+,
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Machine Learning', 'Nanotechnology']}, {'\n  Tools & Technologies': ['Python', 'R', 'MySQL', 'C', 'HTML']}, {'\n  Other Skills': ['Principal Component Analysis', 'EXAFS', 'Heterogeneous Catalysis']}]","Materials Science,Statistical Inference,Machine Learning"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Algorithms', 'Data Analysis', 'Analytics', 'Statistics']}, {'\n  Tools & Technologies': ['Matlab', 'MySQL', 'SQL', 'Hadoop', 'Labview', 'Tableau', 'MongoDB', 'Minitab', 'Java', 'NoSQL']}, {'\n  Other Skills': ['Time Series Analysis', 'Linear Regression', 'Text Mining', 'Data Science', 'Apache Pig', 'HIVE', 'PIG']}]","Python,Machine Learning,R"
+,
+"[{'\n  Industry Knowledge': ['Data Mining', 'Programming', 'Statistics', 'Machine Learning', 'Quantitative Analytics', 'Algorithms', 'Data Analysis', 'NLP', 'AI']}, {'\n  Tools & Technologies': ['Linux', 'SAS', 'Java', 'JavaScript', 'SQL', 'LaTeX', 'Python', 'C', 'Tensorflow']}, {'\n  Other Skills': ['MPI', 'ImageJ', 'Predictive Modeling', 'Information Retrieval', 'Deep Learning']}]","Matlab,R,C++"
+,
+"[{'\n  Industry Knowledge': ['Computer Vision', 'Research', 'Algorithms', 'Computer Science', 'Machine Learning']}, {'\n  Tools & Technologies': ['Python', 'OpenGL', 'LaTeX', 'SQL', 'PHP', 'Stata']}, {'\n  Other Skills': ['RapidMiner']}]","Matlab,Programming,C++"
+,
+"[{'\n  Industry Knowledge': ['Programming', 'Machine Learning', 'Algorithms', 'Computer Vision', 'Software Engineering', 'Computer Science', 'Data Analysis']}, {'\n  Tools & Technologies': ['Microsoft Word', 'Linux', 'Matlab', 'JavaScript', 'PowerPoint', 'HTML', 'Python', 'Microsoft Excel']}, {'\n  Interpersonal Skills': ['Teaching', 'Teamwork', 'Public Speaking', 'Leadership']}, {'\n  Other Skills': ['Deep Learning', 'Compiler Construction', 'OpenCV']}]","C++,C,Microsoft Office"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Data Mining', 'Statistical Modeling', 'Programming', 'Statistics', 'Machine Learning', 'Financial Analysis']}, {'\n  Tools & Technologies': ['Python', 'Java', 'Matlab', 'SAS', 'C', 'Mathematica', 'SQL', 'Hadoop', 'git', 'Microsoft Office']}, {'\n  Other Skills': ['Data Science']}]","R,LaTeX,Research"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Science', 'Data Analysis']}, {'\n  Tools & Technologies': ['LaTeX', 'Python', 'Matlab', 'C++']}, {'\n  Other Skills': ['Scientific Computing', 'Particle Physics']}]","Statistics,Physics,Mathematical Modeling"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Statistics', 'Quantitative Analytics', 'Econometrics', 'Research', 'Financial Modeling']}, {'\n  Tools & Technologies': ['Stata', 'Microsoft Excel']}]","Data Analysis,Economics,SAS"
+,
+,
+,
+,
+,
+,
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Cloud Computing', 'Software Project Management', 'Product Management', 'Software Development', 'Project Management', 'Data Mining', 'Enterprise Architecture', 'Agile Methodologies', 'Program Management', 'Agile Project Management', 'Distributed Systems', 'Business Analysis', 'Data Modeling', 'Data Analysis', 'Scrum', 'Strategy', 'IT Strategy', 'SOA', 'SDLC', 'Data Warehousing', 'Pre-sales', 'Automation', 'Telecommunications', 'Security', 'Release Management', 'Solution Architecture']}, {'\n  Tools & Technologies': ['SQL', 'Databases', 'Enterprise Software', 'SaaS', 'HTML', 'Hadoop', 'SharePoint']}, {'\n  Interpersonal Skills': ['Cross-functional Team Leadership', 'Technical Leadership']}, {'\n  Other Skills': ['Business Intelligence Tools']}]","Business Intelligence,Big Data,Analytics"
+,
+,
+,
+,
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Algorithms', 'Mathematical Modeling', 'Statistical Modeling', 'Programming', 'Optimizations', 'Airlines', 'Data Mining', 'Aviation', 'Data Analysis', 'Statistics', 'Simulations']}, {'\n  Tools & Technologies': ['Matlab', 'C++', 'Java', 'R', 'Python', 'Perl']}, {'\n  Other Skills': ['Linear Programming', 'AMPL', 'Mathematical Programming', 'Constraint Programming']}]","Operations Research,Optimization,CPLEX"
+,
+,
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Research', 'Statistics', 'Machine Learning', 'Optics', 'Metrology', 'Semiconductors', 'Semiconductor Industry', 'Higher Education']}, {'\n  Tools & Technologies': ['C', 'C++', 'LaTeX']}, {'\n  Interpersonal Skills': []}, {'\n  Other Skills': ['Scatterometry', 'Ellipsometry']}]","Python,Matlab,Physics"
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Statistical Modeling', 'Public Health', 'Machine Learning', 'SAS programming', 'Research', 'Global Health', 'Science', 'SAS Programming']}, {'\n  Tools & Technologies': ['R', 'Stata', 'SAS', 'Databases', 'ArcGIS', 'SQL']}, {'\n  Interpersonal Skills': ['Communication']}, {'\n  Other Skills': ['Causal Inference', 'Data Science', 'Clinical Study Design', 'Exploratory Data Analysis', 'Non-parametric']}]","Epidemiology,Statistics,Biostatistics"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Data Visualization', 'Research', 'SAS programming', 'Analytics', 'Statistical Modeling', 'Data Mining', 'Business Intelligence', 'Statistical Data Analysis', 'Algorithms']}, {'\n  Tools & Technologies': ['R', 'SQL', 'SAS', 'LaTeX', 'Microsoft Excel', 'Matlab', 'C++']}, {'\n  Other Skills': ['Data Science', 'SAS Base', 'Statistical Programming']}]","Statistics,Machine Learning,Python"
+,
+"[{'\n  Industry Knowledge': ['Science', 'Machine Learning', 'Algorithms', 'Programming', 'Mathematical Modeling']}, {'\n  Tools & Technologies': ['Python', 'R', 'Microsoft Office', 'Microsoft Excel', 'SQL']}, {'\n  Interpersonal Skills': ['Teaching', 'Public Speaking']}, {'\n  Other Skills': ['Data Science']}]","Statistics,Data Analysis,Research"
+,
+"[{'\n  Industry Knowledge': ['Mathematical Modeling', 'Physics', 'Machine Learning', 'Science', 'Numerical Analysis']}, {'\n  Tools & Technologies': ['Fortran']}, {'\n  Other Skills': ['High Performance Computing']}]","LaTeX,Research,Matlab"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Statistics', 'Research', 'Physics', 'Science']}, {'\n  Tools & Technologies': ['Matlab']}, {'\n  Interpersonal Skills': []}, {'\n  Other Skills': []}]","Data Analysis,Python,Statistics"
+,
+"[{'\n  Industry Knowledge': ['Statistics', 'Statistical Modeling', 'Machine Learning', 'Algorithms', 'Analysis', 'Shell Scripting', 'Optimization', 'Mathematical Modeling']}, {'\n  Tools & Technologies': ['Java', 'Matlab', 'Python', 'SQL', 'Hadoop', 'SAS', 'Mathematica', 'Stata', 'LaTeX', 'Tableau']}, {'\n  Other Skills': ['Predictive Modeling', 'Predictive Analytics', 'Cluster Analysis', 'Text Mining', 'Deduplication', 'Monte Carlo Simulation', 'Collaborative Filtering', 'Classifications', 'Rule Ensembles']}]","Data Mining,R,Data Analysis"
+,
+"[{'\n  Industry Knowledge': ['Operations Research', 'Big Data', 'Optimization', 'Data Visualization']}, {'\n  Tools & Technologies': ['Python', 'R', 'SQL', 'Scala', 'LaTeX']}, {'\n  Other Skills': ['Predictive Modeling', 'Stochastic Simulation', 'Time Series Analysis', 'Apache Spark']}]","Machine Learning,Statistics,Probability"
+,
+"[{'\n  Industry Knowledge': ['Algorithms', 'Machine Learning', 'Distributed Systems']}, {'\n  Tools & Technologies': ['Linux', 'MySQL', 'Java', 'C++', 'SQL', 'Subversion']}, {'\n  Other Skills': []}]","Data Mining,Python,Data Analysis"
+,
+"[{'\n  Industry Knowledge': ['Property & Casualty Insurance', 'Data Analysis', 'Analytics', 'Pricing', 'Statistical Modeling', 'Data Mining', 'Analysis', 'General Insurance', 'Reinsurance', 'Financial Risk', 'SAS programming', 'Enterprise Risk Management', 'Analytical Skills']}, {'\n  Tools & Technologies': ['SAS', 'SQL', 'R', 'VBA', 'Visual Basic for Applications (VBA)']}, {'\n  Other Skills': ['Predictive Modeling', 'Emblem', 'Solvency II', 'Quantitative Finance', 'Talon']}]","Actuarial Science,Predictive Analytics,Insurance"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Mathematical Modeling', 'Data Analysis', 'Biostatistics', 'Statistical Data Analysis', 'SAS Programming']}, {'\n  Tools & Technologies': ['SAS', 'LaTeX', 'SPSS', 'Matlab', 'C', 'Python']}, {'\n  Other Skills': ['Experimental Design', 'SAS Base']}]","Statistical Modeling,R,Statistics"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Wireless', 'Signal Processing', 'UMTS', 'TCP/IP', 'Simulations', 'Wireless Networking', 'Simulation', 'Optimization', '4G', 'Modeling', 'Telecommunications', 'Algorithms', 'Testing']}, {'\n  Tools & Technologies': ['pandas', 'LTE', 'Matlab', 'Python', 'Oracle SQL', 'C', 'C++']}, {'\n  Other Skills': ['LTE Advanced', 'TD-SCDMA', 'scikit-learn', 'OFDM', 'Communication Systems', 'Digital Communication']}]","Data Science,Machine Learning,Wireless"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Algorithms', 'Physics', 'Computer Science', 'Data Analysis', 'Statistical Data Analysis', 'Image Processing', 'Cell Culture']}, {'\n  Tools & Technologies': ['Hadoop', 'Python', 'Matlab', 'C++', 'R', 'LaTeX', 'Perl', 'Linux', 'Mathematica', 'C']}, {'\n  Languages': []}, {'\n  Other Skills': ['Big Data Analytics', 'Spark', 'Data Science', 'Data Processing']}]","Machine Learning,Big Data,Data Cleaning"
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Statistics', 'Big Data', 'Analytics', 'Data Analysis', 'Statistical Modeling', 'Software Development', 'Bioinformatics', 'Programming', 'Distributed Systems', 'Shell Scripting', 'Quantitative Analytics']}, {'\n  Tools & Technologies': ['Hadoop', 'SQL', 'SAS', 'Matlab', 'Python', 'JDBC', 'Github', 'Tableau', 'Git']}, {'\n  Other Skills': ['Predictive Analytics', 'Cluster Analysis', 'Text Mining', 'A/B testing', 'Bioconductor', 'Teradata', 'Parallel Computing', 'Data Science', 'Feature Selection', 'BTEQ', 'GSL', 'Hive', 'Spark', 'Splunk', 'Experimentation', 'In-database Analytics']}]","R,Data Mining,Machine Learning"
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Research']}, {'\n  Tools & Technologies': ['R Programming', 'SQL', 'PowerPoint', 'Microsoft Office', 'Microsoft Excel', 'Microsoft Word', 'SAS', 'R']}, {'\n  Interpersonal Skills': ['Leadership', 'Communication']}, {'\n  Other Skills': ['Bayesian statistics']}]","Statistics,Machine Learning,Python"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Statistics']}, {'\n  Tools & Technologies': ['Bash', 'SQL']}]","R,Python,C++"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Algorithms', 'Data Mining', 'Psychology']}, {'\n  Tools & Technologies': ['R', 'C++', 'Matlab', 'Hadoop', 'SQL', 'Ruby', 'Java']}, {'\n  Other Skills': ['Cognitive Science', 'Spark', 'Experimental Design', 'Hive', 'MapReduce', 'Time Series Analysis']}]","Statistics,Machine Learning,Python"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Mathematics', 'Research', 'Analytics']}, {'\n  Tools & Technologies': ['SAS', 'Microsoft Office']}]","Data Analysis,Economics,Statistics"
+,
+,
+,
+,
+,
+,
+,
+,
+,
+"[{'\n  Tools & Technologies': []}, {'\n  Other Skills': []}]",
+,
+,
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Statistical Modeling', 'Analytics', 'SAS programming']}, {'\n  Tools & Technologies': ['Python', 'SAS', 'Matlab', 'SQL']}]","Statistics,R,Data Analysis"
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Statistics', 'Statistical Modeling', 'Machine Learning', 'Big Data', 'Data Modeling', 'Segmentation', 'Data Visualization', 'SAS/SQL', 'Forecasting']}, {'\n  Tools & Technologies': ['Matlab', 'SAS', 'Microsoft Office', 'Hadoop', 'LaTeX']}, {'\n  Other Skills': ['Logistic Regression', 'Linear Regression', 'Multivariate Analysis', 'Predictive Analytics']}]","R,Time Series Analysis,Data Mining"
+,
+"[{'\n  Industry Knowledge': ['Machine Learning', 'Computer Science', 'Simulations', 'Algorithms', 'Data Analysis', 'Image Processing', 'Bioinformatics', 'Statistics', 'Optimization', 'Mathematical Modeling', 'Signal Processing', 'Numerical Analysis', 'Science', 'Software Development', 'Statistical Modeling', 'Artificial Intelligence', 'Web Design', 'Computer Vision', 'Network Security', 'Manufacturing', 'Physics', 'Biomedical Engineering']}, {'\n  Tools & Technologies': ['C++', 'R', 'Java', 'SQL', 'Python', 'MySQL', 'C', 'Unix', 'SAS', 'LaTeX', 'PHP', 'Perl', 'Mathematica', 'Fortran', 'Linux', 'Solaris', 'VBA']}, {'\n  Interpersonal Skills': ['Teaching Skills', 'Teaching']}, {'\n  Other Skills': ['Pattern Recognition', 'High Performance Computing', 'Unix Administration', 'GWT', 'database mining', 'Assembly']}]","Matlab,Data Mining,Programming"
+,
+"[{'\n  Industry Knowledge': ['Big Data', 'Web Analytics', 'Data Management', 'Analytics']}, {'\n  Tools & Technologies': ['R', 'Python', 'SQL', 'SAS', 'Github', 'Linux']}, {'\n  Other Skills': ['Predictive Modeling', 'SEM SEO Marketing', 'Logistic Regression', 'Time Series Analysis', 'Pricing Analysis']}]","Statistical Modeling,Machine Learning,Experiment Design/Test"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Research', 'Scientific Writing', 'Environmental Science', 'Statistical Modeling', 'Ecology', 'Programming']}, {'\n  Tools & Technologies': ['Python', 'Github', 'Microsoft Office', 'Git', 'Outlook', 'Matlab']}, {'\n  Interpersonal Skills': ['Teaching', 'Public Speaking', 'Teamwork']}, {'\n  Languages': []}, {'\n  Other Skills': []}]","Science,Statistics,R"
+,
+,
+,
+,
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Machine Learning', 'Wireless', 'Mobile Applications', 'Testing', 'Mobile Devices', 'Software Engineering']}, {'\n  Tools & Technologies': ['Java', 'Embedded Software', 'C', 'Embedded Systems', 'JavaScript']}, {'\n  Other Skills': ['Splunk']}]","Python,SQL,Machine Learning"
+,
+"[{'\n  Industry Knowledge': []}, {'\n  Other Skills': []}]",
+,
+"[{'\n  Industry Knowledge': ['Analytics', 'Machine Learning', 'Data Mining']}, {'\n  Tools & Technologies': ['NoSQL', 'MySQL', 'HBase']}, {'\n  Other Skills': ['Large Scale Systems']}]","Java,Hadoop,Big Data"
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Research', 'Data Analysis', 'Policy Analysis', 'Economics', 'Public Policy']}, {'\n  Tools & Technologies': ['Stata', 'Microsoft Office', 'PowerPoint']}, {'\n  Interpersonal Skills': ['Teaching']}, {'\n  Languages': ['Spanish']}, {'\n  Other Skills': []}]","R,Statistics,Econometrics"
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Science', 'Analysis', 'Research', 'Mathematics', 'Modeling']}, {'\n  Other Skills': ['Astrophysics']}]","Programming,Physics,Simulations"
+,
+"[{'\n  Industry Knowledge': ['Analytics', 'Data Mining', 'Statistics', 'Analysis']}, {'\n  Tools & Technologies': ['R', 'Python']}, {'\n  Other Skills': ['Predictive Modeling', 'Predictive Analytics']}]","SQL,SAS,Statistical Modeling"
+,
+"[{'\n  Tools & Technologies': []}, {'\n  Interpersonal Skills': []}]",
+,
+"[{'\n  Industry Knowledge': ['Machine Learning', 'Quantitative Analytics', 'Derivatives', 'Quantitative Research']}, {'\n  Tools & Technologies': ['Trading Systems', 'Python', 'Hadoop']}, {'\n  Other Skills': ['Data Science', 'Time Series Analysis']}]","R,Quantitative Finance,Statistical Modeling"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['SAS programming', 'Statistics', 'Financial Analysis', 'Quantitative Analytics', 'Analysis', 'Analytical Skills']}, {'\n  Tools & Technologies': ['Stata', 'Access', 'SQL', 'SPSS', 'SAS']}]","R,Data Analysis,Statistical Modeling"
+,
+"[{'\n  Industry Knowledge': ['Machine Learning', 'Agile Methodologies', 'Computer Science', 'Data Mining', 'Analytics']}, {'\n  Other Skills': ['Algorithm Design']}]","Databases,Statistical Modeling,Hadoop"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Data Visualization', 'Simulations']}, {'\n  Tools & Technologies': ['Labview']}, {'\n  Other Skills': ['Exploratory Data Analysis']}]","Matlab,Dynamics,Modeling"
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Statistical Modeling', 'Quantitative Analytics', 'Econometrics', 'Research']}, {'\n  Tools & Technologies': ['SAS', 'Matlab', 'SPSS', 'Tableau', 'SQL', 'Microsoft Office', 'Python']}, {'\n  Other Skills': ['Time Series Analysis', 'Alteryx']}]","R,Stata,Statistics"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Genomics', 'Computer Science', 'Genetics', 'Statistical Modeling', 'Molecular Biology', 'Artificial Intelligence', 'Statistics', 'Science', 'Data Mining', 'Biostatistics']}, {'\n  Tools & Technologies': ['Python', 'R', 'C']}, {'\n  Other Skills': ['Computational Biology', 'Sequence Analysis', 'Phylogenetics', 'Systems Biology', 'Sequencing', 'Experimental Design']}]","Machine Learning,Bioinformatics,Algorithms"
+,
+,
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Programming', 'Materials Science', 'Chemistry', 'Characterization', 'Nanotechnology', 'Thin Films', 'Solar Energy', 'Scanning Electron Microscopy', 'Semiconductors', 'Spectroscopy', 'Computer Science', 'SEM']}, {'\n  Tools & Technologies': ['SQL', 'Matlab', 'Git']}, {'\n  Interpersonal Skills': ['Presentations']}, {'\n  Other Skills': ['Scikit-Learn', 'Powder X-ray Diffraction', 'AFM', 'CVD', 'Photolithography', 'XPS', 'Computers']}]","Python,Pandas,Machine Learning"
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Statistical Modeling', 'Biostatistics', 'Data Mining', 'SAS programming', 'Machine Learning']}, {'\n  Tools & Technologies': ['Microsoft Excel', 'LaTeX']}, {'\n  Other Skills': ['Experimental Design', 'Time Series Analysis', 'Logistic Regression']}]","R,Statistics,SAS"
+,
+"[{'\n  Industry Knowledge': ['Spatial Analysis', 'Data Mining', 'Programming']}, {'\n  Tools & Technologies': ['ArcGIS', 'Java', 'GIS', 'C#', 'SQL', 'Matlab', 'C', 'R', 'Microsoft SQL Server', 'OpenGL']}, {'\n  Other Skills': ['ENVI']}]","Python,Algorithms,C++"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Process Automation', 'Shell Scripting', 'Machine Learning']}, {'\n  Tools & Technologies': ['Tableau']}, {'\n  Other Skills': ['Clojure', 'Predictive Modeling']}]","SQL,Python,Teradata"
+,
+"[{'\n  Industry Knowledge': ['Data Mining', 'Data Warehousing', 'Business Intelligence', 'ETL', 'Requirements Analysis', 'Business Analysis', 'SDLC', 'Data Integration', 'Requirements Gathering', 'Testing', 'Analytics', 'Data Analysis', 'Business Analytics', 'Software Development Life Cycle (SDLC)', 'Database Administration', 'Extract, Transform, Load (ETL)', 'Fraud', 'Shell Scripting']}, {'\n  Tools & Technologies': ['Python', 'Oracle', 'Business Objects', 'Informatica', 'PL/SQL', 'Microsoft SQL Server', 'SSRS', 'Crystal Reports', 'Informatica Data Quality', 'Informatica PowerCenter', 'SQL Server Reporting Services (SSRS)', 'SAP BusinessObjects']}, {'\n  Other Skills': ['Risk Analytics', 'Teradata', 'Dashboard', 'Unix Shell Scripting', 'OLAP', 'Business Intelligence Tools']}]","SQL,Fraud Detection,Machine Learning"
+,
+"[{'\n  Industry Knowledge': ['Algorithms', 'Distributed Systems', 'Data Structures']}, {'\n  Tools & Technologies': ['C++', 'C', 'Java', 'NetBeans', 'Visual Studio', 'Python']}, {'\n  Interpersonal Skills': ['Teaching']}, {'\n  Other Skills': ['Spark', 'MapReduce']}]","Linux Clustering,MPI,Hadoop"
+,
+,
+,
+,
+,
+,
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Analytics', 'Statistical Modeling', 'Quantitative Analytics', 'Project Management', 'Machine Learning']}, {'\n  Tools & Technologies': ['SQL', 'R']}, {'\n  Other Skills': ['Time Series Analysis', 'Predictive Modeling']}]","SAS,Data Mining,Statistics"
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+"[{'\n  Industry Knowledge': []}, {'\n  Tools & Technologies': []}, {'\n  Other Skills': []}]",
+,
+"[{'\n  Industry Knowledge': ['Big Data', 'Data Mining', 'Statistics', 'Optimization']}, {'\n  Tools & Technologies': ['Java', 'R', 'Linux', 'Unix']}, {'\n  Other Skills': ['Monte Carlo Simulation']}]","Python,Machine Learning,Supply Chain Optimization"
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Financial Analysis', 'Machine Learning', 'Analysis', 'Business Analysis', 'Research', 'Statistics']}, {'\n  Tools & Technologies': ['Tableau', 'Python', 'Java', 'QlikView', 'Bloomberg', 'Microsoft Excel', 'Microsoft Word', 'PowerPoint', 'C', 'Matlab', 'Microsoft Office']}, {'\n  Interpersonal Skills': ['Teamwork']}, {'\n  Languages': ['Japanese']}, {'\n  Other Skills': ['Self-starter']}]","R,SAS,SQL"
+,
+"[{'\n  Industry Knowledge': ['Programming', 'Data Analysis', 'Simulations', 'Signal Processing', 'Algorithms', 'Optimization', 'Machine Learning', 'Wireless', 'Data Mining']}, {'\n  Tools & Technologies': ['Matlab', 'C++', 'C']}, {'\n  Other Skills': ['MLlib', 'Information Theory', 'Algorithm Design', 'Networking']}]","Python,Apache Spark,Big Data Analytics"
+,
+"[{'\n  Industry Knowledge': ['Algorithms', 'Signal Processing', 'Multithreading', 'Optimization', 'Data Analysis']}, {'\n  Tools & Technologies': ['Matlab', 'Embedded Systems', 'Firmware', 'C++', 'C', 'Embedded Software', 'Device Drivers']}, {'\n  Other Skills': ['Data Science', 'Predictive Modelling', 'Communication Systems', 'Predictive Modeling', 'Predictive Analytics', 'Digital Signal Processing', 'Statistical Signal Processing', 'MapReduce']}]","Digital Signal Processors,Machine Learning,Python"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Renewable Energy', 'Energy Efficiency', 'Research', 'Statistics', 'Machine Learning', 'Data Mining', 'Energy', 'Algorithms', 'Environmental Impact Assessment', 'Energy Management', 'Signal Processing', 'Project Management']}, {'\n  Tools & Technologies': ['Matlab', 'LaTeX', 'SQL', 'Microsoft Office', 'Java']}, {'\n  Interpersonal Skills': ['Engineering Management']}, {'\n  Other Skills': ['Pattern Recognition', 'Life Cycle Assessment', 'Infrastructure Planning', 'Demand Response']}]","Data Analysis,Python,Sustainability"
+,
+,
+,
+"[{'\n  Industry Knowledge': []}, {'\n  Tools & Technologies': []}, {'\n  Other Skills': []}]",
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Numerical Analysis', 'Data Analysis', 'Machine Learning']}, {'\n  Tools & Technologies': ['Python', 'Linux']}, {'\n  Other Skills': ['Algebra', 'Calculus', 'Linear Algebra', 'SageMath']}]","Teaching,LaTeX,Mathematical Modeling"
+,
+"[{'\n  Industry Knowledge': ['Machine Learning', 'Big Data', 'Algorithms', 'Computer Science']}, {'\n  Tools & Technologies': ['Python', 'Hadoop', 'Amazon Web Services (AWS)', 'SQL', 'Java', 'HBase', 'Perl']}, {'\n  Other Skills': ['Data Science']}]","Statistics,R,Data Mining"
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Statistics', 'Mathematical Modeling', 'Numerical Analysis', 'Data Mining', 'Software Development', 'Algorithms', 'Research']}, {'\n  Tools & Technologies': ['Java', 'LaTeX', 'Mathematica', 'Matlab', 'C++', 'Linux']}, {'\n  Interpersonal Skills': ['Managment']}, {'\n  Other Skills': ['Scientific Computing', 'Apache Spark', 'Theoretical Physics', 'Numerical Simulation', 'Markov Chain Monte Carlo', 'Quantum Field Theory', 'Cosmology', 'String Theory', 'C++ Language', 'Mathematical Physics', 'Maple', 'R for Statistical Computing', 'Monte Carlo Simulate Annealing', 'Deep Learning']}]","Physics,Machine Learning,Python"
+,
+"[{'\n  Industry Knowledge': ['Statistical Modeling', 'Operations Research', 'Mathematical Modeling', 'Simulations', 'Data Mining', 'Forecasting', 'Supply Chain Management', 'Business Analysis', 'Machine Learning', 'Inventory Management', 'Project Management', 'Operations Management', 'Optimizations', 'Algorithms', 'Economics', 'Strategic Planning', 'ERP', 'SCRUM', 'Analysis', 'Research', 'Program Management', 'Process Improvement', 'Analytical Skills']}, {'\n  Tools & Technologies': ['C++', 'SQL', 'R', 'Matlab', 'LaTeX', 'Microsoft Excel', 'Python', 'Databases']}, {'\n  Interpersonal Skills': ['Cross-functional Team Leadership', 'Management']}, {'\n  Other Skills': ['Stochastic Processes', 'Regression Analysis', 'Capacity Planning', 'Information Systems', 'Cash flow analysis', 'Linear Programming', 'Pattern Recognition']}]","Statistics,Data Analysis,Optimization"
+,
+"[{'\n  Industry Knowledge': ['Algorithms', 'Spectroscopy', 'Research', 'Biochemistry', 'Mathematical Modeling', 'Physics', 'Biotechnology', 'Gel Electrophoresis', 'Protein Purification', 'Protein Chemistry', 'HPLC']}, {'\n  Tools & Technologies': ['C++', 'Java', 'Perl', 'C']}, {'\n  Other Skills': ['Biophysics', 'Fluorescence', 'NMR spectroscopy', 'Pymol', 'Protein Design', 'x86 Assembly', 'Experimentation']}]","Python,Science,Statistics"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Machine Learning', 'Statistics', 'Data Visualization', 'Business Analysis']}, {'\n  Tools & Technologies': ['SQL', 'Tableau', 'Microsoft Excel']}]","Data Analysis,R,Python"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Market Research', 'Analytical Skills', 'Analytics', 'Statistics', 'Quantitative Analytics', 'Statistical Modeling', 'Research']}, {'\n  Tools & Technologies': ['R', 'Microsoft Office']}, {'\n  Other Skills': []}]","Data Analysis,Market Analysis,Market Research"
+,
+"[{'\n  Industry Knowledge': ['Statistical Modeling', 'Machine Learning', 'Simulations', 'Software Development', 'Data Analysis', 'Risk Management', 'Algorithms', 'Modeling']}, {'\n  Tools & Technologies': ['Python', 'SAS']}, {'\n  Other Skills': []}]","Data Mining,Analytics,R"
+,
+,
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Songwriting', 'Business Development', 'Business Analysis', 'Machine Learning', 'Project Management']}, {'\n  Tools & Technologies': ['Python', 'SQL', 'Matlab', 'Bash']}, {'\n  Interpersonal Skills': ['Community Outreach', 'Teamwork']}, {'\n  Other Skills': ['Music Performance']}]","Computer Science,Human Computer Interaction,Java"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Software Development', 'Big Data', 'Scalability', 'Cloud Computing', 'Agile Methodologies', 'Algorithms', 'Software Design', 'Scrum']}, {'\n  Tools & Technologies': ['Linux', 'C++', 'Unix', 'Hadoop', 'Python', 'Windows', 'XML', 'Perl', 'C']}, {'\n  Other Skills': ['Windows Programming']}]","Software Engineering,Distributed Systems,Java"
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Algorithms', 'Analytics', 'Sound', 'Sound Design', 'Mathematics']}, {'\n  Tools & Technologies': ['OS X', 'iOS', 'Linux', 'Keynote', 'Logic Pro', 'Android', 'Python', 'C++', 'HTML 5']}, {'\n  Interpersonal Skills': []}, {'\n  Other Skills': ['iWork', 'Mac OS X Server', 'Logic Studio']}]","Programming,SQL,Data Analysis"
+,
+"[{'\n  Industry Knowledge': ['SEO', 'Advertising', 'Digital Media', 'Online Advertising', 'SEM', 'PPC', 'Mobile Marketing', 'Mobile Advertising', 'Social Media Marketing', 'Media Planning']}, {'\n  Tools & Technologies': ['Google Adwords', 'Google Analytics']}, {'\n  Other Skills': ['Omniture']}]","Analytics,Digital Marketing,Digital Strategy"
+,
+"[{'\n  Industry Knowledge': ['Signal Processing', 'Physics', 'Science', 'Research', 'Nanomaterials', 'Spectroscopy']}, {'\n  Tools & Technologies': ['Matlab', 'C', 'Java', 'Labview', 'Mathematica', 'LabVIEW']}, {'\n  Other Skills': ['Scientific Computing', 'Bayesian methods', 'Teradata SQL', 'Data Acquisition']}]","R,Statistics,Data Analysis"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Business Analysis', 'Business Intelligence', 'Project Management', 'Analysis', 'Analytics', 'Capital Markets', 'Portfolio Management', 'Investment Banking', 'CRM']}, {'\n  Interpersonal Skills': ['Leadership', 'Management', 'Team Leadership']}]","Risk Management,Banking,Strategy"
+,
+"[{'\n  Industry Knowledge': ['Algorithms', 'Data Modeling', 'Big Data']}, {'\n  Tools & Technologies': ['XML', 'Hadoop', 'Oracle', 'Databases', 'Eclipse', 'Matlab', 'Unix']}, {'\n  Other Skills': ['Hive', 'Information Retrieval']}]","Machine Learning,Data Mining,Java"
+,
+"[{'\n  Industry Knowledge': ['Computer Science', 'Analytics', 'Data Analysis']}, {'\n  Tools & Technologies': ['C++', 'Java', 'Matlab', 'Linux', 'Hadoop']}]","Algorithms,Machine Learning,Python"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Computer Science', 'Artificial Intelligence', 'Distributed Systems']}, {'\n  Tools & Technologies': ['Java']}, {'\n  Other Skills': ['Text Mining', 'Information Retrieval', 'Recommender Systems', 'User Modeling', 'Pattern Recognition', 'MapReduce', 'Natural Language Processing']}]","Machine Learning,Data Mining,Algorithms"
+,
+,
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Product Management', 'Electrical Engineering', 'RF', 'Product Development', 'PCB design', 'PCB Design', 'Testing']}, {'\n  Tools & Technologies': ['Labview', 'LabVIEW']}, {'\n  Other Skills': ['Data Acquisition']}]","Manufacturing,Cross-functional Team Leadership,Electronics"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Scrum', 'Software Engineering', 'Mobile Applications', 'Mobile Devices', 'Software Quality Assurance', 'Test Planning']}, {'\n  Tools & Technologies': ['Linux', 'Databases', 'Java', 'Unix']}]","Agile Methodologies,Software Development,Python"
+,
+"[{'\n  Industry Knowledge': ['Data Mining', 'Algorithms', 'Research', 'Machine Learning', 'Statistics', 'Programming', 'Analysis', 'Big Data', 'Distributed Systems', 'Software Engineering', 'Computer Science', 'Online Advertising', 'Data Modeling', 'Business Intelligence', 'User Experience']}, {'\n  Tools & Technologies': ['R', 'Hadoop', 'SQL', 'Python', 'PHP', 'OS X']}, {'\n  Other Skills': ['Hive', 'Data Science', 'MapReduce']}]","Data Analysis,Analytics,Databases"
+,
+"[{'\n  Industry Knowledge': ['Optimization', 'Statistical Modeling', 'Algorithms', 'Data Mining', 'Data Analysis']}, {'\n  Tools & Technologies': ['Matlab', 'Python', 'SQL', 'Unix', 'Java', 'Hadoop']}, {'\n  Other Skills': ['Predictive Analytics', 'Predictive Modeling', 'Time Series Analysis', 'MapReduce', 'Apache Spark', 'Data Science']}]","R,Statistics,Machine Learning"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Programming', 'Data Mining', 'Strategy', 'Modeling']}, {'\n  Tools & Technologies': ['Microsoft Office', 'SAS', 'MySQL', 'Microsoft Excel', 'Python']}, {'\n  Interpersonal Skills': ['Teamwork', 'Management']}, {'\n  Other Skills': []}]","SQL,R,Business Analytics"
+,
+,
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Distributed Systems', 'Machine Learning', 'Software Development']}, {'\n  Tools & Technologies': ['Eclipse', 'C', 'Linux', 'Ruby on Rails']}]","Algorithms,Java,Software Engineering"
+,
+"[{'\n  Tools & Technologies': ['Microsoft Excel', 'Microsoft Office', 'SAS', 'Adobe Creative Suite', 'Tableau']}, {'\n  Interpersonal Skills': ['Public Speaking', 'Team Leadership']}, {'\n  Languages': ['Spanish']}]","Data Analysis,R,SQL"
+,
+"[{'\n  Industry Knowledge': ['Research', 'E-commerce', 'Quantitative Analytics']}, {'\n  Tools & Technologies': ['Microsoft Office', 'Python', 'SQL', 'Java', 'Tableau']}, {'\n  Interpersonal Skills': []}, {'\n  Languages': ['English']}, {'\n  Other Skills': ['Amazon Redshift']}]","Data Analysis,Teamwork,Microsoft Excel"
+,
+"[{'\n  Industry Knowledge': ['Algorithms', 'Data Mining', 'Big Data', 'Data Structures', 'Research', 'Continuous Improvement']}, {'\n  Tools & Technologies': ['C++', 'Java', 'R', 'C', 'Unix']}, {'\n  Interpersonal Skills': ['Leadership']}, {'\n  Other Skills': ['Information Retrieval', 'Pattern Recognition', 'MapReduce']}]","Machine Learning,Python,Hadoop"
+,
+"[{'\n  Industry Knowledge': ['Retail', 'Customer Experience', 'Accounting', 'Retail Sales', 'Customer Satisfaction', 'Inventory Management', 'Visual Merchandising', 'Store Management', 'Consumer Electronics', 'Accounts Receivable', 'Accounts Payable', 'Retail Banking', 'Banking']}, {'\n  Tools & Technologies': ['Microsoft Office', 'Microsoft Excel', 'Mac', 'iPhone', 'Microsoft Word', 'PowerPoint']}, {'\n  Interpersonal Skills': ['Team Leadership', 'Leadership', 'Training', 'Employee Training', 'Teamwork', 'Team Building']}, {'\n  Other Skills': ['iLife', 'iWork', 'Building Customer Loyalty', 'Mac OS']}]","Customer Service,Sales,OS X"
+,
+"[{'\n  Industry Knowledge': ['Research', 'Sociology', 'Quantitative Research', 'Higher Education']}, {'\n  Tools & Technologies': ['SPSS', 'Stata', 'R', 'Microsoft Office', 'Microsoft Excel']}, {'\n  Interpersonal Skills': ['Teaching', 'University Teaching', 'Public Speaking']}, {'\n  Other Skills': ['NVivo', 'Atlas.ti']}]","Data Analysis,Statistics,Qualitative Research"
+,
+"[{'\n  Tools & Technologies': ['Python', 'HTML', 'Bloomberg', 'CSS']}, {'\n  Other Skills': ['Spark']}]","Statistics,Japanese,Tableau"
+,
+"[{'\n  Industry Knowledge': ['Mathematical Modeling', 'Research', 'Machine Learning']}, {'\n  Tools & Technologies': ['Python', 'Microsoft Office', 'Matlab', 'C', 'Scala', 'Linux', 'Tensorflow']}, {'\n  Other Skills': ['Parallel Programming', 'Apache Spark', 'Artificial Neural Networks', 'Hive']}]","R,Data Analysis,Statistics"
+,
+,
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Strategic Planning', 'Business Analysis']}, {'\n  Tools & Technologies': ['Cisco Technologies']}, {'\n  Interpersonal Skills': ['Management', 'Team Building']}]","Project Management,Project Planning,Account Management"
+,
+"[{'\n  Industry Knowledge': ['Machine Learning', 'Linux System Administration', 'Numerical Analysis', 'Big Data', 'Project Management', 'Research', 'Data Analysis', 'Science', 'Higher Education']}, {'\n  Tools & Technologies': ['Java', 'Perl', 'C++', 'Matlab', 'Microsoft Office', 'Microsoft Excel', 'Microsoft Word', 'PowerPoint', 'Linux']}, {'\n  Interpersonal Skills': ['Public Speaking', 'Teaching']}, {'\n  Other Skills': ['Scientific Computing']}]","Statistics,R,Python"
+,
+"[{'\n  Industry Knowledge': []}, {'\n  Tools & Technologies': []}, {'\n  Other Skills': []}]",
+,
+"[{'\n  Industry Knowledge': ['Data Analysis', 'Data Mining', 'Statistical Modeling', 'SAS Programming', 'Business Analytics', 'Quantitative Analytics', 'Market Research', 'Demand Planning', 'Segmentation', 'Customer Insight', 'Statistics', 'Database Marketing', 'Web Analytics']}, {'\n  Tools & Technologies': ['Tableau', 'R', 'SQL']}, {'\n  Other Skills': ['Predictive Modeling', 'Time Series Analysis', 'Demand Forecasting', 'Marketing Analytics', 'Customer Analysis']}]","Analytics,Predictive Analytics,Cross-functional Team Leadership"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Analytics', 'Business Process Improvement', 'Insurance', 'Data Analysis', 'Management Consulting', 'Analysis', 'Business Analysis', 'CRM', 'Data Mining', 'Consulting']}, {'\n  Tools & Technologies': ['Stata', 'SAS Macros']}, {'\n  Interpersonal Skills': ['Management', 'Leadership']}, {'\n  Other Skills': ['Logistic Regression', 'Health Economics', 'Data Science', 'Terradata', 'GLMs', 'Bing Ads Accredited Professional']}]","SAS,SQL,Predictive Analytics"
+,
+"[{'\n  Industry Knowledge': ['Machine Learning', 'Statistics', 'Finite Element Analysis', 'Research']}, {'\n  Tools & Technologies': ['Microsoft Office']}, {'\n  Other Skills': ['Nanofabrication', 'Mechanics of Materials', 'Electron Microscopy', 'Density Functional Theory']}]","Data Analysis,Python,Matlab"
+,
+"[{'\n  Industry Knowledge': ['Civil Engineering', 'Statistics', 'Structural Analysis', 'Machine Learning', 'Finite Element Analysis', 'Signal Processing', 'Image Processing', 'Data Mining']}, {'\n  Tools & Technologies': ['LaTeX', 'Matlab', 'Python', 'R', 'MySQL']}, {'\n  Interpersonal Skills': ['Leadership']}, {'\n  Other Skills': ['Parallel Computing', 'scikit-learn', 'Earthquake Engineering', 'Data Science']}]","Data Analysis,Mathematical Modeling,Programming"
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Scalability', 'Big Data', 'Algorithms', 'Data Mining', 'Data Analysis', 'Analytics', 'Cloud Computing', 'Shell Scripting', 'Advertising', 'Mobile Advertising']}, {'\n  Tools & Technologies': ['SQL', 'NoSQL', 'C++', 'MySQL', 'Python', 'C', 'HBase', 'R', 'Linux', 'OS X', 'Java Enterprise Edition', 'Photoshop', 'Github', 'Git', 'REST']}, {'\n  Other Skills': ['MapReduce', 'Hive', 'Information Extraction', 'Information Retrieval']}]","Hadoop,Java,Distributed Systems"
+,
+,
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Algorithms', 'Big Data', 'Software Engineering', 'Analytics', 'Software Development']}, {'\n  Tools & Technologies': ['Unix', 'Java', 'C']}, {'\n  Interpersonal Skills': ['Management']}, {'\n  Other Skills': ['Classification', 'Random Forests', 'Datapath Placement', 'Regression Models', 'VLSI Placement']}]","Machine Learning,Data Mining,Python"
+,
+,
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Numerical Analysis', 'Data Mining', 'Statistics', 'Simulations', 'Statistical Modeling', 'Machine Learning', 'Programming', 'Algorithms', 'Research']}, {'\n  Tools & Technologies': ['R', 'Python', 'Mathematica']}, {'\n  Other Skills': ['Pattern Recognition']}]","Physics,Data Analysis,LaTeX"
+,
+,
+,
+,
+,
+[{'\n  Other Skills': []}],
+,
+,
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Data Mining', 'Machine Learning', 'Quantitative Analytics', 'Algorithms', 'Econometrics', 'Statistical Modeling']}, {'\n  Tools & Technologies': ['Python', 'Matlab', 'python', 'LaTeX']}]","Data Analysis,R,Statistics"
+,
+"[{'\n  Industry Knowledge': ['Business Intelligence', 'Analysis', 'Strategy', 'Business Development', 'Market Research', 'Data Analysis', 'Consulting', 'Business Analytics', 'Project Management', 'Financial Modeling', 'Requirements Analysis', 'CRM', 'Management Consulting', 'Data Mining', 'IT Strategy', 'SDLC', 'Statistical Modeling', 'Statistical Data Analysis', 'Machine Learning', 'Requirements Gathering', 'Supply Chain Management', 'Forecasting', 'Supply Chain Optimization']}, {'\n  Tools & Technologies': ['SQL', 'SPSS', 'C', 'Tableau', 'Microsoft SQL Server', 'R', 'SAS', 'Microsoft Office', 'Microsoft Excel', 'C++', 'Databases', 'Windows Azure', 'Python', 'MySQL', 'MINITAB', 'ASP.NET', 'Hadoop', 'Cognos', 'C#']}, {'\n  Interpersonal Skills': ['Team Management', 'Leadership', 'Management', 'Cross-functional Team Leadership']}, {'\n  Other Skills': ['Stochastic Modeling']}]","Business Analysis,Analytics,Business Strategy"
+,
+,
+,
+"[{'\n  Industry Knowledge': []}, {'\n  Tools & Technologies': []}, {'\n  Other Skills': []}]",
+,
+,
+,
+,
+,
+,
+,
+"[{'\n  Industry Knowledge': ['Technical Writing', 'E-Learning', 'Quality Assurance']}, {'\n  Tools & Technologies': []}, {'\n  Interpersonal Skills': ['Teaching']}, {'\n  Languages': ['Japanese', 'French']}, {'\n  Other Skills': ['Functional Specifications', 'Performance Benchmarking']}]","Data Analysis,Research,Language Teaching"
+,
+,
+,
+"[{'\n  Tools & Technologies': ['Python']}, {'\n  Interpersonal Skills': ['Leadership']}]","Public Speaking,Matlab,Research"

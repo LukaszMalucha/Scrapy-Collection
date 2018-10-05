@@ -1,0 +1,5 @@
+apple = 'https://www.linkedin.com/search/results/people/?company=&facetCurrentCompany=%5B%22162479%22%5D&firstName=&keywords=data%20scientist&lastName=&origin=FACETED_SEARCH&page={0}&school=&title=data%20scientist'
+google = 'https://www.linkedin.com/search/results/people/v2/?company=&facetCurrentCompany=%5B%221441%22%5D&firstName=&keywords=data%20scientist&lastName=&origin=FACETED_SEARCH&page={0}&school=&title=data%20scientist'
+amazon = 'https://www.linkedin.com/search/results/people/?company=&facetCurrentCompany=%5B%221586%22%5D&firstName=&keywords=data%20scientist&lastName=&origin=FACETED_SEARCH&page={0}&school=&title=data%20scientist '
+facebook = 'https://www.linkedin.com/search/results/people/?company=&facetCurrentCompany=%5B%2210667%22%5D&firstName=&keywords=data%20scientist&lastName=&origin=FACETED_SEARCH&page={0}&school=&title=data%20scientist'
+microsoft = 'https://www.linkedin.com/search/results/people/?company=&facetCurrentCompany=%5B%221035%22%5D&firstName=&keywords=data%20scientist&lastName=&origin=FACETED_SEARCH&page={0}&school=&title=data%20scientist'
