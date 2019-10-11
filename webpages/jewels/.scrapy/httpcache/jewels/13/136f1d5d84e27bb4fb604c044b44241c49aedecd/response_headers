@@ -1,0 +1,16 @@
+Date: Tue, 08 Oct 2019 20:37:58 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Pragma: no-cache
+Cache-Control: max-age=0, must-revalidate, no-cache, no-store
+Expires: Thu, 20 Sep 2018 07:37:15 GMT
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+X-Backend-Server: 172.31.20.21
+Access-Control-Allow-Origin: *
+Cf-Cache-Status: HIT
+Age: 1602042
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 522aea6d5a41299d-DUB
+Content-Encoding: gzip

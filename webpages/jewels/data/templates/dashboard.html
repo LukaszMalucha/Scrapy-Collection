@@ -1,0 +1,47 @@
+{% extends 'base.html' %}
+
+
+{% block content %}
+<div class="dashboard-cards">
+    <div class="row row-title">
+        <h5>Kilkenny Shop Dataset</h5>
+        <p>https://www.kilkennyshop.com</p>
+    </div>
+
+    <div class="row row-cards">
+        <div class="card table-card">
+            <div class="table-responsive" style="overflow-x: hidden;">
+                <table class="table table-striped table-bordered" id="dataTable">
+                    <thead>
+                    <tr>
+                        <th class="center">ID</th>
+                        <th class="center">Name</th>
+                        <th class="center">Price</th>
+                        <th class="center">Description</th>
+                        <th class="center">Image</th>
+
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {% for data in dataset %}
+                    <tr class="odd gradeA">
+                        <td class="center">{{data.product_id}}</td>
+                        <td class="center">
+                            {{data.name}}
+                        </td>
+                        <td class="center">{{data.price_euro}}</td>
+                        <td class="center col-description">{{data.description}}</td>
+                        <td class="center col-img"><img class="img-responsive" src="{{data.image_urls}}"></td>
+                    </tr>
+
+                    {% endfor %}
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+{% endblock %}

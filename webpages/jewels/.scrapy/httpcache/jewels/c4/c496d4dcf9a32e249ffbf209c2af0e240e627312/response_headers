@@ -1,0 +1,16 @@
+Date: Mon, 07 Oct 2019 18:47:55 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Pragma: no-cache
+Cache-Control: max-age=0, must-revalidate, no-cache, no-store
+Expires: Sun, 07 Oct 2018 18:47:55 GMT
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+X-Backend-Server: 172.31.20.21
+Access-Control-Allow-Origin: *
+Cf-Cache-Status: MISS
+Set-Cookie: __cflb=1260482026; Secure; path=/; expires=Mon, 07-Oct-19 19:47:55 GMT; HttpOnly
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 52220bc97c98a6b1-DUB
+Content-Encoding: gzip
