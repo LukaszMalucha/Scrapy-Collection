@@ -43,11 +43,11 @@ class CountriesSpider(Spider):
 
 
 			username = self.driver.find_element_by_class_name('login-email')
-			username.send_keys('lucasmalucha@gmail.com')
+			username.send_keys('')
 			sleep(0.5)	
 
 			password = self.driver.find_element_by_id('login-password')
-			password.send_keys('Chujek2323')
+			password.send_keys('')
 			sleep(0.5)
 			
 			sign_in_button = self.driver.find_element_by_xpath('//*[@type="submit"]')
