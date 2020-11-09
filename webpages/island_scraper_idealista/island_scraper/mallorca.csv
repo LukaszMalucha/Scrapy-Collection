@@ -1,0 +1,781 @@
+title,island,locality,price,beds,size,link,date,ad_type
+"Penthouse in calle del Llac Enol, Son Rapinya - Los Almendros, Palma de Mallorca",Mallorca,Palma de Mallorca,176000,3,77,https://www.idealista.com/en/inmueble/90854414/,2020-10-01,sale
+"Flat / Apartment in Son Oliva, Palma de Mallorca",Mallorca,Palma de Mallorca,145000,2,77,https://www.idealista.com/en/inmueble/84974949/,2020-10-01,sale
+"Flat / Apartment in Felanitx centro, Felanitx",Mallorca,Felanitx,180000,3,125,https://www.idealista.com/en/inmueble/90293489/,2020-10-01,sale
+"Flat / Apartment in calle Puig Major, 8, Sol de Mallorca, Calvià",Mallorca,Calvià,190000,3,112,https://www.idealista.com/en/inmueble/87530755/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,195000,4,117,https://www.idealista.com/en/inmueble/91228322/,2020-10-01,sale
+"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,156000,3,80,https://www.idealista.com/en/inmueble/91227928/,2020-10-01,sale
+"Flat / Apartment in Son Dureta, Palma de Mallorca",Mallorca,Palma de Mallorca,189000,4,113,https://www.idealista.com/en/inmueble/91225116/,2020-10-01,sale
+"Flat / Apartment in Can Picafort, Santa Margalida",Mallorca,Santa Margalida,185000,3,80,https://www.idealista.com/en/inmueble/85109262/,2020-10-01,sale
+"Flat / Apartment in Can Picafort, Santa Margalida",Mallorca,Santa Margalida,198000,3,95,https://www.idealista.com/en/inmueble/90949910/,2020-10-01,sale
+"Penthouse in Joan Mas i Mates, Sant Joan",Mallorca,Sant Joan,199000,3,285,https://www.idealista.com/en/inmueble/91209640/,2020-10-01,sale
+Flat / Apartment in Sa Coma,Mallorca,Sa Coma,180000,3,95,https://www.idealista.com/en/inmueble/91227130/,2020-10-01,sale
+"Penthouse in calle can ferrer, Son Ferrer, Calvià",Mallorca,Calvià,199900,2,60,https://www.idealista.com/en/inmueble/89755753/,2020-10-01,sale
+"Flat / Apartment in calle aragón, Son Canals - Can Capes, Palma de Mallorca",Mallorca,Palma de Mallorca,189000,3,115,https://www.idealista.com/en/inmueble/91224346/,2020-10-01,sale
+"Flat / Apartment in Cas saboners, 2, Palmanova, Calvià",Mallorca,Calvià,150000,2,70,https://www.idealista.com/en/inmueble/91211635/,2020-10-01,sale
+"Flat / Apartment in Palmanova, Calvià",Mallorca,Calvià,169000,2,73,https://www.idealista.com/en/inmueble/88876313/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,148000,3,93,https://www.idealista.com/en/inmueble/90353663/,2020-10-01,sale
+"Flat / Apartment in Son Gotleu, Palma de Mallorca",Mallorca,Palma de Mallorca,87300,4,75,https://www.idealista.com/en/inmueble/91220489/,2020-10-01,sale
+"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,165000,2,87,https://www.idealista.com/en/inmueble/87667824/,2020-10-01,sale
+"Flat / Apartment in CABRERA, 2, Pont d'Inca, Marratxi",Mallorca,Marratxi,128000,3,70,https://www.idealista.com/en/inmueble/91208403/,2020-10-01,sale
+"Flat / Apartment in arco de Sant Martí, Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,173250,3,98,https://www.idealista.com/en/inmueble/91226011/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,110000,2,58,https://www.idealista.com/en/inmueble/87087361/,2020-10-01,sale
+"Flat / Apartment in Gran Via de Colom, Inca",Mallorca,Inca,179900,3,90,https://www.idealista.com/en/inmueble/91221523/,2020-10-01,sale
+"Flat / Apartment in Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",Mallorca,Palma de Mallorca,114000,3,83,https://www.idealista.com/en/inmueble/91219640/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,148000,4,93,https://www.idealista.com/en/inmueble/91219468/,2020-10-01,sale
+"Flat / Apartment in Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,155000,2,77,https://www.idealista.com/en/inmueble/91206665/,2020-10-01,sale
+"Flat / Apartment in Magaluf, Calvià",Mallorca,Calvià,199000,3,70,https://www.idealista.com/en/inmueble/91223191/,2020-10-01,sale
+"Flat / Apartment in calle de Fra Antoni Llinàs, 32, Cas Capiscol, Palma de Mallorca",Mallorca,Palma de Mallorca,172000,3,162,https://www.idealista.com/en/inmueble/88497620/,2020-10-01,sale
+Flat / Apartment in Campos,Mallorca,Campos,149000,2,95,https://www.idealista.com/en/inmueble/91222500/,2020-10-01,sale
+"Flat / Apartment in Son Oliva, Palma de Mallorca",Mallorca,Palma de Mallorca,192000,4,98,https://www.idealista.com/en/inmueble/91192645/,2020-10-01,sale
+"Flat / Apartment in calle de Campanet, Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,150000,2,106,https://www.idealista.com/en/inmueble/91178629/,2020-10-01,sale
+"Penthouse in calle del Llac Enol, Son Rapinya - Los Almendros, Palma de Mallorca",Mallorca,Palma de Mallorca,176000,3,77,https://www.idealista.com/en/inmueble/90854414/,2020-10-01,sale
+"Flat / Apartment in Son Oliva, Palma de Mallorca",Mallorca,Palma de Mallorca,145000,2,77,https://www.idealista.com/en/inmueble/84974949/,2020-10-01,sale
+"Flat / Apartment in Felanitx centro, Felanitx",Mallorca,Felanitx,180000,3,125,https://www.idealista.com/en/inmueble/90293489/,2020-10-01,sale
+"Flat / Apartment in calle Puig Major, 8, Sol de Mallorca, Calvià",Mallorca,Calvià,190000,3,112,https://www.idealista.com/en/inmueble/87530755/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,195000,4,117,https://www.idealista.com/en/inmueble/91228322/,2020-10-01,sale
+"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,156000,3,80,https://www.idealista.com/en/inmueble/91227928/,2020-10-01,sale
+"Flat / Apartment in Son Dureta, Palma de Mallorca",Mallorca,Palma de Mallorca,189000,4,113,https://www.idealista.com/en/inmueble/91225116/,2020-10-01,sale
+"Flat / Apartment in Can Picafort, Santa Margalida",Mallorca,Santa Margalida,185000,3,80,https://www.idealista.com/en/inmueble/85109262/,2020-10-01,sale
+"Flat / Apartment in Can Picafort, Santa Margalida",Mallorca,Santa Margalida,198000,3,95,https://www.idealista.com/en/inmueble/90949910/,2020-10-01,sale
+"Penthouse in Joan Mas i Mates, Sant Joan",Mallorca,Sant Joan,199000,3,285,https://www.idealista.com/en/inmueble/91209640/,2020-10-01,sale
+Flat / Apartment in Sa Coma,Mallorca,Sa Coma,180000,3,95,https://www.idealista.com/en/inmueble/91227130/,2020-10-01,sale
+"Penthouse in calle can ferrer, Son Ferrer, Calvià",Mallorca,Calvià,199900,2,60,https://www.idealista.com/en/inmueble/89755753/,2020-10-01,sale
+"Flat / Apartment in calle aragón, Son Canals - Can Capes, Palma de Mallorca",Mallorca,Palma de Mallorca,189000,3,115,https://www.idealista.com/en/inmueble/91224346/,2020-10-01,sale
+"Flat / Apartment in Cas saboners, 2, Palmanova, Calvià",Mallorca,Calvià,150000,2,70,https://www.idealista.com/en/inmueble/91211635/,2020-10-01,sale
+"Flat / Apartment in Palmanova, Calvià",Mallorca,Calvià,169000,2,73,https://www.idealista.com/en/inmueble/88876313/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,148000,3,93,https://www.idealista.com/en/inmueble/90353663/,2020-10-01,sale
+"Flat / Apartment in Son Gotleu, Palma de Mallorca",Mallorca,Palma de Mallorca,87300,4,75,https://www.idealista.com/en/inmueble/91220489/,2020-10-01,sale
+"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,165000,2,87,https://www.idealista.com/en/inmueble/87667824/,2020-10-01,sale
+"Flat / Apartment in CABRERA, 2, Pont d'Inca, Marratxi",Mallorca,Marratxi,128000,3,70,https://www.idealista.com/en/inmueble/91208403/,2020-10-01,sale
+"Flat / Apartment in arco de Sant Martí, Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,173250,3,98,https://www.idealista.com/en/inmueble/91226011/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,110000,2,58,https://www.idealista.com/en/inmueble/87087361/,2020-10-01,sale
+"Flat / Apartment in Gran Via de Colom, Inca",Mallorca,Inca,179900,3,90,https://www.idealista.com/en/inmueble/91221523/,2020-10-01,sale
+"Flat / Apartment in Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",Mallorca,Palma de Mallorca,114000,3,83,https://www.idealista.com/en/inmueble/91219640/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,148000,4,93,https://www.idealista.com/en/inmueble/91219468/,2020-10-01,sale
+"Flat / Apartment in Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,155000,2,77,https://www.idealista.com/en/inmueble/91206665/,2020-10-01,sale
+"Flat / Apartment in Magaluf, Calvià",Mallorca,Calvià,199000,3,70,https://www.idealista.com/en/inmueble/91223191/,2020-10-01,sale
+"Flat / Apartment in calle de Fra Antoni Llinàs, 32, Cas Capiscol, Palma de Mallorca",Mallorca,Palma de Mallorca,172000,3,162,https://www.idealista.com/en/inmueble/88497620/,2020-10-01,sale
+Flat / Apartment in Campos,Mallorca,Campos,149000,2,95,https://www.idealista.com/en/inmueble/91222500/,2020-10-01,sale
+"Flat / Apartment in Son Oliva, Palma de Mallorca",Mallorca,Palma de Mallorca,192000,4,98,https://www.idealista.com/en/inmueble/91192645/,2020-10-01,sale
+"Flat / Apartment in calle de Campanet, Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,150000,2,106,https://www.idealista.com/en/inmueble/91178629/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,149000,2,90,https://www.idealista.com/en/inmueble/90395989/,2020-10-01,sale
+Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),160000,3,100,https://www.idealista.com/en/inmueble/89905661/,2020-10-01,sale
+"Penthouse in calle de Rafel Albertí, Blanquer, Inca",Mallorca,Inca,175000,2,129,https://www.idealista.com/en/inmueble/89963129/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,154000,2,66,https://www.idealista.com/en/inmueble/91207290/,2020-10-01,sale
+"Flat / Apartment in calle d'Indalecio Prieto, 25, Son Gotleu, Palma de Mallorca",Mallorca,Palma de Mallorca,135000,4,78,https://www.idealista.com/en/inmueble/91158323/,2020-10-01,sale
+Flat / Apartment in Cala d'Or,Mallorca,Cala d'Or,190000,2,90,https://www.idealista.com/en/inmueble/91202345/,2020-10-01,sale
+Flat / Apartment in Muro,Mallorca,Muro,135000,2,60,https://www.idealista.com/en/inmueble/91164004/,2020-10-01,sale
+"Flat / Apartment in Magaluf, Calvià",Mallorca,Calvià,199000,3,70,https://www.idealista.com/en/inmueble/91229778/,2020-10-01,sale
+"Flat / Apartment in virgen del carmen, 72, Puerto de Pollença",Mallorca,Puerto de Pollença,160000,3,130,https://www.idealista.com/en/inmueble/91219405/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,155000,3,86,https://www.idealista.com/en/inmueble/91202217/,2020-10-01,sale
+"Flat / Apartment in Cas Capiscol, Palma de Mallorca",Mallorca,Palma de Mallorca,172000,3,68,https://www.idealista.com/en/inmueble/91038878/,2020-10-01,sale
+"Flat / Apartment in calle Bernat de Santa Eugènia, Santa Maria del Cami",Mallorca,Santa Maria del Cami,189000,3,119,https://www.idealista.com/en/inmueble/89380483/,2020-10-01,sale
+"Flat / Apartment in Son Dameto, Palma de Mallorca",Mallorca,Palma de Mallorca,185000,2,81,https://www.idealista.com/en/inmueble/88591010/,2020-10-01,sale
+"Flat / Apartment in CARACAS, Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,166000,3,95,https://www.idealista.com/en/inmueble/91071450/,2020-10-01,sale
+"Flat / Apartment in Henri Dunant, 38, Son Oliva, Palma de Mallorca",Mallorca,Palma de Mallorca,154000,2,70,https://www.idealista.com/en/inmueble/91029718/,2020-10-01,sale
+"Flat / Apartment in calle Puerto Rico, Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,179000,3,100,https://www.idealista.com/en/inmueble/90634074/,2020-10-01,sale
+"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,180500,3,105,https://www.idealista.com/en/inmueble/90985101/,2020-10-01,sale
+"Flat / Apartment in calle d'En Nuno Sanç, Manacor Centro, Manacor",Mallorca,Manacor,139000,3,109,https://www.idealista.com/en/inmueble/90967521/,2020-10-01,sale
+"Flat / Apartment in isaac peral, Portocolom, Felanitx",Mallorca,Felanitx,167000,3,105,https://www.idealista.com/en/inmueble/89725392/,2020-10-01,sale
+"Penthouse in calle tirant lo balnc, Cristo Rey - Parque Europa, Inca",Mallorca,Inca,199500,3,121,https://www.idealista.com/en/inmueble/90398718/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,186000,4,150,https://www.idealista.com/en/inmueble/89983661/,2020-10-01,sale
+"Flat / Apartment in calle de la Talaia, Peguera, Calvià",Mallorca,Calvià,195000,3,81,https://www.idealista.com/en/inmueble/91150005/,2020-10-01,sale
+"Flat / Apartment in manacor, Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,149940,2,67,https://www.idealista.com/en/inmueble/90972779/,2020-10-01,sale
+"Flat / Apartment in Passatge Particular d'Escorca, Rafal Nou - Estadi Balear - Son Malferit, Palma de Mallorca",Mallorca,Palma de Mallorca,143000,3,85,https://www.idealista.com/en/inmueble/90376250/,2020-10-01,sale
+"Flat / Apartment in Antoni de Montis, 12, Camp d'En Serralta , Palma de Mallorca",Mallorca,Palma de Mallorca,165000,2,69,https://www.idealista.com/en/inmueble/90307821/,2020-10-01,sale
+"Penthouse in calle d'Alòs, Camp d'En Serralta , Palma de Mallorca",Mallorca,Palma de Mallorca,179000,2,73,https://www.idealista.com/en/inmueble/90305723/,2020-10-01,sale
+"Flat / Apartment in Esperanto, 43, Son Ferriol, Palma de Mallorca",Mallorca,Palma de Mallorca,170000,3,94,https://www.idealista.com/en/inmueble/89752922/,2020-10-01,sale
+"Flat / Apartment in cotlliure, Camp Redo, Palma de Mallorca",Mallorca,Palma de Mallorca,159000,3,75,https://www.idealista.com/en/inmueble/91211477/,2020-10-01,sale
+"Flat / Apartment in Son Gotleu, Palma de Mallorca",Mallorca,Palma de Mallorca,185000,3,90,https://www.idealista.com/en/inmueble/91180186/,2020-10-01,sale
+"Flat / Apartment in des Galió, Cala d'Or",Mallorca,Cala d'Or,169500,3,90,https://www.idealista.com/en/inmueble/91142762/,2020-10-01,sale
+"Flat / Apartment in Son Oliva, Palma de Mallorca",Mallorca,Palma de Mallorca,176000,3,89,https://www.idealista.com/en/inmueble/91084505/,2020-10-01,sale
+"Flat / Apartment in calle d'En Llorenç Villalonga, 8, Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,177000,2,85,https://www.idealista.com/en/inmueble/87367632/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,160000,3,73,https://www.idealista.com/en/inmueble/90904546/,2020-10-01,sale
+Flat / Apartment in Muro,Mallorca,Muro,159900,3,149,https://www.idealista.com/en/inmueble/90354051/,2020-10-01,sale
+"Flat / Apartment in calle d'Aragó, El Vivero, Palma de Mallorca",Mallorca,Palma de Mallorca,191000,3,105,https://www.idealista.com/en/inmueble/88473586/,2020-10-01,sale
+"Flat / Apartment in Son Dameto, Palma de Mallorca",Mallorca,Palma de Mallorca,199000,2,100,https://www.idealista.com/en/inmueble/86062961/,2020-10-01,sale
+"Flat / Apartment in calle de Martí Boneo, Son Dameto, Palma de Mallorca",Mallorca,Palma de Mallorca,179000,3,75,https://www.idealista.com/en/inmueble/91120809/,2020-10-01,sale
+Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),155000,3,180,https://www.idealista.com/en/inmueble/89746428/,2020-10-01,sale
+"Flat / Apartment in monturiol, 42, Cala Ratjada",Mallorca,Cala Ratjada,185000,2,92,https://www.idealista.com/en/inmueble/89258391/,2020-10-01,sale
+"Flat / Apartment in llevant, 13, Porto Cristo, Manacor",Mallorca,Manacor,149000,3,102,https://www.idealista.com/en/inmueble/88795557/,2020-10-01,sale
+"Flat / Apartment in avenida des Tren, 20, Son Servera",Mallorca,Son Servera,155000,2,90,https://www.idealista.com/en/inmueble/87420674/,2020-10-01,sale
+"Flat / Apartment in calle Rodríguez de la Fuente, 21, Muro",Mallorca,Muro,199000,3,190,https://www.idealista.com/en/inmueble/85645107/,2020-10-01,sale
+"Flat / Apartment in avenida d'Antoni Maura, Pont d'Inca, Marratxi",Mallorca,Marratxi,190000,3,110,https://www.idealista.com/en/inmueble/91148619/,2020-10-01,sale
+"Flat / Apartment in calle Belgica, Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,180000,2,95,https://www.idealista.com/en/inmueble/90390406/,2020-10-01,sale
+"Penthouse in calle Escorpora, S'Illot-Cala Morlanda, Manacor",Mallorca,Manacor,135000,3,122,https://www.idealista.com/en/inmueble/90357882/,2020-10-01,sale
+"Flat / Apartment in calle Sant Rafael, La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,179000,3,92,https://www.idealista.com/en/inmueble/90349027/,2020-10-01,sale
+"Flat / Apartment in calle d'Aragó, Hostalets - Son Fortesa Sud, Palma de Mallorca",Mallorca,Palma de Mallorca,179000,3,94,https://www.idealista.com/en/inmueble/87655948/,2020-10-01,sale
+"Flat / Apartment in calle Reis Catòlics, Son Canals - Can Capes, Palma de Mallorca",Mallorca,Palma de Mallorca,187000,3,130,https://www.idealista.com/en/inmueble/90153854/,2020-10-01,sale
+"Flat / Apartment in Palma, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,185000,2,74,https://www.idealista.com/en/inmueble/90130163/,2020-10-01,sale
+"Flat / Apartment in calle de Gràcia, Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,185000,3,125,https://www.idealista.com/en/inmueble/89937491/,2020-10-01,sale
+"Flat / Apartment in calle galdent, Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,139900,3,86,https://www.idealista.com/en/inmueble/89806057/,2020-10-01,sale
+"Flat / Apartment in calle d'Escorca, Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,195000,3,90,https://www.idealista.com/en/inmueble/88441793/,2020-10-01,sale
+"Flat / Apartment in cotllure, 38, Cas Capiscol, Palma de Mallorca",Mallorca,Palma de Mallorca,157000,2,75,https://www.idealista.com/en/inmueble/90739065/,2020-10-01,sale
+"Flat / Apartment in calle Duc Estremera, 14, Palmanova, Calvià",Mallorca,Calvià,200000,2,41,https://www.idealista.com/en/inmueble/91206403/,2020-10-01,sale
+"Flat / Apartment in calle de Joan Crespí, 34, Sta Catalina - El Jonquet, Palma de Mallorca",Mallorca,Palma de Mallorca,145000,3,70,https://www.idealista.com/en/inmueble/90709470/,2020-10-01,sale
+"Flat / Apartment in SON NADAL, La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,188000,4,126,https://www.idealista.com/en/inmueble/90680410/,2020-10-01,sale
+"Flat / Apartment in TORRENTE, S'Arenal, Llucmajor",Mallorca,Llucmajor,190000,4,120,https://www.idealista.com/en/inmueble/89402179/,2020-10-01,sale
+"Flat / Apartment in andratx, 36, Andratx Pueblo, Andratx",Mallorca,Andratx,199000,3,134,https://www.idealista.com/en/inmueble/90617875/,2020-10-01,sale
+"Flat / Apartment in osca, 30, Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,170000,2,71,https://www.idealista.com/en/inmueble/89045360/,2020-10-01,sale
+"Flat / Apartment in calle de Frida Kahlo, 5, Plaça de Toros, Palma de Mallorca",Mallorca,Palma de Mallorca,198000,3,98,https://www.idealista.com/en/inmueble/88907612/,2020-10-01,sale
+"Flat / Apartment in calle de Joan Alcover, 22, Montuiri",Mallorca,Montuiri,169000,3,140,https://www.idealista.com/en/inmueble/87056158/,2020-10-01,sale
+"Penthouse in calle de Rocinante, Son Ferriol, Palma de Mallorca",Mallorca,Palma de Mallorca,145000,2,79,https://www.idealista.com/en/inmueble/91088863/,2020-10-01,sale
+"Flat / Apartment in Federico Garcia Lorca, Magaluf, Calvià",Mallorca,Calvià,199900,3,73,https://www.idealista.com/en/inmueble/90817471/,2020-10-01,sale
+Duplex in Muro,Mallorca,Muro,183000,3,90,https://www.idealista.com/en/inmueble/91071149/,2020-10-01,sale
+"Flat / Apartment in calle Paraires, 2, Centro, Inca",Mallorca,Inca,180000,4,175,https://www.idealista.com/en/inmueble/90366743/,2020-10-01,sale
+"Flat / Apartment in calle Puig d'Alaró, Cala Major, Palma de Mallorca",Mallorca,Palma de Mallorca,142000,2,70,https://www.idealista.com/en/inmueble/87919807/,2020-10-01,sale
+"Flat / Apartment in calle trasimeno, Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,139000,3,85,https://www.idealista.com/en/inmueble/91152387/,2020-10-01,sale
+"Duplex in calle Frontó, Sineu",Mallorca,Sineu,183600,2,80,https://www.idealista.com/en/inmueble/91087842/,2020-10-01,sale
+"Duplex in calle Lluna, Sineu",Mallorca,Sineu,195000,2,140,https://www.idealista.com/en/inmueble/91066907/,2020-10-01,sale
+"Penthouse in albatros, Son Ferrer, Calvià",Mallorca,Calvià,198000,3,140,https://www.idealista.com/en/inmueble/90998100/,2020-10-01,sale
+"Flat / Apartment in calle del Temple, Sindicat, Palma de Mallorca",Mallorca,Palma de Mallorca,198000,3,80,https://www.idealista.com/en/inmueble/90956434/,2020-10-01,sale
+"Flat / Apartment in calle de son Nadal, La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,185000,4,140,https://www.idealista.com/en/inmueble/90889001/,2020-10-01,sale
+"Flat / Apartment in travesía Jesús, Bons Aires, Palma de Mallorca",Mallorca,Palma de Mallorca,185000,4,108,https://www.idealista.com/en/inmueble/90542389/,2020-10-01,sale
+Penthouse in Campos,Mallorca,Campos,180000,2,65,https://www.idealista.com/en/inmueble/87644660/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,157000,3,75,https://www.idealista.com/en/inmueble/91013954/,2020-10-01,sale
+"Flat / Apartment in Formentor, 36, Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,139000,3,109,https://www.idealista.com/en/inmueble/87387518/,2020-10-01,sale
+"Flat / Apartment in calle de Salou, 4, Sa Indiotería - Son Castelló, Palma de Mallorca",Mallorca,Palma de Mallorca,140000,3,97,https://www.idealista.com/en/inmueble/91186494/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,166000,3,85,https://www.idealista.com/en/inmueble/91095616/,2020-10-01,sale
+"Flat / Apartment in Centro, Inca",Mallorca,Inca,179000,3,170,https://www.idealista.com/en/inmueble/91034253/,2020-10-01,sale
+"Flat / Apartment in calle des Colomer, Campos",Mallorca,Campos,139480,3,112,https://www.idealista.com/en/inmueble/91074159/,2020-10-01,sale
+"Flat / Apartment in Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,199000,2,90,https://www.idealista.com/en/inmueble/87471699/,2020-10-01,sale
+Flat / Apartment in Santa Margalida,Mallorca,Santa Margalida,165000,3,90,https://www.idealista.com/en/inmueble/90997629/,2020-10-01,sale
+"Flat / Apartment in calle de la Murta, Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,168900,2,90,https://www.idealista.com/en/inmueble/89933504/,2020-10-01,sale
+"Flat / Apartment in calle Sant Isidre Llaurador, Hostalets - Son Fortesa Sud, Palma de Mallorca",Mallorca,Palma de Mallorca,175000,3,100,https://www.idealista.com/en/inmueble/90101623/,2020-10-01,sale
+"Flat / Apartment in calle Sagasta, Pobla (Sa)",Mallorca,Pobla (Sa),149900,3,108,https://www.idealista.com/en/inmueble/90659293/,2020-10-01,sale
+"Flat / Apartment in de josep maria llompart, Cristo Rey - Parque Europa, Inca",Mallorca,Inca,177000,3,110,https://www.idealista.com/en/inmueble/90650673/,2020-10-01,sale
+"Flat / Apartment in estacion, Porreres",Mallorca,Porreres,155000,2,101,https://www.idealista.com/en/inmueble/90622472/,2020-10-01,sale
+"Flat / Apartment in calle Camp redó, Camp Redo, Palma de Mallorca",Mallorca,Palma de Mallorca,185000,2,80,https://www.idealista.com/en/inmueble/90621326/,2020-10-01,sale
+"Flat / Apartment in calle pere seriol, Andratx Pueblo, Andratx",Mallorca,Andratx,199900,2,101,https://www.idealista.com/en/inmueble/90618872/,2020-10-01,sale
+"Penthouse in calle Llotgeta, Sindicat, Palma de Mallorca",Mallorca,Palma de Mallorca,194900,2,90,https://www.idealista.com/en/inmueble/90558750/,2020-10-01,sale
+"Flat / Apartment in calle manacor, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,169900,3,95,https://www.idealista.com/en/inmueble/90253348/,2020-10-01,sale
+"Duplex in CL TRAMUNTANA, Sineu",Mallorca,Sineu,199900,3,117,https://www.idealista.com/en/inmueble/90241314/,2020-10-01,sale
+"Flat / Apartment in illes balears, Porreres",Mallorca,Porreres,182000,3,123,https://www.idealista.com/en/inmueble/89852857/,2020-10-01,sale
+"Flat / Apartment in reyes catolics, Son Canals - Can Capes, Palma de Mallorca",Mallorca,Palma de Mallorca,199900,3,93,https://www.idealista.com/en/inmueble/88165344/,2020-10-01,sale
+"Flat / Apartment in Son Corb, 35, Cala Millor",Mallorca,Cala Millor,147000,3,88,https://www.idealista.com/en/inmueble/90697619/,2020-10-01,sale
+"Flat / Apartment in calle Port de Palos, 3, Portocolom, Felanitx",Mallorca,Felanitx,170000,2,66,https://www.idealista.com/en/inmueble/90460783/,2020-10-01,sale
+"Flat / Apartment in Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,129000,3,94,https://www.idealista.com/en/inmueble/89864209/,2020-10-01,sale
+"Flat / Apartment in Cristo Rey - Parque Europa, Inca",Mallorca,Inca,165000,2,75,https://www.idealista.com/en/inmueble/91099541/,2020-10-01,sale
+"Flat / Apartment in Cas Capiscol, Palma de Mallorca",Mallorca,Palma de Mallorca,185000,2,75,https://www.idealista.com/en/inmueble/90723859/,2020-10-01,sale
+"Flat / Apartment in calle del General Riera, 90, Camp Redo, Palma de Mallorca",Mallorca,Palma de Mallorca,180000,4,110,https://www.idealista.com/en/inmueble/88121450/,2020-10-01,sale
+"Flat / Apartment in L' est, Campos",Mallorca,Campos,169000,3,85,https://www.idealista.com/en/inmueble/89792306/,2020-10-01,sale
+"Penthouse in calle de Santiago Álvarez Avellan, Sa Indiotería - Son Castelló, Palma de Mallorca",Mallorca,Palma de Mallorca,162000,4,115,https://www.idealista.com/en/inmueble/88876479/,2020-10-01,sale
+"Flat / Apartment in travesía Jesús, Bons Aires, Palma de Mallorca",Mallorca,Palma de Mallorca,184000,3,79,https://www.idealista.com/en/inmueble/82307850/,2020-10-01,sale
+"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,190000,3,90,https://www.idealista.com/en/inmueble/90344359/,2020-10-01,sale
+"Penthouse in avenida Son Rigo, Les Maravelles, Palma de Mallorca",Mallorca,Palma de Mallorca,199000,2,60,https://www.idealista.com/en/inmueble/87821345/,2020-10-01,sale
+"Penthouse in calle bonança, Colonia de Sant Jordi",Mallorca,Colonia de Sant Jordi,175000,2,70,https://www.idealista.com/en/inmueble/89840393/,2020-10-01,sale
+"Penthouse in malgrana, Son Cladera - Son Fuster, Palma de Mallorca",Mallorca,Palma de Mallorca,128000,3,82,https://www.idealista.com/en/inmueble/89417897/,2020-10-01,sale
+"Flat / Apartment in calle del Pare Ventura, Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,184000,3,85,https://www.idealista.com/en/inmueble/87535732/,2020-10-01,sale
+"Flat / Apartment in Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,159500,3,84,https://www.idealista.com/en/inmueble/87394340/,2020-10-01,sale
+"Penthouse in El Vivero, Palma de Mallorca",Mallorca,Palma de Mallorca,139000,3,95,https://www.idealista.com/en/inmueble/87220416/,2020-10-01,sale
+"Flat / Apartment in asuncion, 4, Portocolom, Felanitx",Mallorca,Felanitx,149900,2,58,https://www.idealista.com/en/inmueble/87218091/,2020-10-01,sale
+"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,169500,3,80,https://www.idealista.com/en/inmueble/84276139/,2020-10-01,sale
+"Flat / Apartment in alos, Camp d'En Serralta , Palma de Mallorca",Mallorca,Palma de Mallorca,189980,2,58,https://www.idealista.com/en/inmueble/90861549/,2020-10-01,sale
+"Flat / Apartment in calle del Lledoner, Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,184900,3,85,https://www.idealista.com/en/inmueble/90627410/,2020-10-01,sale
+"Flat / Apartment in El Forti, Palma de Mallorca",Mallorca,Palma de Mallorca,162000,3,92,https://www.idealista.com/en/inmueble/90296887/,2020-10-01,sale
+"Flat / Apartment in Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,178000,3,115,https://www.idealista.com/en/inmueble/89912166/,2020-10-01,sale
+"Penthouse in Rafel Alberti, Blanquer, Inca",Mallorca,Inca,175000,2,180,https://www.idealista.com/en/inmueble/89904830/,2020-10-01,sale
+"Flat / Apartment in AGUSTIN ARGUELLES, Ciutat d'Alcúdia, Alcúdia",Mallorca,Alcúdia,166000,2,118,https://www.idealista.com/en/inmueble/91172275/,2020-10-01,sale
+"Flat / Apartment in avenida Mèxic, 4, Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,165000,3,76,https://www.idealista.com/en/inmueble/91037565/,2020-10-01,sale
+"Flat / Apartment in Sa Torre, NN, Sa Torre, Llucmajor",Mallorca,Llucmajor,177000,2,82,https://www.idealista.com/en/inmueble/90829396/,2020-10-01,sale
+"Flat / Apartment in calle d'Albacete, Camp Redo, Palma de Mallorca",Mallorca,Palma de Mallorca,163000,3,70,https://www.idealista.com/en/inmueble/89775676/,2020-10-01,sale
+"Flat / Apartment in calle sol, 65, Porreres",Mallorca,Porreres,125000,2,75,https://www.idealista.com/en/inmueble/83880147/,2020-10-01,sale
+"Flat / Apartment in calle murillo, Cala Pi-Vallgornera, Llucmajor",Mallorca,Llucmajor,170000,2,80,https://www.idealista.com/en/inmueble/89021138/,2020-10-01,sale
+"Flat / Apartment in calle maria antonia salva, 48, S'Arenal, Llucmajor",Mallorca,Llucmajor,180000,3,130,https://www.idealista.com/en/inmueble/86588243/,2020-10-01,sale
+"Flat / Apartment in Antoni Maria Alcover, NN, S'Arenal, Llucmajor",Mallorca,Llucmajor,175000,3,109,https://www.idealista.com/en/inmueble/91053390/,2020-10-01,sale
+"Penthouse in calle de l'Ametler, Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,180000,2,96,https://www.idealista.com/en/inmueble/90872845/,2020-10-01,sale
+"Flat / Apartment in calle de Ses Salines, Rafal Nou - Estadi Balear - Son Malferit, Palma de Mallorca",Mallorca,Palma de Mallorca,198500,2,83,https://www.idealista.com/en/inmueble/90949872/,2020-10-01,sale
+"Flat / Apartment in Font d sa vila, NN, Andratx Pueblo, Andratx",Mallorca,Andratx,185000,2,75,https://www.idealista.com/en/inmueble/90652650/,2020-10-01,sale
+"Penthouse in RAFAEL RAMIS I TOGURES, Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,199500,3,90,https://www.idealista.com/en/inmueble/90305737/,2020-10-01,sale
+"Flat / Apartment in paseo Ferrocarril, Manacor Centro, Manacor",Mallorca,Manacor,165000,2,80,https://www.idealista.com/en/inmueble/90123278/,2020-10-01,sale
+"Flat / Apartment in ronda Oest, Porto Cristo, Manacor",Mallorca,Manacor,156600,2,67,https://www.idealista.com/en/inmueble/90022275/,2020-10-01,sale
+"Flat / Apartment in Ferrocarril, Manacor Centro, Manacor",Mallorca,Manacor,174070,2,73,https://www.idealista.com/en/inmueble/90021614/,2020-10-01,sale
+"Flat / Apartment in calle de Joan Homs, 11, Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,164000,3,86,https://www.idealista.com/en/inmueble/88590698/,2020-10-01,sale
+"Flat / Apartment in calle de Berlín, Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,170000,2,77,https://www.idealista.com/en/inmueble/89355070/,2020-10-01,sale
+"Penthouse in trancadors, S'Arenal, Llucmajor",Mallorca,Llucmajor,199500,3,140,https://www.idealista.com/en/inmueble/89291804/,2020-10-01,sale
+"Flat / Apartment in cannes, Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,189000,2,57,https://www.idealista.com/en/inmueble/88745685/,2020-10-01,sale
+"Penthouse in carretera MILITAR, Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,145000,2,65,https://www.idealista.com/en/inmueble/82299027/,2020-10-01,sale
+"Flat / Apartment in Son Rapinya - Los Almendros, Palma de Mallorca",Mallorca,Palma de Mallorca,165000,2,70,https://www.idealista.com/en/inmueble/90971256/,2020-10-01,sale
+"Flat / Apartment in calle JOAN MUNTANER I BUJOSA, Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,117000,3,80,https://www.idealista.com/en/inmueble/90982161/,2020-10-01,sale
+"Flat / Apartment in calle de Cala Mitjana, Son Cladera - Son Fuster, Palma de Mallorca",Mallorca,Palma de Mallorca,198000,3,84,https://www.idealista.com/en/inmueble/90890398/,2020-10-01,sale
+"Flat / Apartment in avenida TOMAS DE VILLANUEVA CORTES, Son Oliva, Palma de Mallorca",Mallorca,Palma de Mallorca,168000,3,98,https://www.idealista.com/en/inmueble/90763840/,2020-10-01,sale
+"Penthouse in Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",Mallorca,Palma de Mallorca,139000,3,74,https://www.idealista.com/en/inmueble/90722691/,2020-10-01,sale
+"Flat / Apartment in Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,198000,3,69,https://www.idealista.com/en/inmueble/90329969/,2020-10-01,sale
+"Flat / Apartment in Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,199000,3,124,https://www.idealista.com/en/inmueble/89881184/,2020-10-01,sale
+"Flat / Apartment in calle d'Albacete, Camp Redo, Palma de Mallorca",Mallorca,Palma de Mallorca,163000,3,80,https://www.idealista.com/en/inmueble/89701253/,2020-10-01,sale
+"Penthouse in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,182000,3,105,https://www.idealista.com/en/inmueble/89379903/,2020-10-01,sale
+"Flat / Apartment in Son Canals - Can Capes, Palma de Mallorca",Mallorca,Palma de Mallorca,180000,3,90,https://www.idealista.com/en/inmueble/89104602/,2020-10-01,sale
+"Flat / Apartment in Son Gotleu, Palma de Mallorca",Mallorca,Palma de Mallorca,120000,3,98,https://www.idealista.com/en/inmueble/90856699/,2020-10-01,sale
+"Flat / Apartment in Son Canals - Can Capes, Palma de Mallorca",Mallorca,Palma de Mallorca,175000,4,112,https://www.idealista.com/en/inmueble/90853350/,2020-10-01,sale
+"Flat / Apartment in Sa Indiotería - Son Castelló, Palma de Mallorca",Mallorca,Palma de Mallorca,172000,3,118,https://www.idealista.com/en/inmueble/90789571/,2020-10-01,sale
+"Flat / Apartment in calle de Florència, Son Xigala, Palma de Mallorca",Mallorca,Palma de Mallorca,186000,3,90,https://www.idealista.com/en/inmueble/86435014/,2020-10-01,sale
+"Flat / Apartment in COILLURE, Camp Redo, Palma de Mallorca",Mallorca,Palma de Mallorca,170000,2,80,https://www.idealista.com/en/inmueble/90869343/,2020-10-01,sale
+"Flat / Apartment in Magaluf, NN, Magaluf, Calvià",Mallorca,Calvià,185000,3,65,https://www.idealista.com/en/inmueble/89269506/,2020-10-01,sale
+"Flat / Apartment in calle Mare de Déu de Montserrat, 17, Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,190000,3,100,https://www.idealista.com/en/inmueble/88705172/,2020-10-01,sale
+"Flat / Apartment in calle de Pere Ripoll i Palou, 20, Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,188000,3,112,https://www.idealista.com/en/inmueble/88551005/,2020-10-01,sale
+"Flat / Apartment in ferragut, 4, Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",Mallorca,Palma de Mallorca,117260,3,83,https://www.idealista.com/en/inmueble/86679693/,2020-10-01,sale
+"Flat / Apartment in Magaluf, Calvià",Mallorca,Calvià,156000,2,65,https://www.idealista.com/en/inmueble/84663180/,2020-10-01,sale
+"Flat / Apartment in Reina Maria de Monpeller, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,192000,4,115,https://www.idealista.com/en/inmueble/91180503/,2020-10-01,sale
+"Flat / Apartment in avenida Gabriel Alomar, 15, Pont d'Inca, Marratxi",Mallorca,Marratxi,140000,2,71,https://www.idealista.com/en/inmueble/90956851/,2020-10-01,sale
+"Penthouse in calle Ferrer de Pallarès, 12, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,165500,3,80,https://www.idealista.com/en/inmueble/90754823/,2020-10-01,sale
+"Flat / Apartment in plaza de Miquel Riera i Perelló, Sa Indiotería - Son Castelló, Palma de Mallorca",Mallorca,Palma de Mallorca,170000,2,90,https://www.idealista.com/en/inmueble/90389454/,2020-10-01,sale
+"Flat / Apartment in Des forn, 13, Montuiri",Mallorca,Montuiri,175000,2,120,https://www.idealista.com/en/inmueble/87895842/,2020-10-01,sale
+"Flat / Apartment in Camp Redo, Palma de Mallorca",Mallorca,Palma de Mallorca,190000,3,83,https://www.idealista.com/en/inmueble/90700713/,2020-10-01,sale
+"Flat / Apartment in Rafal Nou - Estadi Balear - Son Malferit, Palma de Mallorca",Mallorca,Palma de Mallorca,189000,3,85,https://www.idealista.com/en/inmueble/90492300/,2020-10-01,sale
+"Flat / Apartment in Gran Via de Colom, Gran Via de Colom, Inca",Mallorca,Inca,149800,3,104,https://www.idealista.com/en/inmueble/90263411/,2020-10-01,sale
+"Flat / Apartment in sant agusti, 49, Felanitx centro, Felanitx",Mallorca,Felanitx,132000,3,94,https://www.idealista.com/en/inmueble/90231932/,2020-10-01,sale
+"Penthouse in salut, S'Arenal, Llucmajor",Mallorca,Llucmajor,199000,2,70,https://www.idealista.com/en/inmueble/90046099/,2020-10-01,sale
+"Flat / Apartment in calle cala mitjana, 49, Son Cladera - Son Fuster, Palma de Mallorca",Mallorca,Palma de Mallorca,198000,3,85,https://www.idealista.com/en/inmueble/86166442/,2020-10-01,sale
+"Flat / Apartment in Can Picafort, Santa Margalida",Mallorca,Santa Margalida,198500,3,85,https://www.idealista.com/en/inmueble/91037477/,2020-10-01,sale
+"Flat / Apartment in Can Picafort, Santa Margalida",Mallorca,Santa Margalida,199000,3,90,https://www.idealista.com/en/inmueble/91037452/,2020-10-01,sale
+"Flat / Apartment in Camp d'En Serralta , Palma de Mallorca",Mallorca,Palma de Mallorca,198000,3,100,https://www.idealista.com/en/inmueble/90929416/,2020-10-01,sale
+"Flat / Apartment in Son Ferrer, Calvià",Mallorca,Calvià,181000,2,70,https://www.idealista.com/en/inmueble/38731244/,2020-10-01,sale
+"Flat / Apartment in calle del Bisbe Sastre, Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,153000,2,62,https://www.idealista.com/en/inmueble/90477668/,2020-10-01,sale
+"Penthouse in sa font de sa vila, Andratx Pueblo, Andratx",Mallorca,Andratx,185000,2,75,https://www.idealista.com/en/inmueble/90305776/,2020-10-01,sale
+"Flat / Apartment in ARAGO, Marqués de la Fontsanta, Palma de Mallorca",Mallorca,Palma de Mallorca,190000,3,97,https://www.idealista.com/en/inmueble/90051302/,2020-10-01,sale
+Flat / Apartment in Cala Millor,Mallorca,Cala Millor,180285,2,93,https://www.idealista.com/en/inmueble/88819822/,2020-10-01,sale
+"Flat / Apartment in José Martinez, La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,160000,3,82,https://www.idealista.com/en/inmueble/87045749/,2020-10-01,sale
+"Flat / Apartment in calle joan muntaner i bujosa, Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,117000,3,79,https://www.idealista.com/en/inmueble/86060260/,2020-10-01,sale
+"Flat / Apartment in Can Picafort, Santa Margalida",Mallorca,Santa Margalida,135000,2,69,https://www.idealista.com/en/inmueble/91119684/,2020-10-01,sale
+"Penthouse in Centro, Inca",Mallorca,Inca,179000,3,125,https://www.idealista.com/en/inmueble/91119672/,2020-10-01,sale
+"Flat / Apartment in Magaluf, Calvià",Mallorca,Calvià,130000,2,50,https://www.idealista.com/en/inmueble/90854134/,2020-10-01,sale
+"Penthouse in Centro, Inca",Mallorca,Inca,137000,2,80,https://www.idealista.com/en/inmueble/90335157/,2020-10-01,sale
+"Flat / Apartment in calle Puig de l'Ofre, Santa Ponça, Calvià",Mallorca,Calvià,195000,4,120,https://www.idealista.com/en/inmueble/88230584/,2020-10-01,sale
+"Flat / Apartment in calle del Capità Vila, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,157000,2,75,https://www.idealista.com/en/inmueble/91020300/,2020-10-01,sale
+"Flat / Apartment in calle Terral, 52, S'Arenal, Llucmajor",Mallorca,Llucmajor,175000,3,76,https://www.idealista.com/en/inmueble/90993353/,2020-10-01,sale
+"Flat / Apartment in avenida Pere Mas i Reus, 29, Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,180000,2,65,https://www.idealista.com/en/inmueble/89728270/,2020-10-01,sale
+"Flat / Apartment in antoni maura, Blanquer, Inca",Mallorca,Inca,149900,3,117,https://www.idealista.com/en/inmueble/91005656/,2020-10-01,sale
+"Flat / Apartment in Can Picafort, Santa Margalida",Mallorca,Santa Margalida,170000,3,93,https://www.idealista.com/en/inmueble/90917556/,2020-10-01,sale
+"Flat / Apartment in Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,193000,4,120,https://www.idealista.com/en/inmueble/90675760/,2020-10-01,sale
+"Flat / Apartment in PUERTO RICO, Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,59800,3,100,https://www.idealista.com/en/inmueble/90323295/,2020-10-01,sale
+"Flat / Apartment in calle de Sagasta, 23, Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,186999,2,56,https://www.idealista.com/en/inmueble/90268886/,2020-10-01,sale
+"Flat / Apartment in Son Ferrer, Calvià",Mallorca,Calvià,169000,2,62,https://www.idealista.com/en/inmueble/90212626/,2020-10-01,sale
+"Flat / Apartment in avenida de Carles V, Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,190000,3,90,https://www.idealista.com/en/inmueble/89901026/,2020-10-01,sale
+Flat / Apartment in Campos,Mallorca,Campos,150000,3,97,https://www.idealista.com/en/inmueble/89839271/,2020-10-01,sale
+"Flat / Apartment in calle de Caracas, Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,175000,3,96,https://www.idealista.com/en/inmueble/88526642/,2020-10-01,sale
+"Flat / Apartment in La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,199900,3,142,https://www.idealista.com/en/inmueble/87114031/,2020-10-01,sale
+"Flat / Apartment in avenida Pedro Más i Reus, 8, Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,156900,2,75,https://www.idealista.com/en/inmueble/329586/,2020-10-01,sale
+"Flat / Apartment in INFANTA, El Terreno, Palma de Mallorca",Mallorca,Palma de Mallorca,126400,2,85,https://www.idealista.com/en/inmueble/82665206/,2020-10-01,sale
+"Flat / Apartment in Gran Via de Colom, Inca",Mallorca,Inca,132000,3,89,https://www.idealista.com/en/inmueble/89978614/,2020-10-01,sale
+"Flat / Apartment in arco de san martin, NN, Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,175000,3,98,https://www.idealista.com/en/inmueble/91145943/,2020-10-01,sale
+"Flat / Apartment in Felanitx centro, Felanitx",Mallorca,Felanitx,171000,3,104,https://www.idealista.com/en/inmueble/91137510/,2020-10-01,sale
+"Flat / Apartment in Son Oliva, Palma de Mallorca",Mallorca,Palma de Mallorca,180000,3,89,https://www.idealista.com/en/inmueble/91110684/,2020-10-01,sale
+"Flat / Apartment in calle Cap Blanc, 1, Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",Mallorca,Palma de Mallorca,133000,3,80,https://www.idealista.com/en/inmueble/91070419/,2020-10-01,sale
+"Penthouse in avenida de la Virgen, 124, Campos",Mallorca,Campos,177900,2,80,https://www.idealista.com/en/inmueble/90970446/,2020-10-01,sale
+"Flat / Apartment in calle Pintor Sorolla, 41, Centro, Inca",Mallorca,Inca,165000,3,85,https://www.idealista.com/en/inmueble/90964356/,2020-10-01,sale
+"Flat / Apartment in calle d'Aragó, 223, Son Cladera - Son Fuster, Palma de Mallorca",Mallorca,Palma de Mallorca,187000,3,95,https://www.idealista.com/en/inmueble/90811533/,2020-10-01,sale
+"Flat / Apartment in ronda de na de haros, NN, Campos",Mallorca,Campos,173000,2,80,https://www.idealista.com/en/inmueble/90779429/,2020-10-01,sale
+"Flat / Apartment in Centro, Inca",Mallorca,Inca,196000,3,145,https://www.idealista.com/en/inmueble/90405071/,2020-10-01,sale
+"Flat / Apartment in Andratx Pueblo, Andratx",Mallorca,Andratx,175000,2,84,https://www.idealista.com/en/inmueble/90399449/,2020-10-01,sale
+"Flat / Apartment in paseo MARITIMO CB de cala bona, Cala Millor",Mallorca,Cala Millor,140000,2,80,https://www.idealista.com/en/inmueble/90290963/,2020-10-01,sale
+"Flat / Apartment in Fry antoni llinas, Cas Capiscol, Palma de Mallorca",Mallorca,Palma de Mallorca,195000,3,130,https://www.idealista.com/en/inmueble/89761774/,2020-10-01,sale
+"Flat / Apartment in calle del Taronger, Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,187000,3,114,https://www.idealista.com/en/inmueble/89368019/,2020-10-01,sale
+"Duplex in calle de Santueri, Felanitx centro, Felanitx",Mallorca,Felanitx,145000,3,120,https://www.idealista.com/en/inmueble/84569081/,2020-10-01,sale
+"Flat / Apartment in Centro, Inca",Mallorca,Inca,145000,2,94,https://www.idealista.com/en/inmueble/91148482/,2020-10-01,sale
+"Flat / Apartment in Cristo Rey - Parque Europa, Inca",Mallorca,Inca,180800,3,90,https://www.idealista.com/en/inmueble/89010602/,2020-10-01,sale
+"Flat / Apartment in Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,159000,2,65,https://www.idealista.com/en/inmueble/91122668/,2020-10-01,sale
+"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,175000,3,75,https://www.idealista.com/en/inmueble/91074995/,2020-10-01,sale
+"Flat / Apartment in Portocolom, Felanitx",Mallorca,Felanitx,159500,2,65,https://www.idealista.com/en/inmueble/90782538/,2020-10-01,sale
+"Flat / Apartment in calle Isidoro Antillon, Son Canals - Can Capes, Palma de Mallorca",Mallorca,Palma de Mallorca,183000,3,85,https://www.idealista.com/en/inmueble/90693791/,2020-10-01,sale
+"Flat / Apartment in Son Oliva, Palma de Mallorca",Mallorca,Palma de Mallorca,199000,4,87,https://www.idealista.com/en/inmueble/90764842/,2020-10-01,sale
+"Flat / Apartment in sant rafael, La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,169000,3,90,https://www.idealista.com/en/inmueble/90141078/,2020-10-01,sale
+"Flat / Apartment in Can Picafort, Santa Margalida",Mallorca,Santa Margalida,199000,3,110,https://www.idealista.com/en/inmueble/87431872/,2020-10-01,sale
+"Penthouse in calle de joan baptista de la salle, 29, Centro, Inca",Mallorca,Inca,169000,3,130,https://www.idealista.com/en/inmueble/32921916/,2020-10-01,sale
+"Flat / Apartment in Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,198000,2,106,https://www.idealista.com/en/inmueble/91066294/,2020-10-01,sale
+"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,179000,2,90,https://www.idealista.com/en/inmueble/90993925/,2020-10-01,sale
+"Flat / Apartment in Porto Cristo, Manacor",Mallorca,Manacor,169000,2,70,https://www.idealista.com/en/inmueble/90981397/,2020-10-01,sale
+"Duplex in Centro, Inca",Mallorca,Inca,168000,3,94,https://www.idealista.com/en/inmueble/90915338/,2020-10-01,sale
+Flat / Apartment in Muro,Mallorca,Muro,136000,2,60,https://www.idealista.com/en/inmueble/90726648/,2020-10-01,sale
+"Flat / Apartment in calle Milana, Son Ferrer, Calvià",Mallorca,Calvià,189000,3,95,https://www.idealista.com/en/inmueble/90715462/,2020-10-01,sale
+"Penthouse in Rafael alberti, 55, Gran Via de Colom, Inca",Mallorca,Inca,168000,2,176,https://www.idealista.com/en/inmueble/90074794/,2020-10-01,sale
+"Flat / Apartment in Son Canals - Can Capes, Palma de Mallorca",Mallorca,Palma de Mallorca,167500,3,89,https://www.idealista.com/en/inmueble/88497572/,2020-10-01,sale
+"Flat / Apartment in ronda del Puerto, 4, Manacor Centro, Manacor",Mallorca,Manacor,168000,3,120,https://www.idealista.com/en/inmueble/28557244/,2020-10-01,sale
+"Flat / Apartment in Can Picafort, Santa Margalida",Mallorca,Santa Margalida,195000,3,110,https://www.idealista.com/en/inmueble/90982584/,2020-10-01,sale
+"Flat / Apartment in residencia, Can Picafort, Santa Margalida",Mallorca,Santa Margalida,183000,3,71,https://www.idealista.com/en/inmueble/90846709/,2020-10-01,sale
+"Flat / Apartment in via den jordi, Canyamel",Mallorca,Canyamel,198000,2,81,https://www.idealista.com/en/inmueble/90785521/,2020-10-01,sale
+"Flat / Apartment in Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,177000,3,92,https://www.idealista.com/en/inmueble/90631220/,2020-10-01,sale
+"Flat / Apartment in Son Gotleu, Palma de Mallorca",Mallorca,Palma de Mallorca,87300,3,75,https://www.idealista.com/en/inmueble/89871066/,2020-10-01,sale
+"Flat / Apartment in Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,130000,3,136,https://www.idealista.com/en/inmueble/89814832/,2020-10-01,sale
+"Flat / Apartment in calle de Cala Malgrana, 10, Son Cladera - Son Fuster, Palma de Mallorca",Mallorca,Palma de Mallorca,122000,3,81,https://www.idealista.com/en/inmueble/89274706/,2020-10-01,sale
+"Flat / Apartment in calle de Blanes Viale, 8, Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,160000,3,93,https://www.idealista.com/en/inmueble/86218036/,2020-10-01,sale
+"Flat / Apartment in plaza des Blanquer, 56, Blanquer, Inca",Mallorca,Inca,184000,3,190,https://www.idealista.com/en/inmueble/85184056/,2020-10-01,sale
+"Flat / Apartment in Manacor Centro, Manacor",Mallorca,Manacor,168000,2,92,https://www.idealista.com/en/inmueble/91184081/,2020-10-01,sale
+"Flat / Apartment in ronda de porrera, NN, Porreres",Mallorca,Porreres,170000,3,127,https://www.idealista.com/en/inmueble/91089747/,2020-10-01,sale
+"Flat / Apartment in calle de Berlín, Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,170000,2,82,https://www.idealista.com/en/inmueble/90941694/,2020-10-01,sale
+"Flat / Apartment in calle de Can Rayó, Gran Via de Colom, Inca",Mallorca,Inca,145000,2,65,https://www.idealista.com/en/inmueble/90925091/,2020-10-01,sale
+"Flat / Apartment in calle del Lledoner, Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,177000,3,90,https://www.idealista.com/en/inmueble/90892752/,2020-10-01,sale
+"Flat / Apartment in calle de Sagasta, Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,169000,3,61,https://www.idealista.com/en/inmueble/90868678/,2020-10-01,sale
+"Flat / Apartment in La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,177000,3,91,https://www.idealista.com/en/inmueble/90121147/,2020-10-01,sale
+"Flat / Apartment in Cas Capiscol, Palma de Mallorca",Mallorca,Palma de Mallorca,194500,3,121,https://www.idealista.com/en/inmueble/89288827/,2020-10-01,sale
+"Flat / Apartment in Rafael Moger, 1, Coll d'En Rabassa, Palma de Mallorca",Mallorca,Palma de Mallorca,195000,3,100,https://www.idealista.com/en/inmueble/89048138/,2020-10-01,sale
+"Flat / Apartment in Son Curt, Andratx Pueblo, Andratx",Mallorca,Andratx,139000,2,77,https://www.idealista.com/en/inmueble/40156877/,2020-10-01,sale
+"Flat / Apartment in Juan XXIII, 95, Puerto de Pollença",Mallorca,Puerto de Pollença,199000,3,90,https://www.idealista.com/en/inmueble/87921253/,2020-10-01,sale
+"Flat / Apartment in avenida Puig des Teix, Santa Ponça, Calvià",Mallorca,Calvià,194000,2,79,https://www.idealista.com/en/inmueble/87100729/,2020-10-01,sale
+"Flat / Apartment in avenida de Bartomeu Esteva Mestre Cuiner, Andrach, Andratx Pueblo, Andratx",Mallorca,Andratx,162500,3,95,https://www.idealista.com/en/inmueble/82946097/,2020-10-01,sale
+"Flat / Apartment in calle Juan XXIII, 43, 1, Puerto de Pollença",Mallorca,Puerto de Pollença,190000,3,90,https://www.idealista.com/en/inmueble/85571284/,2020-10-01,sale
+"Flat / Apartment in camino de Costitx, Inca, 4, Zona periurbana, Inca",Mallorca,Inca,158000,3,112,https://www.idealista.com/en/inmueble/83171755/,2020-10-01,sale
+Flat / Apartment in Alaró,Mallorca,Alaró,165000,3,90,https://www.idealista.com/en/inmueble/91146544/,2020-10-01,sale
+"Flat / Apartment in ronda de Catalunya, 31, Campos",Mallorca,Campos,163000,2,84,https://www.idealista.com/en/inmueble/90791623/,2020-10-01,sale
+"Flat / Apartment in Siquier, 5, La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,160000,3,98,https://www.idealista.com/en/inmueble/90740549/,2020-10-01,sale
+"Flat / Apartment in Rafal Nou - Estadi Balear - Son Malferit, Palma de Mallorca",Mallorca,Palma de Mallorca,190890,2,120,https://www.idealista.com/en/inmueble/90100357/,2020-10-01,sale
+"Flat / Apartment in calle de Cala Mitjana, 36, Son Cladera - Son Fuster, Palma de Mallorca",Mallorca,Palma de Mallorca,195000,2,100,https://www.idealista.com/en/inmueble/87524094/,2020-10-01,sale
+"Flat / Apartment in Gran Via Colom, Gran Via de Colom, Inca",Mallorca,Inca,168000,3,127,https://www.idealista.com/en/inmueble/89914406/,2020-10-01,sale
+"Flat / Apartment in Cap Roig, 1, Puerto de Pollença",Mallorca,Puerto de Pollença,190000,2,70,https://www.idealista.com/en/inmueble/83392182/,2020-10-01,sale
+"Flat / Apartment in avenida Parc, 84, Manacor Centro, Manacor",Mallorca,Manacor,180000,3,112,https://www.idealista.com/en/inmueble/89068845/,2020-10-01,sale
+"Duplex in calle Bonany, 94, Villafranca de Bonany",Mallorca,Villafranca de Bonany,170000,2,115,https://www.idealista.com/en/inmueble/2144767/,2020-10-01,sale
+"Flat / Apartment in Cala Major, Palma de Mallorca",Mallorca,Palma de Mallorca,147900,2,71,https://www.idealista.com/en/inmueble/85686117/,2020-10-01,sale
+"Penthouse in Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,143000,3,127,https://www.idealista.com/en/inmueble/91117472/,2020-10-01,sale
+"Flat / Apartment in Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,177000,2,70,https://www.idealista.com/en/inmueble/91076870/,2020-10-01,sale
+"Flat / Apartment in Son Ferriol, Palma de Mallorca",Mallorca,Palma de Mallorca,184000,2,72,https://www.idealista.com/en/inmueble/91002898/,2020-10-01,sale
+"Flat / Apartment in Plaça de Toros, Palma de Mallorca",Mallorca,Palma de Mallorca,179000,2,72,https://www.idealista.com/en/inmueble/90874583/,2020-10-01,sale
+Flat / Apartment in Muro,Mallorca,Muro,136000,2,60,https://www.idealista.com/en/inmueble/90545288/,2020-10-01,sale
+"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,172000,2,90,https://www.idealista.com/en/inmueble/87274757/,2020-10-01,sale
+"Flat / Apartment in Xaloc, Puerto de Pollença",Mallorca,Puerto de Pollença,167000,3,120,https://www.idealista.com/en/inmueble/90390020/,2020-10-01,sale
+"Duplex in calle d'En Gual, NN, Porto Cristo, Manacor",Mallorca,Manacor,120000,2,128,https://www.idealista.com/en/inmueble/88672389/,2020-10-01,sale
+"Duplex in Arxiduc, Palma de Mallorca",Mallorca,Palma de Mallorca,173000,2,63,https://www.idealista.com/en/inmueble/88466600/,2020-10-01,sale
+"Flat / Apartment in Can Pastilla, Palma de Mallorca",Mallorca,Palma de Mallorca,159000,2,63,https://www.idealista.com/en/inmueble/91124767/,2020-10-01,sale
+"Flat / Apartment in Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,119000,2,59,https://www.idealista.com/en/inmueble/91121822/,2020-10-01,sale
+"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,195000,3,124,https://www.idealista.com/en/inmueble/91097903/,2020-10-01,sale
+"Flat / Apartment in MALLORCA, Campos",Mallorca,Campos,139000,2,80,https://www.idealista.com/en/inmueble/91086197/,2020-10-01,sale
+"Flat / Apartment in Sa Torre, Llucmajor",Mallorca,Llucmajor,178500,2,88,https://www.idealista.com/en/inmueble/90892840/,2020-10-01,sale
+"Penthouse in Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,147000,3,124,https://www.idealista.com/en/inmueble/90864987/,2020-10-01,sale
+"Penthouse in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,195000,2,63,https://www.idealista.com/en/inmueble/90879754/,2020-10-01,sale
+Flat / Apartment in Porreres,Mallorca,Porreres,193000,3,120,https://www.idealista.com/en/inmueble/90756376/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,198000,4,115,https://www.idealista.com/en/inmueble/90737602/,2020-10-01,sale
+"Flat / Apartment in avenida LAS PALMERAS, NN, Ses Palmeres, Llucmajor",Mallorca,Llucmajor,177000,2,75,https://www.idealista.com/en/inmueble/87123981/,2020-10-01,sale
+"Flat / Apartment in Sa Torre, Llucmajor",Mallorca,Llucmajor,185000,3,90,https://www.idealista.com/en/inmueble/90547878/,2020-10-01,sale
+"Flat / Apartment in Cas Capiscol, Palma de Mallorca",Mallorca,Palma de Mallorca,169000,4,85,https://www.idealista.com/en/inmueble/90255971/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,199000,3,82,https://www.idealista.com/en/inmueble/90142579/,2020-10-01,sale
+"Flat / Apartment in La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,128700,3,79,https://www.idealista.com/en/inmueble/89929186/,2020-10-01,sale
+Penthouse in Campos,Mallorca,Campos,166000,3,100,https://www.idealista.com/en/inmueble/89840871/,2020-10-01,sale
+"Penthouse in Ciutat d'Alcúdia, Alcúdia",Mallorca,Alcúdia,185000,3,98,https://www.idealista.com/en/inmueble/89823618/,2020-10-01,sale
+"Flat / Apartment in Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,185000,3,157,https://www.idealista.com/en/inmueble/89789163/,2020-10-01,sale
+Duplex in Villafranca de Bonany,Mallorca,Villafranca de Bonany,152000,2,90,https://www.idealista.com/en/inmueble/31833700/,2020-10-01,sale
+"Flat / Apartment in Jose de diego, Son Gotleu, Palma de Mallorca",Mallorca,Palma de Mallorca,190000,3,90,https://www.idealista.com/en/inmueble/89352957/,2020-10-01,sale
+"Flat / Apartment in Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,189000,2,83,https://www.idealista.com/en/inmueble/82170102/,2020-10-01,sale
+"Flat / Apartment in Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,184000,2,70,https://www.idealista.com/en/inmueble/84253030/,2020-10-01,sale
+"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,150000,3,95,https://www.idealista.com/en/inmueble/91088037/,2020-10-01,sale
+"Flat / Apartment in Cala Ferrera - Cala Serena, Felanitx",Mallorca,Felanitx,140000,2,70,https://www.idealista.com/en/inmueble/90847933/,2020-10-01,sale
+"Flat / Apartment in Orellana, Can Picafort, Santa Margalida",Mallorca,Santa Margalida,190000,3,85,https://www.idealista.com/en/inmueble/90772350/,2020-10-01,sale
+"Flat / Apartment in calle Henri Dunant, Plaça de Toros, Palma de Mallorca",Mallorca,Palma de Mallorca,199000,2,104,https://www.idealista.com/en/inmueble/90675215/,2020-10-01,sale
+"Flat / Apartment in via mallorca, 36, Cala Ratjada",Mallorca,Cala Ratjada,168000,2,85,https://www.idealista.com/en/inmueble/90537441/,2020-10-01,sale
+"Flat / Apartment in Jacinto guerrero, NN, Son Oliva, Palma de Mallorca",Mallorca,Palma de Mallorca,145000,3,82,https://www.idealista.com/en/inmueble/90272136/,2020-10-01,sale
+"Penthouse in calle principe, 4, Manacor Centro, Manacor",Mallorca,Manacor,85000,2,86,https://www.idealista.com/en/inmueble/90100246/,2020-10-01,sale
+"Flat / Apartment in calle de la Porta de Santa Margalida, Sa Indiotería - Son Castelló, Palma de Mallorca",Mallorca,Palma de Mallorca,139000,3,90,https://www.idealista.com/en/inmueble/90099127/,2020-10-01,sale
+"Flat / Apartment in Torre den bibiloni, 25, Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,117500,2,86,https://www.idealista.com/en/inmueble/90095826/,2020-10-01,sale
+"Flat / Apartment in Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,157500,3,82,https://www.idealista.com/en/inmueble/88249777/,2020-10-01,sale
+"Flat / Apartment in homs, 11, Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,164000,3,86,https://www.idealista.com/en/inmueble/89876643/,2020-10-01,sale
+"Flat / Apartment in calle Mare de Déu de Montserrat, Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,159000,3,90,https://www.idealista.com/en/inmueble/88967962/,2020-10-01,sale
+"Flat / Apartment in Isidoro Antillon, 88, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,159900,3,70,https://www.idealista.com/en/inmueble/88578828/,2020-10-01,sale
+"Flat / Apartment in joan pons y marques, El Forti, Palma de Mallorca",Mallorca,Palma de Mallorca,197000,2,90,https://www.idealista.com/en/inmueble/88235449/,2020-10-01,sale
+"Flat / Apartment in Gran Via de Colom, Inca",Mallorca,Inca,167000,3,110,https://www.idealista.com/en/inmueble/84237238/,2020-10-01,sale
+"Flat / Apartment in Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,170000,4,115,https://www.idealista.com/en/inmueble/82794990/,2020-10-01,sale
+"Flat / Apartment in plaza Fèlix Rodríguez de la Fuente, Son Cladera - Son Fuster, Palma de Mallorca",Mallorca,Palma de Mallorca,98000,2,64,https://www.idealista.com/en/inmueble/90951639/,2020-10-01,sale
+"Flat / Apartment in Cap Roig, Puerto de Pollença",Mallorca,Puerto de Pollença,190000,2,57,https://www.idealista.com/en/inmueble/90942262/,2020-10-01,sale
+"Flat / Apartment in Binicanella, Cala Millor",Mallorca,Cala Millor,139000,2,94,https://www.idealista.com/en/inmueble/90917140/,2020-10-01,sale
+"Penthouse in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,170000,3,90,https://www.idealista.com/en/inmueble/90916481/,2020-10-01,sale
+"Duplex in calle del Mostassaf, Sineu",Mallorca,Sineu,182000,3,114,https://www.idealista.com/en/inmueble/90100883/,2020-10-01,sale
+"Flat / Apartment in RAMON DESBRULL, Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,169000,3,100,https://www.idealista.com/en/inmueble/90701563/,2020-10-01,sale
+"Flat / Apartment in avenida Reyes Catolicos, Gran Via de Colom, Inca",Mallorca,Inca,160000,2,75,https://www.idealista.com/en/inmueble/90628462/,2020-10-01,sale
+"Flat / Apartment in calle del General Riera, Cas Capiscol, Palma de Mallorca",Mallorca,Palma de Mallorca,170000,3,85,https://www.idealista.com/en/inmueble/90492304/,2020-10-01,sale
+"Flat / Apartment in carretera de Manacor, La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,159000,2,86,https://www.idealista.com/en/inmueble/90480243/,2020-10-01,sale
+"Flat / Apartment in avenida general luque, Gran Via de Colom, Inca",Mallorca,Inca,174000,3,125,https://www.idealista.com/en/inmueble/90335813/,2020-10-01,sale
+"Flat / Apartment in La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,200000,3,110,https://www.idealista.com/en/inmueble/90325265/,2020-10-01,sale
+"Flat / Apartment in guillem vives, Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,184000,2,80,https://www.idealista.com/en/inmueble/90253157/,2020-10-01,sale
+"Flat / Apartment in calle Santa Florentina, Son Gotleu, Palma de Mallorca",Mallorca,Palma de Mallorca,127000,3,99,https://www.idealista.com/en/inmueble/90100884/,2020-10-01,sale
+"Flat / Apartment in Cas Capiscol, Palma de Mallorca",Mallorca,Palma de Mallorca,165000,2,72,https://www.idealista.com/en/inmueble/90034712/,2020-10-01,sale
+"Flat / Apartment in calle Miquel Bisellach, Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,180000,3,87,https://www.idealista.com/en/inmueble/89939713/,2020-10-01,sale
+"Duplex in Eusebio Estada, Sa Indiotería - Son Castelló, Palma de Mallorca",Mallorca,Palma de Mallorca,173000,2,75,https://www.idealista.com/en/inmueble/89923559/,2020-10-01,sale
+"Flat / Apartment in Marina, Colonia de Sant Jordi",Mallorca,Colonia de Sant Jordi,199000,3,79,https://www.idealista.com/en/inmueble/89922419/,2020-10-01,sale
+"Flat / Apartment in calle de Francesc Julià, Son Gotleu, Palma de Mallorca",Mallorca,Palma de Mallorca,84500,3,85,https://www.idealista.com/en/inmueble/89445621/,2020-10-01,sale
+"Flat / Apartment in Carrer Reina Violant, Hostalets - Son Fortesa Sud, Palma de Mallorca",Mallorca,Palma de Mallorca,180000,2,80,https://www.idealista.com/en/inmueble/89628013/,2020-10-01,sale
+"Flat / Apartment in plaza de Libertad, Gran Via de Colom, Inca",Mallorca,Inca,195000,3,110,https://www.idealista.com/en/inmueble/39659484/,2020-10-01,sale
+"Flat / Apartment in Berga, 8, S'Arenal, Llucmajor",Mallorca,Llucmajor,200000,3,119,https://www.idealista.com/en/inmueble/84135471/,2020-10-01,sale
+"Flat / Apartment in Plaza, 1, Petra",Mallorca,Petra,195000,3,100,https://www.idealista.com/en/inmueble/91027216/,2020-10-01,sale
+"Flat / Apartment in Son Ferrer, Calvià",Mallorca,Calvià,180000,2,65,https://www.idealista.com/en/inmueble/90872737/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,139000,4,120,https://www.idealista.com/en/inmueble/90844576/,2020-10-01,sale
+"Flat / Apartment in isidoro antillon, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,170000,3,75,https://www.idealista.com/en/inmueble/90827554/,2020-10-01,sale
+"Penthouse in Son Ferrer, Calvià",Mallorca,Calvià,198000,2,70,https://www.idealista.com/en/inmueble/87586468/,2020-10-01,sale
+"Flat / Apartment in calle DE MALLORCA, Campos",Mallorca,Campos,147000,3,100,https://www.idealista.com/en/inmueble/90677781/,2020-10-01,sale
+"Flat / Apartment in Caballero d'Asphelt, Hostalets - Son Fortesa Sud, Palma de Mallorca",Mallorca,Palma de Mallorca,198000,3,87,https://www.idealista.com/en/inmueble/90664775/,2020-10-01,sale
+"Flat / Apartment in calle del Cap Blanc, Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",Mallorca,Palma de Mallorca,140000,3,80,https://www.idealista.com/en/inmueble/90322579/,2020-10-01,sale
+"Flat / Apartment in Garita, La Bonanova - Porto Pi, Palma de Mallorca",Mallorca,Palma de Mallorca,170000,2,70,https://www.idealista.com/en/inmueble/87919480/,2020-10-01,sale
+"Flat / Apartment in avenida PERE MAS I REUS, Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,180000,2,79,https://www.idealista.com/en/inmueble/89904173/,2020-10-01,sale
+"Flat / Apartment in calle Aragón, El Vivero, Palma de Mallorca",Mallorca,Palma de Mallorca,199000,3,105,https://www.idealista.com/en/inmueble/88032055/,2020-10-01,sale
+"Flat / Apartment in Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",Mallorca,Palma de Mallorca,125000,3,90,https://www.idealista.com/en/inmueble/85901832/,2020-10-01,sale
+"Flat / Apartment in Gran Via de Colom, Inca",Mallorca,Inca,169000,3,96,https://www.idealista.com/en/inmueble/91119682/,2020-10-01,sale
+"Flat / Apartment in Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,190000,3,61,https://www.idealista.com/en/inmueble/90915940/,2020-10-01,sale
+"Flat / Apartment in Son Oliva, Palma de Mallorca",Mallorca,Palma de Mallorca,144500,2,75,https://www.idealista.com/en/inmueble/90675720/,2020-10-01,sale
+"Flat / Apartment in calle Puig de Massanella, 58, Cristo Rey - Parque Europa, Inca",Mallorca,Inca,165000,2,75,https://www.idealista.com/en/inmueble/90647248/,2020-10-01,sale
+"Flat / Apartment in Berga, S'Arenal, Llucmajor",Mallorca,Llucmajor,173000,4,155,https://www.idealista.com/en/inmueble/90590936/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,155000,3,102,https://www.idealista.com/en/inmueble/90560028/,2020-10-01,sale
+"Flat / Apartment in Centro, Inca",Mallorca,Inca,190000,3,95,https://www.idealista.com/en/inmueble/90423789/,2020-10-01,sale
+"Flat / Apartment in calle d'Eusebi Estada, 97, Plaça de Toros, Palma de Mallorca",Mallorca,Palma de Mallorca,185000,3,83,https://www.idealista.com/en/inmueble/87137191/,2020-10-01,sale
+"Flat / Apartment in calle del Llac Enol, 1, Son Rapinya - Los Almendros, Palma de Mallorca",Mallorca,Palma de Mallorca,195000,3,82,https://www.idealista.com/en/inmueble/38123459/,2020-10-01,sale
+"Flat / Apartment in avenida san fernando, Son Dameto, Palma de Mallorca",Mallorca,Palma de Mallorca,191000,4,115,https://www.idealista.com/en/inmueble/86957128/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,162000,3,73,https://www.idealista.com/en/inmueble/90772996/,2020-10-01,sale
+"Penthouse in Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,138000,3,127,https://www.idealista.com/en/inmueble/90606359/,2020-10-01,sale
+"Flat / Apartment in Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,199000,3,104,https://www.idealista.com/en/inmueble/90488781/,2020-10-01,sale
+"Penthouse in S'Arenal, Llucmajor",Mallorca,Llucmajor,175000,3,108,https://www.idealista.com/en/inmueble/90398929/,2020-10-01,sale
+Flat / Apartment in Santa Margalida,Mallorca,Santa Margalida,130000,2,85,https://www.idealista.com/en/inmueble/90393559/,2020-10-01,sale
+"Flat / Apartment in Marqués de la Fontsanta, Palma de Mallorca",Mallorca,Palma de Mallorca,190000,3,94,https://www.idealista.com/en/inmueble/89861334/,2020-10-01,sale
+"Flat / Apartment in Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,179000,2,75,https://www.idealista.com/en/inmueble/88450297/,2020-10-01,sale
+"Flat / Apartment in Porto Cristo, Manacor",Mallorca,Manacor,148500,3,160,https://www.idealista.com/en/inmueble/87423266/,2020-10-01,sale
+"Flat / Apartment in Manacor Centro, Manacor",Mallorca,Manacor,154500,3,105,https://www.idealista.com/en/inmueble/86573619/,2020-10-01,sale
+"Flat / Apartment in Manacor Centro, Manacor",Mallorca,Manacor,164000,4,137,https://www.idealista.com/en/inmueble/86573847/,2020-10-01,sale
+"Flat / Apartment in Manacor Centro, Manacor",Mallorca,Manacor,126000,3,150,https://www.idealista.com/en/inmueble/86426334/,2020-10-01,sale
+"Flat / Apartment in Cala Pi-Vallgornera, Llucmajor",Mallorca,Llucmajor,199000,2,80,https://www.idealista.com/en/inmueble/40253229/,2020-10-01,sale
+"Flat / Apartment in Blanquer, Inca",Mallorca,Inca,130000,2,85,https://www.idealista.com/en/inmueble/91190251/,2020-10-01,sale
+"Flat / Apartment in calle del Cap Blanc, Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",Mallorca,Palma de Mallorca,140000,3,73,https://www.idealista.com/en/inmueble/91030704/,2020-10-01,sale
+"Flat / Apartment in Son Ferrer, Calvià",Mallorca,Calvià,192000,3,85,https://www.idealista.com/en/inmueble/90483307/,2020-10-01,sale
+"Flat / Apartment in Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,119900,4,140,https://www.idealista.com/en/inmueble/90457258/,2020-10-01,sale
+"Penthouse in Blanquer, Inca",Mallorca,Inca,175000,2,180,https://www.idealista.com/en/inmueble/90309756/,2020-10-01,sale
+"Flat / Apartment in calle del Regal, Son Canals - Can Capes, Palma de Mallorca",Mallorca,Palma de Mallorca,195000,3,100,https://www.idealista.com/en/inmueble/90214505/,2020-10-01,sale
+"Flat / Apartment in La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,140000,3,98,https://www.idealista.com/en/inmueble/90140952/,2020-10-01,sale
+"Flat / Apartment in Porto Cristo, Manacor",Mallorca,Manacor,189000,4,120,https://www.idealista.com/en/inmueble/90115620/,2020-10-01,sale
+"Flat / Apartment in calle de Francesc Pi i Margall, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,172000,4,93,https://www.idealista.com/en/inmueble/89015877/,2020-10-01,sale
+"Flat / Apartment in calle del General Weyler, Cristo Rey - Parque Europa, Inca",Mallorca,Inca,180000,3,150,https://www.idealista.com/en/inmueble/88712731/,2020-10-01,sale
+"Flat / Apartment in Portocolom, Felanitx",Mallorca,Felanitx,169000,2,65,https://www.idealista.com/en/inmueble/89836382/,2020-10-01,sale
+"Flat / Apartment in calle de Son Poca Palla, Capdepera",Mallorca,Capdepera,170000,3,95,https://www.idealista.com/en/inmueble/88943964/,2020-10-01,sale
+"Flat / Apartment in calle de Sa Teulera, Capdepera",Mallorca,Capdepera,195000,3,118,https://www.idealista.com/en/inmueble/88756468/,2020-10-01,sale
+"Flat / Apartment in Can Rayo, Gran Via de Colom, Inca",Mallorca,Inca,135000,2,60,https://www.idealista.com/en/inmueble/36884383/,2020-10-01,sale
+Flat / Apartment in Montuiri,Mallorca,Montuiri,175000,2,123,https://www.idealista.com/en/inmueble/38922637/,2020-10-01,sale
+Penthouse in Santa Margalida,Mallorca,Santa Margalida,134400,3,105,https://www.idealista.com/en/inmueble/40256880/,2020-10-01,sale
+"Flat / Apartment in calle de Cotlliure, 19, Camp Redo, Palma de Mallorca",Mallorca,Palma de Mallorca,100000,2,50,https://www.idealista.com/en/inmueble/90909979/,2020-10-01,sale
+"Flat / Apartment in Cas Capiscol, Palma de Mallorca",Mallorca,Palma de Mallorca,184900,3,74,https://www.idealista.com/en/inmueble/90427856/,2020-10-01,sale
+"Flat / Apartment in calle de ses monges, Porto Cristo, Manacor",Mallorca,Manacor,162750,3,129,https://www.idealista.com/en/inmueble/90559088/,2020-10-01,sale
+"Penthouse in Sa Torre, Manacor Centro, Manacor",Mallorca,Manacor,139500,3,141,https://www.idealista.com/en/inmueble/89731588/,2020-10-01,sale
+"Flat / Apartment in Passatge de Cala Murta, El Vivero, Palma de Mallorca",Mallorca,Palma de Mallorca,149000,3,84,https://www.idealista.com/en/inmueble/89003767/,2020-10-01,sale
+"Flat / Apartment in Gabriel Cabronell, Son Gotleu, Palma de Mallorca",Mallorca,Palma de Mallorca,137200,3,79,https://www.idealista.com/en/inmueble/88651232/,2020-10-01,sale
+"Penthouse in calle Manacor, Campos",Mallorca,Campos,179000,3,110,https://www.idealista.com/en/inmueble/88521734/,2020-10-01,sale
+"Flat / Apartment in Cristo Rey - Parque Europa, Inca",Mallorca,Inca,167000,3,114,https://www.idealista.com/en/inmueble/88369564/,2020-10-01,sale
+"Flat / Apartment in paseo s'estacio, 10, Manacor Centro, Manacor",Mallorca,Manacor,170000,2,77,https://www.idealista.com/en/inmueble/91070051/,2020-10-01,sale
+Flat / Apartment in Campos,Mallorca,Campos,189000,2,110,https://www.idealista.com/en/inmueble/91040433/,2020-10-01,sale
+"Flat / Apartment in Andratx Pueblo, Andratx",Mallorca,Andratx,175000,2,84,https://www.idealista.com/en/inmueble/91021051/,2020-10-01,sale
+"Flat / Apartment in Porto Cristo, Manacor",Mallorca,Manacor,175000,3,95,https://www.idealista.com/en/inmueble/90867423/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,187000,4,94,https://www.idealista.com/en/inmueble/90762862/,2020-10-01,sale
+"Flat / Apartment in Son Ferrer, Calvià",Mallorca,Calvià,175000,2,65,https://www.idealista.com/en/inmueble/90712305/,2020-10-01,sale
+"Flat / Apartment in Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,184000,2,72,https://www.idealista.com/en/inmueble/90181346/,2020-10-01,sale
+"Penthouse in Santa Ponça, Calvià",Mallorca,Calvià,144800,2,43,https://www.idealista.com/en/inmueble/90048487/,2020-10-01,sale
+"Flat / Apartment in Santa Ponça, Calvià",Mallorca,Calvià,192500,2,55,https://www.idealista.com/en/inmueble/89778141/,2020-10-01,sale
+"Penthouse in Figera, Son Serra - La Vileta - Son Pereto, Palma de Mallorca",Mallorca,Palma de Mallorca,150000,3,77,https://www.idealista.com/en/inmueble/89614512/,2020-10-01,sale
+"Flat / Apartment in Magaluf, Calvià",Mallorca,Calvià,157000,2,56,https://www.idealista.com/en/inmueble/88698273/,2020-10-01,sale
+"Flat / Apartment in calle Cabana, Sa Cabana - Can Carbonell - Ses Cases Noves, Marratxi",Mallorca,Marratxi,198000,2,80,https://www.idealista.com/en/inmueble/88243351/,2020-10-01,sale
+"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,199000,3,95,https://www.idealista.com/en/inmueble/36548207/,2020-10-01,sale
+Flat / Apartment in Sa Ràpita,Mallorca,Sa Ràpita,197000,2,70,https://www.idealista.com/en/inmueble/91034557/,2020-10-01,sale
+"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,189000,3,115,https://www.idealista.com/en/inmueble/91034398/,2020-10-01,sale
+"Flat / Apartment in El Vivero, Palma de Mallorca",Mallorca,Palma de Mallorca,197000,3,105,https://www.idealista.com/en/inmueble/90985955/,2020-10-01,sale
+"Duplex in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,196000,4,125,https://www.idealista.com/en/inmueble/90971651/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,149000,2,87,https://www.idealista.com/en/inmueble/90946191/,2020-10-01,sale
+"Flat / Apartment in Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,197000,2,54,https://www.idealista.com/en/inmueble/88718170/,2020-10-01,sale
+"Penthouse in Son Canals - Can Capes, Palma de Mallorca",Mallorca,Palma de Mallorca,169000,3,90,https://www.idealista.com/en/inmueble/89354169/,2020-10-01,sale
+"Flat / Apartment in Blanquer, Inca",Mallorca,Inca,175000,3,116,https://www.idealista.com/en/inmueble/90776418/,2020-10-01,sale
+"Flat / Apartment in Son Oliva, Palma de Mallorca",Mallorca,Palma de Mallorca,176000,3,89,https://www.idealista.com/en/inmueble/88795664/,2020-10-01,sale
+"Penthouse in carretera de Manacor, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,126000,2,72,https://www.idealista.com/en/inmueble/89437043/,2020-10-01,sale
+"Flat / Apartment in Son Ferrer, Calvià",Mallorca,Calvià,165000,2,60,https://www.idealista.com/en/inmueble/88590418/,2020-10-01,sale
+"Duplex in calle de Santa Bàrbara, 82, Villafranca de Bonany",Mallorca,Villafranca de Bonany,165000,2,99,https://www.idealista.com/en/inmueble/88231979/,2020-10-01,sale
+"Flat / Apartment in Son Cladera - Son Fuster, Palma de Mallorca",Mallorca,Palma de Mallorca,119000,2,65,https://www.idealista.com/en/inmueble/87480255/,2020-10-01,sale
+"Flat / Apartment in Sant Agustí, Palma de Mallorca",Mallorca,Palma de Mallorca,199000,2,65,https://www.idealista.com/en/inmueble/40403888/,2020-10-01,sale
+"Flat / Apartment in Rafal Nou - Estadi Balear - Son Malferit, Palma de Mallorca",Mallorca,Palma de Mallorca,129000,3,95,https://www.idealista.com/en/inmueble/91139487/,2020-10-01,sale
+"Flat / Apartment in Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,137900,2,60,https://www.idealista.com/en/inmueble/91124270/,2020-10-01,sale
+"Flat / Apartment in Rafal Nou - Estadi Balear - Son Malferit, Palma de Mallorca",Mallorca,Palma de Mallorca,145000,3,89,https://www.idealista.com/en/inmueble/91098600/,2020-10-01,sale
+"Flat / Apartment in Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,155000,2,84,https://www.idealista.com/en/inmueble/91026602/,2020-10-01,sale
+"Flat / Apartment in calle del Vidriell, 27, Ciutat d'Alcúdia, Alcúdia",Mallorca,Alcúdia,164000,2,78,https://www.idealista.com/en/inmueble/90894800/,2020-10-01,sale
+Penthouse in Colonia de Sant Jordi,Mallorca,Colonia de Sant Jordi,199900,2,99,https://www.idealista.com/en/inmueble/90793616/,2020-10-01,sale
+Penthouse in Sant Joan,Mallorca,Sant Joan,199000,3,127,https://www.idealista.com/en/inmueble/90777131/,2020-10-01,sale
+"Flat / Apartment in Cristo Rey - Parque Europa, Inca",Mallorca,Inca,124000,3,102,https://www.idealista.com/en/inmueble/90718514/,2020-10-01,sale
+"Flat / Apartment in El Vivero, Palma de Mallorca",Mallorca,Palma de Mallorca,137000,3,68,https://www.idealista.com/en/inmueble/90693790/,2020-10-01,sale
+"Flat / Apartment in Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,190000,3,93,https://www.idealista.com/en/inmueble/90678591/,2020-10-01,sale
+Flat / Apartment in Cala d'Or,Mallorca,Cala d'Or,199500,2,78,https://www.idealista.com/en/inmueble/90638232/,2020-10-01,sale
+"Flat / Apartment in Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",Mallorca,Palma de Mallorca,114000,3,83,https://www.idealista.com/en/inmueble/90281961/,2020-10-01,sale
+"Flat / Apartment in Gran Via de Colom, Inca",Mallorca,Inca,131500,3,85,https://www.idealista.com/en/inmueble/90137925/,2020-10-01,sale
+"Flat / Apartment in Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,162000,2,68,https://www.idealista.com/en/inmueble/88885202/,2020-10-01,sale
+"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,156000,3,80,https://www.idealista.com/en/inmueble/89759967/,2020-10-01,sale
+"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,170000,3,171,https://www.idealista.com/en/inmueble/88978060/,2020-10-01,sale
+"Flat / Apartment in Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,196290,3,100,https://www.idealista.com/en/inmueble/88956672/,2020-10-01,sale
+"Flat / Apartment in Porto Cristo, Manacor",Mallorca,Manacor,165000,3,79,https://www.idealista.com/en/inmueble/88921953/,2020-10-01,sale
+"Flat / Apartment in Gran Via de Colom, Inca",Mallorca,Inca,179900,3,90,https://www.idealista.com/en/inmueble/86358309/,2020-10-01,sale
+"Flat / Apartment in Sindicat, Palma de Mallorca",Mallorca,Palma de Mallorca,199500,2,60,https://www.idealista.com/en/inmueble/85647789/,2020-10-01,sale
+"Flat / Apartment in Porto Cristo, Manacor",Mallorca,Manacor,127000,2,53,https://www.idealista.com/en/inmueble/37294621/,2020-10-01,sale
+"Flat / Apartment in Gran Via de Colom, Inca",Mallorca,Inca,199000,3,111,https://www.idealista.com/en/inmueble/91120932/,2020-10-01,sale
+"Flat / Apartment in Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,174000,2,75,https://www.idealista.com/en/inmueble/90893702/,2020-10-01,sale
+"Flat / Apartment in Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,160000,3,95,https://www.idealista.com/en/inmueble/90773180/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,145000,3,91,https://www.idealista.com/en/inmueble/90756998/,2020-10-01,sale
+"Flat / Apartment in Pere Joan Llobet, Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,195000,4,125,https://www.idealista.com/en/inmueble/90623869/,2020-10-01,sale
+"Flat / Apartment in calle Badia, Can Picafort, Santa Margalida",Mallorca,Santa Margalida,168000,2,48,https://www.idealista.com/en/inmueble/88727927/,2020-10-01,sale
+Flat / Apartment in Muro,Mallorca,Muro,198000,3,80,https://www.idealista.com/en/inmueble/26880364/,2020-10-01,sale
+"Flat / Apartment in calle del Pare Andreu Fernández, Manacor Centro, Manacor",Mallorca,Manacor,105000,2,80,https://www.idealista.com/en/inmueble/90798300/,2020-10-01,sale
+"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,165000,3,130,https://www.idealista.com/en/inmueble/90711996/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,173000,3,83,https://www.idealista.com/en/inmueble/90651906/,2020-10-01,sale
+"Flat / Apartment in calle d'Anglaterra, 4, El Terreno, Palma de Mallorca",Mallorca,Palma de Mallorca,195000,2,67,https://www.idealista.com/en/inmueble/37363674/,2020-10-01,sale
+"Flat / Apartment in calle de la Moreneta, 9, El Vivero, Palma de Mallorca",Mallorca,Palma de Mallorca,139500,3,68,https://www.idealista.com/en/inmueble/90169016/,2020-10-01,sale
+"Flat / Apartment in calle de Ca s'Hereu, 19, Cala Millor",Mallorca,Cala Millor,185000,3,98,https://www.idealista.com/en/inmueble/90149034/,2020-10-01,sale
+"Penthouse in Arxiduc, Palma de Mallorca",Mallorca,Palma de Mallorca,173000,2,63,https://www.idealista.com/en/inmueble/89940978/,2020-10-01,sale
+"Flat / Apartment in calle de Joan Alcover, 40, Alaró",Mallorca,Alaró,165000,3,93,https://www.idealista.com/en/inmueble/89922986/,2020-10-01,sale
+"Flat / Apartment in sant miquel, 30, Centro, Inca",Mallorca,Inca,148000,2,84,https://www.idealista.com/en/inmueble/85657688/,2020-10-01,sale
+"Flat / Apartment in C/Sureda, 62, Campos",Mallorca,Campos,179000,3,100,https://www.idealista.com/en/inmueble/89720423/,2020-10-01,sale
+"Flat / Apartment in calle Na Plana, 4, Maioris-Puig de Ros, Llucmajor",Mallorca,Llucmajor,199000,2,80,https://www.idealista.com/en/inmueble/37987165/,2020-10-01,sale
+"Flat / Apartment in carretera de Manacor, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,146000,3,90,https://www.idealista.com/en/inmueble/88518503/,2020-10-01,sale
+"Flat / Apartment in calle del Pare Joan Crespí, 14, Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,178000,3,87,https://www.idealista.com/en/inmueble/88481132/,2020-10-01,sale
+"Flat / Apartment in Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,159500,2,68,https://www.idealista.com/en/inmueble/88486011/,2020-10-01,sale
+"Flat / Apartment in La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,189000,4,102,https://www.idealista.com/en/inmueble/87792297/,2020-10-01,sale
+"Penthouse in calle de l'Oli, Pobla (Sa)",Mallorca,Pobla (Sa),120000,2,85,https://www.idealista.com/en/inmueble/87670347/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,127000,3,80,https://www.idealista.com/en/inmueble/87601696/,2020-10-01,sale
+"Flat / Apartment in La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,179000,2,68,https://www.idealista.com/en/inmueble/87552888/,2020-10-01,sale
+"Flat / Apartment in calle Comte de Sallent, 28, Bañalbufar",Mallorca,Bañalbufar,170000,2,60,https://www.idealista.com/en/inmueble/38360563/,2020-10-01,sale
+"Penthouse in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,198000,3,96,https://www.idealista.com/en/inmueble/87258046/,2020-10-01,sale
+"Flat / Apartment in calle 328, Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,196000,2,100,https://www.idealista.com/en/inmueble/90309934/,2020-10-01,sale
+"Flat / Apartment in calle de l'Estany Rodó, 3, Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,185000,2,90,https://www.idealista.com/en/inmueble/82106215/,2020-10-01,sale
+"Flat / Apartment in camino dels Reis, 25, Genova, Palma de Mallorca",Mallorca,Palma de Mallorca,156000,2,77,https://www.idealista.com/en/inmueble/81485978/,2020-10-01,sale
+"Flat / Apartment in ronda nord, 82, Pobla (Sa)",Mallorca,Pobla (Sa),160000,3,100,https://www.idealista.com/en/inmueble/32183218/,2020-10-01,sale
+"Flat / Apartment in paseo Estacio, 7, Manacor Centro, Manacor",Mallorca,Manacor,170000,2,86,https://www.idealista.com/en/inmueble/2076402/,2020-10-01,sale
+"Penthouse in puerto rico, 8, Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,185000,3,98,https://www.idealista.com/en/inmueble/91132313/,2020-10-01,sale
+"Flat / Apartment in Can Picafort, Santa Margalida",Mallorca,Santa Margalida,149500,2,90,https://www.idealista.com/en/inmueble/91018593/,2020-10-01,sale
+"Flat / Apartment in calle de l'Arc de Sant Martí, 58, Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,165000,3,98,https://www.idealista.com/en/inmueble/91015275/,2020-10-01,sale
+"Flat / Apartment in joan camps servera, Cala Millor",Mallorca,Cala Millor,180285,2,90,https://www.idealista.com/en/inmueble/91004875/,2020-10-01,sale
+"Flat / Apartment in Plaça de Toros, Palma de Mallorca",Mallorca,Palma de Mallorca,168000,3,70,https://www.idealista.com/en/inmueble/90900370/,2020-10-01,sale
+Flat / Apartment in Campos,Mallorca,Campos,189000,2,90,https://www.idealista.com/en/inmueble/90964158/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,179000,3,80,https://www.idealista.com/en/inmueble/90733118/,2020-10-01,sale
+"Penthouse in Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,179000,2,119,https://www.idealista.com/en/inmueble/90727575/,2020-10-01,sale
+"Flat / Apartment in Badia Blava-Badia Gran-Tolleric, Llucmajor",Mallorca,Llucmajor,149500,2,62,https://www.idealista.com/en/inmueble/90663527/,2020-10-01,sale
+"Flat / Apartment in Felanitx centro, Felanitx",Mallorca,Felanitx,131000,3,97,https://www.idealista.com/en/inmueble/85502816/,2020-10-01,sale
+"Flat / Apartment in Felanitx centro, Felanitx",Mallorca,Felanitx,98000,3,117,https://www.idealista.com/en/inmueble/88415218/,2020-10-01,sale
+"Flat / Apartment in Felanitx centro, Felanitx",Mallorca,Felanitx,195000,3,171,https://www.idealista.com/en/inmueble/87989275/,2020-10-01,sale
+"Penthouse in Rinco Greco, 4, Colonia de Sant Jordi",Mallorca,Colonia de Sant Jordi,180000,2,75,https://www.idealista.com/en/inmueble/88891868/,2020-10-01,sale
+"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,169900,3,85,https://www.idealista.com/en/inmueble/88467466/,2020-10-01,sale
+"Flat / Apartment in calle Mollet de l'Albufera, NN, Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,175000,3,100,https://www.idealista.com/en/inmueble/85199355/,2020-10-01,sale
+Flat / Apartment in Campos,Mallorca,Campos,165000,2,115,https://www.idealista.com/en/inmueble/91094782/,2020-10-01,sale
+"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,160000,2,65,https://www.idealista.com/en/inmueble/91054069/,2020-10-01,sale
+"Flat / Apartment in Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,179950,3,101,https://www.idealista.com/en/inmueble/90701060/,2020-10-01,sale
+"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,150000,2,65,https://www.idealista.com/en/inmueble/90957517/,2020-10-01,sale
+Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),148000,3,94,https://www.idealista.com/en/inmueble/90937988/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,163000,3,80,https://www.idealista.com/en/inmueble/90898623/,2020-10-01,sale
+Flat / Apartment in Arta,Mallorca,Arta,195000,2,76,https://www.idealista.com/en/inmueble/90847512/,2020-10-01,sale
+"Flat / Apartment in Manacor Centro, Manacor",Mallorca,Manacor,169000,3,141,https://www.idealista.com/en/inmueble/90841879/,2020-10-01,sale
+"Flat / Apartment in virgen de lluc, El Vivero, Palma de Mallorca",Mallorca,Palma de Mallorca,98000,3,80,https://www.idealista.com/en/inmueble/90810735/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,165000,3,76,https://www.idealista.com/en/inmueble/90738610/,2020-10-01,sale
+"Flat / Apartment in Blanquer, Inca",Mallorca,Inca,174000,2,90,https://www.idealista.com/en/inmueble/90650907/,2020-10-01,sale
+"Flat / Apartment in Cala Pi-Vallgornera, Llucmajor",Mallorca,Llucmajor,190000,2,81,https://www.idealista.com/en/inmueble/90678209/,2020-10-01,sale
+"Flat / Apartment in Santa Ponça, Calvià",Mallorca,Calvià,96000,2,45,https://www.idealista.com/en/inmueble/90655146/,2020-10-01,sale
+"Flat / Apartment in Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,180000,3,95,https://www.idealista.com/en/inmueble/90640522/,2020-10-01,sale
+"Flat / Apartment in Son Canals - Can Capes, Palma de Mallorca",Mallorca,Palma de Mallorca,190000,3,80,https://www.idealista.com/en/inmueble/90589107/,2020-10-01,sale
+Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),165000,4,182,https://www.idealista.com/en/inmueble/83731297/,2020-10-01,sale
+Flat / Apartment in Binissalem,Mallorca,Binissalem,179000,3,95,https://www.idealista.com/en/inmueble/90313714/,2020-10-01,sale
+"Penthouse in Cas Capiscol, Palma de Mallorca",Mallorca,Palma de Mallorca,195000,2,79,https://www.idealista.com/en/inmueble/90306679/,2020-10-01,sale
+"Flat / Apartment in avenida Rei Jaume II, 91, Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,158000,3,102,https://www.idealista.com/en/inmueble/90265319/,2020-10-01,sale
+"Flat / Apartment in Magaluf, Calvià",Mallorca,Calvià,169900,2,63,https://www.idealista.com/en/inmueble/90077419/,2020-10-01,sale
+"Penthouse in calle del Pare Guillem Vives, 7, Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,184000,2,75,https://www.idealista.com/en/inmueble/87614965/,2020-10-01,sale
+"Flat / Apartment in Pont d'Inca, Marratxi",Mallorca,Marratxi,123500,2,66,https://www.idealista.com/en/inmueble/89920656/,2020-10-01,sale
+"Flat / Apartment in santa ana, Muro",Mallorca,Muro,160000,2,95,https://www.idealista.com/en/inmueble/89800180/,2020-10-01,sale
+"Flat / Apartment in Andratx Pueblo, Andratx",Mallorca,Andratx,179000,2,90,https://www.idealista.com/en/inmueble/89695987/,2020-10-01,sale
+"Penthouse in Camp Redo, Palma de Mallorca",Mallorca,Palma de Mallorca,147000,2,60,https://www.idealista.com/en/inmueble/88087857/,2020-10-01,sale
+Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),150000,3,115,https://www.idealista.com/en/inmueble/89307591/,2020-10-01,sale
+Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),168000,4,189,https://www.idealista.com/en/inmueble/89003136/,2020-10-01,sale
+"Flat / Apartment in Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,195000,3,100,https://www.idealista.com/en/inmueble/88986917/,2020-10-01,sale
+Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),144900,3,90,https://www.idealista.com/en/inmueble/88058153/,2020-10-01,sale
+"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,196000,4,115,https://www.idealista.com/en/inmueble/88696739/,2020-10-01,sale
+"Duplex in Son Gotleu, Palma de Mallorca",Mallorca,Palma de Mallorca,136000,2,70,https://www.idealista.com/en/inmueble/88604864/,2020-10-01,sale
+"Flat / Apartment in Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,168000,2,67,https://www.idealista.com/en/inmueble/88475522/,2020-10-01,sale
+"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,177000,3,80,https://www.idealista.com/en/inmueble/85915067/,2020-10-01,sale
+"Flat / Apartment in Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,179000,2,71,https://www.idealista.com/en/inmueble/87079471/,2020-10-01,sale
+Flat / Apartment in Campos,Mallorca,Campos,137500,3,100,https://www.idealista.com/en/inmueble/86682191/,2020-10-01,sale
+"Flat / Apartment in Cala Pi-Vallgornera, Llucmajor",Mallorca,Llucmajor,190000,2,79,https://www.idealista.com/en/inmueble/82285240/,2020-10-01,sale
+Flat / Apartment in Puerto de Pollença,Mallorca,Puerto de Pollença,195000,3,120,https://www.idealista.com/en/inmueble/86278145/,2020-10-01,sale
+"Flat / Apartment in Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,180000,3,95,https://www.idealista.com/en/inmueble/86496704/,2020-10-01,sale
+"Flat / Apartment in Gran Via de Colom, Inca",Mallorca,Inca,175000,3,140,https://www.idealista.com/en/inmueble/84908255/,2020-10-01,sale
+"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,196000,3,87,https://www.idealista.com/en/inmueble/83693752/,2020-10-01,sale
+"Flat / Apartment in calle Pere II, 32, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,177000,4,80,https://www.idealista.com/en/inmueble/90732357/,2020-10-01,sale
+"Flat / Apartment in via Cornisa, 52, Santa Ponça, Calvià",Mallorca,Calvià,140000,2,52,https://www.idealista.com/en/inmueble/90684092/,2020-10-01,sale
+"Penthouse in ronda ponent, Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,159000,3,84,https://www.idealista.com/en/inmueble/90679524/,2020-10-01,sale
+"Flat / Apartment in calle Puerto Rico, 8, Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,169000,3,100,https://www.idealista.com/en/inmueble/90592737/,2020-10-01,sale
+"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,189500,3,90,https://www.idealista.com/en/inmueble/90530796/,2020-10-01,sale
+"Flat / Apartment in La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,169500,3,102,https://www.idealista.com/en/inmueble/90281964/,2020-10-01,sale
+"Flat / Apartment in Andratx Pueblo, Andratx",Mallorca,Andratx,159900,3,95,https://www.idealista.com/en/inmueble/90059277/,2020-10-01,sale
+Flat / Apartment in Puerto de Pollença,Mallorca,Puerto de Pollença,184500,2,80,https://www.idealista.com/en/inmueble/89090335/,2020-10-01,sale
+Flat / Apartment in Capdepera,Mallorca,Capdepera,175000,3,95,https://www.idealista.com/en/inmueble/86485056/,2020-10-01,sale
+"Flat / Apartment in calle Ficus, 3, Sa Coma",Mallorca,Sa Coma,180000,2,85,https://www.idealista.com/en/inmueble/83958723/,2020-10-01,sale
+"Flat / Apartment in calle d'henri dunant, 28, Son Oliva, Palma de Mallorca",Mallorca,Palma de Mallorca,185000,3,90,https://www.idealista.com/en/inmueble/32921596/,2020-10-01,sale
+"Flat / Apartment in sa taulera, 25, Andratx Pueblo, Andratx",Mallorca,Andratx,200000,3,100,https://www.idealista.com/en/inmueble/31098212/,2020-10-01,sale
+"Flat / Apartment in plaza Fèlix Rodríguez de la Fuente, 1, Son Cladera - Son Fuster, Palma de Mallorca",Mallorca,Palma de Mallorca,98000,2,64,https://www.idealista.com/en/inmueble/89317565/,2020-10-01,sale
+"Flat / Apartment in calle de Ramon de Montcada, 45, Santa Ponça, Calvià",Mallorca,Calvià,135000,2,42,https://www.idealista.com/en/inmueble/90540046/,2020-10-01,sale
+"Flat / Apartment in calle de Sant Gabriel, 1, Manacor Centro, Manacor",Mallorca,Manacor,195000,3,150,https://www.idealista.com/en/inmueble/90173219/,2020-10-01,sale
+"Flat / Apartment in camino Vell de Bunyola, 69, Sa Indiotería - Son Castelló, Palma de Mallorca",Mallorca,Palma de Mallorca,135000,3,94,https://www.idealista.com/en/inmueble/89986625/,2020-10-01,sale
+"Flat / Apartment in calle de Miquel Servet, 16, Manacor Centro, Manacor",Mallorca,Manacor,183000,3,125,https://www.idealista.com/en/inmueble/82975723/,2020-10-01,sale
+"Flat / Apartment in calle Poeta Guillem Colom, 1, Bons Aires, Palma de Mallorca",Mallorca,Palma de Mallorca,178000,3,94,https://www.idealista.com/en/inmueble/1651552/,2020-10-01,sale
+"Flat / Apartment in Blanquer, Inca",Mallorca,Inca,159000,3,90,https://www.idealista.com/en/inmueble/90950142/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,163000,3,73,https://www.idealista.com/en/inmueble/90740665/,2020-10-01,sale
+Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),168000,2,99,https://www.idealista.com/en/inmueble/90660403/,2020-10-01,sale
+Flat / Apartment in Cala Millor,Mallorca,Cala Millor,170000,2,79,https://www.idealista.com/en/inmueble/90654253/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,135000,2,70,https://www.idealista.com/en/inmueble/90565636/,2020-10-01,sale
+"Flat / Apartment in Centro, Inca",Mallorca,Inca,199000,3,211,https://www.idealista.com/en/inmueble/90488892/,2020-10-01,sale
+"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,190000,3,120,https://www.idealista.com/en/inmueble/90373399/,2020-10-01,sale
+"Flat / Apartment in Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,149000,2,77,https://www.idealista.com/en/inmueble/89084264/,2020-10-01,sale
+"Penthouse in calle de Guillem Terrassa, 37, Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,196000,3,110,https://www.idealista.com/en/inmueble/90328186/,2020-10-01,sale
+"Flat / Apartment in Son Dureta, Palma de Mallorca",Mallorca,Palma de Mallorca,188000,4,106,https://www.idealista.com/en/inmueble/90301679/,2020-10-01,sale
+"Flat / Apartment in Camp d'En Serralta , Palma de Mallorca",Mallorca,Palma de Mallorca,199000,3,84,https://www.idealista.com/en/inmueble/90293269/,2020-10-01,sale
+"Penthouse in Son Gotleu, Palma de Mallorca",Mallorca,Palma de Mallorca,138000,2,55,https://www.idealista.com/en/inmueble/90140616/,2020-10-01,sale
+Flat / Apartment in Campos,Mallorca,Campos,175000,3,102,https://www.idealista.com/en/inmueble/89947463/,2020-10-01,sale
+"Penthouse in Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,190000,3,139,https://www.idealista.com/en/inmueble/89927277/,2020-10-01,sale
+"Flat / Apartment in calle del Cap Blanc, 8, Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",Mallorca,Palma de Mallorca,140000,2,85,https://www.idealista.com/en/inmueble/89865914/,2020-10-01,sale
+"Flat / Apartment in calle Migjorn F, 7, Felanitx centro, Felanitx",Mallorca,Felanitx,131000,3,113,https://www.idealista.com/en/inmueble/89876468/,2020-10-01,sale
+Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),116600,3,92,https://www.idealista.com/en/inmueble/89091678/,2020-10-01,sale
+"Flat / Apartment in Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",Mallorca,Palma de Mallorca,133000,2,80,https://www.idealista.com/en/inmueble/88497918/,2020-10-01,sale
+"Penthouse in Badia Blava-Badia Gran-Tolleric, Llucmajor",Mallorca,Llucmajor,149000,2,48,https://www.idealista.com/en/inmueble/88070348/,2020-10-01,sale
+Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),140000,3,101,https://www.idealista.com/en/inmueble/88035998/,2020-10-01,sale
+"Flat / Apartment in Jaime II, Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,173250,3,100,https://www.idealista.com/en/inmueble/87628908/,2020-10-01,sale
+"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,190000,4,130,https://www.idealista.com/en/inmueble/87589228/,2020-10-01,sale
+"Flat / Apartment in calle Felio Morey Amengual, 29, Capdepera",Mallorca,Capdepera,155000,2,75,https://www.idealista.com/en/inmueble/37710797/,2020-10-01,sale
+"Flat / Apartment in avenida de la Virgen, 134, Campos",Mallorca,Campos,180000,2,110,https://www.idealista.com/en/inmueble/25880864/,2020-10-01,sale
+"Flat / Apartment in plaza Fra Joan Alcina, Son Gotleu, Palma de Mallorca",Mallorca,Palma de Mallorca,95000,2,66,https://www.idealista.com/en/inmueble/91007381/,2020-10-01,sale
+Flat / Apartment in Cala Ratjada,Mallorca,Cala Ratjada,168000,2,85,https://www.idealista.com/en/inmueble/90986321/,2020-10-01,sale
+"Penthouse in Santa Ponça, Calvià",Mallorca,Calvià,142000,2,42,https://www.idealista.com/en/inmueble/90876032/,2020-10-01,sale
+Duplex in Pobla (Sa),Mallorca,Pobla (Sa),148600,2,92,https://www.idealista.com/en/inmueble/88980926/,2020-10-01,sale
+"Flat / Apartment in avenida dels Reis Catòlics, Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,160000,2,75,https://www.idealista.com/en/inmueble/90690089/,2020-10-01,sale
+Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),169000,3,136,https://www.idealista.com/en/inmueble/90106400/,2020-10-01,sale
+Flat / Apartment in Santa Margalida,Mallorca,Santa Margalida,132500,2,85,https://www.idealista.com/en/inmueble/90400614/,2020-10-01,sale
+"Flat / Apartment in La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,139500,4,98,https://www.idealista.com/en/inmueble/90339759/,2020-10-01,sale
+Flat / Apartment in Muro,Mallorca,Muro,136000,2,60,https://www.idealista.com/en/inmueble/90365534/,2020-10-01,sale
+"Flat / Apartment in Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,198000,3,83,https://www.idealista.com/en/inmueble/90299076/,2020-10-01,sale
+"Flat / Apartment in calle Mar i Estany, NN, Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,193200,4,105,https://www.idealista.com/en/inmueble/85470883/,2020-10-01,sale
+"Flat / Apartment in Port d'Andratx, Andratx",Mallorca,Andratx,180000,2,68,https://www.idealista.com/en/inmueble/90055353/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,169000,3,86,https://www.idealista.com/en/inmueble/89854998/,2020-10-01,sale
+"Flat / Apartment in calle Gabriel Font i Martorell, Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,175000,3,70,https://www.idealista.com/en/inmueble/89753733/,2020-10-01,sale
+Duplex in Campos,Mallorca,Campos,185000,2,80,https://www.idealista.com/en/inmueble/89287554/,2020-10-01,sale
+"Flat / Apartment in calle Torre, Cala Pi-Vallgornera, Llucmajor",Mallorca,Llucmajor,190000,2,79,https://www.idealista.com/en/inmueble/89213857/,2020-10-01,sale
+"Flat / Apartment in Plaça de Toros, Palma de Mallorca",Mallorca,Palma de Mallorca,180000,3,106,https://www.idealista.com/en/inmueble/87938407/,2020-10-01,sale
+"Flat / Apartment in Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,173000,2,88,https://www.idealista.com/en/inmueble/87060573/,2020-10-01,sale
+Flat / Apartment in Cala Millor,Mallorca,Cala Millor,138000,2,60,https://www.idealista.com/en/inmueble/85725719/,2020-10-01,sale
+"Flat / Apartment in Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,150000,3,68,https://www.idealista.com/en/inmueble/90242305/,2020-10-01,sale
+"Penthouse in Felanitx centro, Felanitx",Mallorca,Felanitx,88000,2,74,https://www.idealista.com/en/inmueble/90045930/,2020-10-01,sale
+"Penthouse in Magaluf, Calvià",Mallorca,Calvià,173000,2,64,https://www.idealista.com/en/inmueble/89796083/,2020-10-01,sale
+"Flat / Apartment in calle flors, Portals Nous - Bendinat, Calvià",Mallorca,Calvià,198000,2,60,https://www.idealista.com/en/inmueble/89278882/,2020-10-01,sale
+"Flat / Apartment in Son Cladera - Son Fuster, Palma de Mallorca",Mallorca,Palma de Mallorca,199900,3,95,https://www.idealista.com/en/inmueble/88808480/,2020-10-01,sale
+"Penthouse in Santa Ponça, Calvià",Mallorca,Calvià,185000,2,75,https://www.idealista.com/en/inmueble/88309090/,2020-10-01,sale
+"Flat / Apartment in Cristo Rey - Parque Europa, Inca",Mallorca,Inca,169000,3,114,https://www.idealista.com/en/inmueble/88264000/,2020-10-01,sale
+"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,200000,3,95,https://www.idealista.com/en/inmueble/90916824/,2020-10-01,sale
+"Flat / Apartment in Gran Via de Colom, Inca",Mallorca,Inca,198000,3,128,https://www.idealista.com/en/inmueble/90900714/,2020-10-01,sale
+"Flat / Apartment in Penya y Segat - Villas de Regana, NN, Badia Blava-Badia Gran-Tolleric, Llucmajor",Mallorca,Llucmajor,155000,2,74,https://www.idealista.com/en/inmueble/88714442/,2020-10-01,sale
+"Flat / Apartment in Sa Cabana - Can Carbonell - Ses Cases Noves, Marratxi",Mallorca,Marratxi,198000,2,85,https://www.idealista.com/en/inmueble/90772781/,2020-10-01,sale
+"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,175000,4,140,https://www.idealista.com/en/inmueble/89745240/,2020-10-01,sale
+"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,130000,2,70,https://www.idealista.com/en/inmueble/89317364/,2020-10-01,sale
+"Flat / Apartment in calle de San Roc, Cala Ratjada",Mallorca,Cala Ratjada,159000,2,60,https://www.idealista.com/en/inmueble/90578618/,2020-10-01,sale
+Flat / Apartment in Son Servera,Mallorca,Son Servera,169000,2,100,https://www.idealista.com/en/inmueble/88526202/,2020-10-01,sale
+"Flat / Apartment in calle de Sant Lluc, 6, Sa Torre, Llucmajor",Mallorca,Llucmajor,175000,2,69,https://www.idealista.com/en/inmueble/86602819/,2020-10-01,sale
+"Flat / Apartment in calle de la Salut, 54, El Terreno, Palma de Mallorca",Mallorca,Palma de Mallorca,197000,2,92,https://www.idealista.com/en/inmueble/90885195/,2020-10-01,sale
+"Flat / Apartment in calle Salut, 1, S'Arenal, Llucmajor",Mallorca,Llucmajor,160000,2,70,https://www.idealista.com/en/inmueble/90847019/,2020-10-01,sale
+"Flat / Apartment in carretera valldemossa, Camp Redo, Palma de Mallorca",Mallorca,Palma de Mallorca,180000,3,110,https://www.idealista.com/en/inmueble/90788389/,2020-10-01,sale
+"Flat / Apartment in calle 327, 4, Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,200000,3,90,https://www.idealista.com/en/inmueble/90673728/,2020-10-01,sale
+"Flat / Apartment in calle des Forn, Cala Ferrera - Cala Serena, Felanitx",Mallorca,Felanitx,147000,2,70,https://www.idealista.com/en/inmueble/90652730/,2020-10-01,sale
+"Flat / Apartment in Cas Capiscol, Palma de Mallorca",Mallorca,Palma de Mallorca,199000,3,110,https://www.idealista.com/en/inmueble/88654529/,2020-10-01,sale
+"Flat / Apartment in via Gran, Gran Via de Colom, Inca",Mallorca,Inca,181000,3,92,https://www.idealista.com/en/inmueble/90465475/,2020-10-01,sale
+"Flat / Apartment in Cristo Rey - Parque Europa, Inca",Mallorca,Inca,175000,2,94,https://www.idealista.com/en/inmueble/90324590/,2020-10-01,sale
+Penthouse in Cala d'Or,Mallorca,Cala d'Or,199000,2,107,https://www.idealista.com/en/inmueble/89936953/,2020-10-01,sale
+"Flat / Apartment in Felanitx centro, Felanitx",Mallorca,Felanitx,120000,2,67,https://www.idealista.com/en/inmueble/88705250/,2020-10-01,sale
+"Flat / Apartment in Sa Indiotería - Son Castelló, Palma de Mallorca",Mallorca,Palma de Mallorca,120000,2,96,https://www.idealista.com/en/inmueble/91040207/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,195000,4,117,https://www.idealista.com/en/inmueble/90679343/,2020-10-01,sale
+"Flat / Apartment in Son Cladera - Son Fuster, Palma de Mallorca",Mallorca,Palma de Mallorca,168500,4,85,https://www.idealista.com/en/inmueble/90562351/,2020-10-01,sale
+"Flat / Apartment in ALFONS EL MAGNANIM, L'Olivera - Amanecer, Palma de Mallorca",Mallorca,Palma de Mallorca,179000,2,80,https://www.idealista.com/en/inmueble/89377626/,2020-10-01,sale
+"Flat / Apartment in Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,155000,3,91,https://www.idealista.com/en/inmueble/88887856/,2020-10-01,sale
+"Duplex in Bonany, Sant Joan",Mallorca,Sant Joan,165000,2,100,https://www.idealista.com/en/inmueble/87541261/,2020-10-01,sale
+"Flat / Apartment in carretera Militar, Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,180000,4,110,https://www.idealista.com/en/inmueble/87302920/,2020-10-01,sale
+"Flat / Apartment in carretera Militar, Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,180000,4,110,https://www.idealista.com/en/inmueble/87302661/,2020-10-01,sale
+"Flat / Apartment in Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,159900,2,71,https://www.idealista.com/en/inmueble/91019205/,2020-10-01,sale
+"Flat / Apartment in Magaluf, Calvià",Mallorca,Calvià,155000,2,56,https://www.idealista.com/en/inmueble/90859155/,2020-10-01,sale
+"Flat / Apartment in Gran Via de Colom, Inca",Mallorca,Inca,178500,3,125,https://www.idealista.com/en/inmueble/90328228/,2020-10-01,sale
+"Flat / Apartment in Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,147000,2,55,https://www.idealista.com/en/inmueble/88315578/,2020-10-01,sale
+"Flat / Apartment in Cristo Rey - Parque Europa, Inca",Mallorca,Inca,173250,3,106,https://www.idealista.com/en/inmueble/87900079/,2020-10-01,sale
+"Flat / Apartment in Blanquer, Inca",Mallorca,Inca,160000,3,95,https://www.idealista.com/en/inmueble/87447851/,2020-10-01,sale
+"Flat / Apartment in Son Oliva, Palma de Mallorca",Mallorca,Palma de Mallorca,175000,3,89,https://www.idealista.com/en/inmueble/90951789/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,150000,3,68,https://www.idealista.com/en/inmueble/87763919/,2020-10-01,sale
+"Flat / Apartment in calle Pere Seriol, Andratx Pueblo, Andratx",Mallorca,Andratx,179000,2,95,https://www.idealista.com/en/inmueble/89704993/,2020-10-01,sale
+"Flat / Apartment in calle de Pascual Ribot, Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,160000,2,70,https://www.idealista.com/en/inmueble/90788174/,2020-10-01,sale
+"Flat / Apartment in Andratx Pueblo, Andratx",Mallorca,Andratx,195000,3,90,https://www.idealista.com/en/inmueble/88621770/,2020-10-01,sale
+"Flat / Apartment in Cala Pi-Vallgornera, Llucmajor",Mallorca,Llucmajor,190000,2,78,https://www.idealista.com/en/inmueble/82659908/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,175000,3,85,https://www.idealista.com/en/inmueble/91012727/,2020-10-01,sale
+"Flat / Apartment in calle d'Alvar Campaner, 3, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,155000,3,73,https://www.idealista.com/en/inmueble/90718078/,2020-10-01,sale
+"Flat / Apartment in plaza Sant Martí, 5, Muro",Mallorca,Muro,126000,3,95,https://www.idealista.com/en/inmueble/89285357/,2020-10-01,sale
+"Flat / Apartment in calle Major, 42, Centro, Inca",Mallorca,Inca,190000,3,130,https://www.idealista.com/en/inmueble/39067840/,2020-10-01,sale
+"Flat / Apartment in juia, 2, Muro",Mallorca,Muro,135000,2,62,https://www.idealista.com/en/inmueble/90311869/,2020-10-01,sale
+"Flat / Apartment in calle del Capità Vila, 28, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,154000,2,75,https://www.idealista.com/en/inmueble/90272117/,2020-10-01,sale
+"Flat / Apartment in via Mallorca, 36, Cala Ratjada",Mallorca,Cala Ratjada,170000,2,88,https://www.idealista.com/en/inmueble/89884086/,2020-10-01,sale
+"Flat / Apartment in López de Vega, Magaluf, Calvià",Mallorca,Calvià,142000,2,70,https://www.idealista.com/en/inmueble/89886941/,2020-10-01,sale
+"Flat / Apartment in calle del Pare Francesc Molina, 25, Bons Aires, Palma de Mallorca",Mallorca,Palma de Mallorca,167000,3,85,https://www.idealista.com/en/inmueble/88054888/,2020-10-01,sale
+"Flat / Apartment in calle de Menorca, 66, Campos",Mallorca,Campos,165000,3,108,https://www.idealista.com/en/inmueble/89837320/,2020-10-01,sale
+"Flat / Apartment in Passatge de Can Feixina, 25, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,165000,3,86,https://www.idealista.com/en/inmueble/89829343/,2020-10-01,sale
+"Penthouse in calle BINIALI, Rafal Nou - Estadi Balear - Son Malferit, Palma de Mallorca",Mallorca,Palma de Mallorca,188000,3,106,https://www.idealista.com/en/inmueble/89259724/,2020-10-01,sale
+"Penthouse in pasaje Particula Levante, 24, Badia Blava-Badia Gran-Tolleric, Llucmajor",Mallorca,Llucmajor,155000,2,80,https://www.idealista.com/en/inmueble/28910298/,2020-10-01,sale
+"Duplex in calle de Manacor, 24, Campos",Mallorca,Campos,185000,2,94,https://www.idealista.com/en/inmueble/88997217/,2020-10-01,sale
+"Duplex in Son Gotleu, NN, Son Gotleu, Palma de Mallorca",Mallorca,Palma de Mallorca,130000,2,50,https://www.idealista.com/en/inmueble/88789440/,2020-10-01,sale
+"Flat / Apartment in calle de l'Assumpció, 4, Portocolom, Felanitx",Mallorca,Felanitx,149900,2,65,https://www.idealista.com/en/inmueble/88743141/,2020-10-01,sale
+"Flat / Apartment in carretera de Manacor, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,148000,3,95,https://www.idealista.com/en/inmueble/88550370/,2020-10-01,sale
+"Flat / Apartment in calle d'Holanda, 7, Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,168000,2,88,https://www.idealista.com/en/inmueble/86458180/,2020-10-01,sale
+"Flat / Apartment in calle de Sant Damas, 38, La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,195500,3,125,https://www.idealista.com/en/inmueble/84946961/,2020-10-01,sale
+"Flat / Apartment in calle de Sant Ignasi, 62, La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,189000,4,140,https://www.idealista.com/en/inmueble/83828316/,2020-10-01,sale
+"Flat / Apartment in avenida de les Germanies, 57, Gran Via de Colom, Inca",Mallorca,Inca,167000,3,115,https://www.idealista.com/en/inmueble/82711652/,2020-10-01,sale
+"Flat / Apartment in calle de Ramon de Montcada, 41, Santa Ponça, Calvià",Mallorca,Calvià,175000,2,67,https://www.idealista.com/en/inmueble/82659185/,2020-10-01,sale
+"Flat / Apartment in avenida del General Luque, 10, Gran Via de Colom, Inca",Mallorca,Inca,177000,3,110,https://www.idealista.com/en/inmueble/82473493/,2020-10-01,sale
+"Flat / Apartment in calle Pere II, 32, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,170000,3,105,https://www.idealista.com/en/inmueble/82231323/,2020-10-01,sale
+"Flat / Apartment in carretera de Llubí, 27, Pobla (Sa)",Mallorca,Pobla (Sa),168000,3,132,https://www.idealista.com/en/inmueble/39968647/,2020-10-01,sale
+"Flat / Apartment in calle de Francesc Pi i Margall, 21, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,180000,4,93,https://www.idealista.com/en/inmueble/37126218/,2020-10-01,sale
+"Flat / Apartment in calle Mossèn Antoni M. Alcover, 17, Campos",Mallorca,Campos,160000,3,98,https://www.idealista.com/en/inmueble/26487429/,2020-10-01,sale
+"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,189000,3,131,https://www.idealista.com/en/inmueble/90653101/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,155000,2,75,https://www.idealista.com/en/inmueble/90428442/,2020-10-01,sale
+"Penthouse in S'Arenal, Llucmajor",Mallorca,Llucmajor,122000,2,50,https://www.idealista.com/en/inmueble/84159205/,2020-10-01,sale
+"Flat / Apartment in El Vivero, Palma de Mallorca",Mallorca,Palma de Mallorca,119000,3,100,https://www.idealista.com/en/inmueble/90855991/,2020-10-01,sale
+Flat / Apartment in Santa Margalida,Mallorca,Santa Margalida,132000,2,85,https://www.idealista.com/en/inmueble/90565964/,2020-10-01,sale
+"Flat / Apartment in Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,120000,2,47,https://www.idealista.com/en/inmueble/90333103/,2020-10-01,sale
+"Flat / Apartment in Sa Cabana - Can Carbonell - Ses Cases Noves, Marratxi",Mallorca,Marratxi,200000,2,85,https://www.idealista.com/en/inmueble/90248849/,2020-10-01,sale
+Flat / Apartment in Montuiri,Mallorca,Montuiri,191000,3,98,https://www.idealista.com/en/inmueble/87709979/,2020-10-01,sale
+"Flat / Apartment in Can Picafort, Santa Margalida",Mallorca,Santa Margalida,185000,3,72,https://www.idealista.com/en/inmueble/85043471/,2020-10-01,sale
+"Flat / Apartment in Can Picafort, Santa Margalida",Mallorca,Santa Margalida,200000,3,85,https://www.idealista.com/en/inmueble/83567093/,2020-10-01,sale
+"Flat / Apartment in Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,187500,3,75,https://www.idealista.com/en/inmueble/90908032/,2020-10-01,sale
+"Penthouse in Blanquer, Inca",Mallorca,Inca,172000,2,86,https://www.idealista.com/en/inmueble/90901506/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,165000,3,73,https://www.idealista.com/en/inmueble/90819032/,2020-10-01,sale
+"Flat / Apartment in Son Canals - Can Capes, Palma de Mallorca",Mallorca,Palma de Mallorca,160000,2,75,https://www.idealista.com/en/inmueble/90648877/,2020-10-01,sale
+"Flat / Apartment in Port d'Andratx, Andratx",Mallorca,Andratx,185000,2,60,https://www.idealista.com/en/inmueble/90631263/,2020-10-01,sale
+"Flat / Apartment in calle Cunium, 1, Manacor Centro, Manacor",Mallorca,Manacor,165000,3,138,https://www.idealista.com/en/inmueble/90614451/,2020-10-01,sale
+"Flat / Apartment in Portocolom, Felanitx",Mallorca,Felanitx,178500,3,70,https://www.idealista.com/en/inmueble/89973939/,2020-10-01,sale
+Flat / Apartment in Campos,Mallorca,Campos,137500,2,80,https://www.idealista.com/en/inmueble/90532823/,2020-10-01,sale
+"Flat / Apartment in Son Gotleu, Palma de Mallorca",Mallorca,Palma de Mallorca,138000,3,85,https://www.idealista.com/en/inmueble/90531498/,2020-10-01,sale
+"Flat / Apartment in Centro, Inca",Mallorca,Inca,130000,2,92,https://www.idealista.com/en/inmueble/90330168/,2020-10-01,sale
+"Flat / Apartment in Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,198000,3,120,https://www.idealista.com/en/inmueble/89730211/,2020-10-01,sale
+"Flat / Apartment in calle del Pintor Joan Gris, 17, Manacor Centro, Manacor",Mallorca,Manacor,110000,3,98,https://www.idealista.com/en/inmueble/89871188/,2020-10-01,sale
+"Flat / Apartment in Cas Capiscol, Palma de Mallorca",Mallorca,Palma de Mallorca,149000,3,70,https://www.idealista.com/en/inmueble/88088557/,2020-10-01,sale
+Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),145000,2,81,https://www.idealista.com/en/inmueble/88533026/,2020-10-01,sale
+"Flat / Apartment in avenida de Bartomeu Esteva Mestre Cuiner, 47, Andratx Pueblo, Andratx",Mallorca,Andratx,160000,3,104,https://www.idealista.com/en/inmueble/87858090/,2020-10-01,sale
+Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),176000,3,107,https://www.idealista.com/en/inmueble/87490748/,2020-10-01,sale
+"Flat / Apartment in calle de Crist Rei, 140, Cristo Rey - Parque Europa, Inca",Mallorca,Inca,189000,2,70,https://www.idealista.com/en/inmueble/86643607/,2020-10-01,sale
+"Flat / Apartment in calle de la Llotgeta, 1, Sindicat, Palma de Mallorca",Mallorca,Palma de Mallorca,199500,2,50,https://www.idealista.com/en/inmueble/85639100/,2020-10-01,sale
+"Flat / Apartment in calle de Blanquerna, 8, Gran Via de Colom, Inca",Mallorca,Inca,122000,3,95,https://www.idealista.com/en/inmueble/85019733/,2020-10-01,sale
+"Flat / Apartment in Centro, Inca",Mallorca,Inca,175000,3,110,https://www.idealista.com/en/inmueble/38063984/,2020-10-01,sale
+"Flat / Apartment in calle Joan Síndic, 15, Pobla (Sa)",Mallorca,Pobla (Sa),120000,2,85,https://www.idealista.com/en/inmueble/87198942/,2020-10-01,sale
+"Flat / Apartment in calle Torcuato Luca Tena, 33, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,185000,2,60,https://www.idealista.com/en/inmueble/82387729/,2020-10-01,sale
+"Flat / Apartment in carretera de Manacor, 5, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,196000,3,95,https://www.idealista.com/en/inmueble/40224971/,2020-10-01,sale
+"Flat / Apartment in calle del General Weyler, 148, Cristo Rey - Parque Europa, Inca",Mallorca,Inca,180000,3,135,https://www.idealista.com/en/inmueble/82518651/,2020-10-01,sale
+"Flat / Apartment in calle d'Es Rebumbori, 2, Manacor Centro, Manacor",Mallorca,Manacor,166000,2,100,https://www.idealista.com/en/inmueble/84327619/,2020-10-01,sale
+"Flat / Apartment in calle del Sol, 2, Ciutat d'Alcúdia, Alcúdia",Mallorca,Alcúdia,165000,3,97,https://www.idealista.com/en/inmueble/40238989/,2020-10-01,sale
+"Flat / Apartment in calle Gran, 135, Pobla (Sa)",Mallorca,Pobla (Sa),175000,4,93,https://www.idealista.com/en/inmueble/81481911/,2020-10-01,sale
+"Penthouse in calle Gran, 157, Pobla (Sa)",Mallorca,Pobla (Sa),112000,3,141,https://www.idealista.com/en/inmueble/27604276/,2020-10-01,sale
+"Flat / Apartment in Andratx Pueblo, Andratx",Mallorca,Andratx,179000,2,110,https://www.idealista.com/en/inmueble/90208678/,2020-10-01,sale
+"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,200000,3,90,https://www.idealista.com/en/inmueble/85680481/,2020-10-01,sale
+"Flat / Apartment in Cas Capiscol, Palma de Mallorca",Mallorca,Palma de Mallorca,199500,4,110,https://www.idealista.com/en/inmueble/86761976/,2020-10-01,sale
+"Flat / Apartment in Manacor Centro, Manacor",Mallorca,Manacor,159000,3,90,https://www.idealista.com/en/inmueble/90686649/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,169000,3,90,https://www.idealista.com/en/inmueble/90668791/,2020-10-01,sale
+"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,159000,3,85,https://www.idealista.com/en/inmueble/90624575/,2020-10-01,sale
+Flat / Apartment in Muro,Mallorca,Muro,137000,2,60,https://www.idealista.com/en/inmueble/90340764/,2020-10-01,sale
+"Flat / Apartment in Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,180000,3,100,https://www.idealista.com/en/inmueble/89986371/,2020-10-01,sale
+"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,190000,3,125,https://www.idealista.com/en/inmueble/89415088/,2020-10-01,sale
+"Flat / Apartment in Andratx Pueblo, Andratx",Mallorca,Andratx,139900,2,85,https://www.idealista.com/en/inmueble/88533609/,2020-10-01,sale
+"Flat / Apartment in Sta Catalina - El Jonquet, Palma de Mallorca",Mallorca,Palma de Mallorca,200000,2,82,https://www.idealista.com/en/inmueble/88427055/,2020-10-01,sale
+"Flat / Apartment in calle del General Riera, 90, Camp Redo, Palma de Mallorca",Mallorca,Palma de Mallorca,185000,4,110,https://www.idealista.com/en/inmueble/88096576/,2020-10-01,sale
+"Flat / Apartment in avenida romero, 26, Can Picafort, Santa Margalida",Mallorca,Santa Margalida,195000,3,120,https://www.idealista.com/en/inmueble/87952162/,2020-10-01,sale
+"Flat / Apartment in El Vivero, Palma de Mallorca",Mallorca,Palma de Mallorca,150000,3,72,https://www.idealista.com/en/inmueble/87615474/,2020-10-01,sale
+"Flat / Apartment in Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,188000,2,77,https://www.idealista.com/en/inmueble/89823562/,2020-10-01,sale
+"Flat / Apartment in calle del Cap Blanc, 9, Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",Mallorca,Palma de Mallorca,137000,2,77,https://www.idealista.com/en/inmueble/89976649/,2020-10-01,sale
+"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,188000,3,115,https://www.idealista.com/en/inmueble/86084131/,2020-10-01,sale
+"Flat / Apartment in Son Oliva, Palma de Mallorca",Mallorca,Palma de Mallorca,147000,2,70,https://www.idealista.com/en/inmueble/84723849/,2020-10-01,sale
+Penthouse in Pobla (Sa),Mallorca,Pobla (Sa),152000,2,124,https://www.idealista.com/en/inmueble/90563839/,2020-10-01,sale
+Flat / Apartment in Selva,Mallorca,Selva,175000,2,73,https://www.idealista.com/en/inmueble/88085741/,2020-10-01,sale
+"Flat / Apartment in Andratx Pueblo, Andratx",Mallorca,Andratx,179000,2,85,https://www.idealista.com/en/inmueble/90335736/,2020-10-01,sale
+"Flat / Apartment in calle des Creuers, 26, Manacor Centro, Manacor",Mallorca,Manacor,168000,2,87,https://www.idealista.com/en/inmueble/91161788/,2020-10-01,sale

@@ -1,0 +1,24 @@
+Server: idealista
+Cache-Control: no-cache, no-store, must-revalidate, private, max-age=0
+Set-Cookie: userUUID=5a0649d6-f428-4b8d-b61d-bfdcf2c1c042; Expires=Mon, 27-Sep-2088 20:45:36 GMT; Path=/; HttpOnly; Secure
+Set-Cookie: nl=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure
+Set-Cookie: SESSION=7e331e19-d323-48e5-98e2-66eef4c4b353; Path=/; HttpOnly; Secure
+Set-Cookie: WID=aef06c73bc8de1dd|X1kRd|X1kRd; path=/; HttpOnly; Secure
+Set-Cookie: _pxhd=7cf2933144dc44cdb408eb77285dde6dd1683b3b6846f1eb0df21b5e696adc3c:4bc83290-f2c2-11ea-89b7-e744ce1a3ba5; Expires=Fri, 01 Jan 2021 00:00:00 GMT; path=/;
+Strict-Transport-Security: max-age=31536000
+Content-Language: es
+Content-Encoding: gzip
+Content-Type: text/html;charset=UTF-8
+Accept-Ranges: bytes
+Accept-Ranges: bytes
+Accept-Ranges: bytes
+Via: 1.1 varnish
+Via: 1.1 varnish
+X-Timer: S1599672690.894055,VS0,VE66
+Fastly-Restarts: 1
+Date: Wed, 09 Sep 2020 17:31:29 GMT
+Age: 0
+X-Served-By: cache-mad22020-MAD, cache-dub4336-DUB
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+Vary: Accept-Encoding

@@ -1,0 +1,10 @@
+Location: https://www.google.com/?gws_rd=ssl
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Wed, 09 Sep 2020 18:23:56 GMT
+Server: gws
+X-Xss-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: 1P_JAR=2020-09-09-18; expires=Fri, 09-Oct-2020 18:23:56 GMT; path=/; domain=.google.com; Secure
+Set-Cookie: NID=204=Xhs9wDPiuGJXJFtfwiLiGzaTNHvHKItCB668fr7Ho-8DARZcHKvrceciXTDLa91nspsUKUXhJxX1rfhFgQvsSfkZZgjwNldH1H3_Q5yKx0JoWYJx0ctSP_NmnirMtxWEoy1tGH-TBZtsX9UqN8nERVv7zwM05iFqRfQECDORol4; expires=Thu, 11-Mar-2021 18:23:56 GMT; path=/; domain=.google.com; HttpOnly

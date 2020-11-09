@@ -1,0 +1,12 @@
+Date: Wed, 28 Oct 2020 13:14:21 GMT
+Ft-Called-App: ft/server
+Ft-Called-App-Version: 3.8.20:e2ee245987fff43f8e60d2d763a39cf6ca85d55e
+Vary: accept-encoding,origin,access-control-request-headers,access-control-request-method
+Content-Encoding: gzip
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Set-Cookie: FT_LOCALES=ui:en-US:default/content:en-US:default; Path=/; Secure; SameSite=None
+Set-Cookie: FT_SESSION=21ee2250-0c92-4323-a143-01c2e1ad55b4; Path=/; Secure; HttpOnly; SameSite=None
+Set-Cookie: FT_LB_SESSION=2937326090.20480.0000; path=/
+Front: fluid-front10
+Strict-Transport-Security: max-age=31536000;includeSubDomains

@@ -1,0 +1,10 @@
+Server: Varnish
+Retry-After: 0
+Location: https://www.idealista.com/
+Accept-Ranges: bytes
+Date: Wed, 09 Sep 2020 12:05:04 GMT
+Via: 1.1 varnish
+Set-Cookie: _pxhd=812f891fec32d621caff1b1cb11bdcbb08779690241484263a0b4a13364aed9e:b2142e10-f294-11ea-82f3-4bdeb4ff11c9; Expires=Fri, 01 Jan 2021 00:00:00 GMT; path=/;
+X-Served-By: cache-dub4330-DUB
+X-Cache: HIT
+X-Cache-Hits: 0
