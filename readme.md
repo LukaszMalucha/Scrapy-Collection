@@ -3,6 +3,7 @@
 Collection of various scrapy spider projects
 
 
+
 ## Scrapy basics
 
 ##### Scraper Templates
