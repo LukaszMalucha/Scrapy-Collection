@@ -1,0 +1,14 @@
+Date: Sun, 16 Feb 2020 17:52:19 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Type: text/html
+Set-Cookie: PLAY_SESSION=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InNlc3Npb24taWQtNzAwNjAtc3RhYmxlIjoiYTQ4ZDg3NGQtNDFlYS00MmZkLTkzN2YtN2EyYzBiZmU4NmYwIn0sIm5iZiI6MTU4MTg3NTUzOSwiaWF0IjoxNTgxODc1NTM5fQ.agBSkszc3Uq8A8igdCVEFaUziyoYbCYnxR8vyZp1mYU; Path=/; HTTPOnly
+Set-Cookie: ft-ui-locale=en-US; Path=/
+Set-Cookie: ft-content-locale=en-US; Path=/
+Set-Cookie: ft-content-locale-choice-type=USER; Path=/
+Set-Cookie: ft-ui-locale-choice-type=DEFAULT; Path=/
+Set-Cookie: FLUIDTOPICS_SESSION=!WW3rZLdQoeFShzA1hYNsC2FvoEVhPNh0iC/juPPfKXv8XPwAIEehFuuBZmq1V2fbA92qg7h4JAZGJt8=; path=/
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: sameorigin
+Strict-Transport-Security: max-age=31536000;includeSubDomains
