@@ -1,0 +1,31 @@
+START PROJECT:
+	scrapy startproject <name>
+
+GENERATE SPIDER:
+	scrapy genspider <name> <url without http>
+
+OPEN SHELL:
+	scrapy shell
+
+FETCH WEBSITE(in shell):
+	fetch("http://quotes.toscrape.com/")
+
+ACCESS THE WEBSITE SELECTORS
+	response.xpath....s
+
+
+
+REMOVE ROBOTS TXT:
+	ROBOTSTXT_OBEY = False
+
+
+GET TO NEXT PAGE:
+	yield scrapy.Request(absoulte_next_page_url)
+
+
+OUTPUT:
+	scrapy crawl quotes -o items.csv
+	scrapy crawl quotes -o items.json
+	scrapy crawl quotes -o items.xml
+
+	

@@ -1,0 +1,67 @@
+""################################## SIMPLE
+
+
+HEADER:
+	response.xpath('//h1')
+HEADER > a > text LIST:
+	response.xpath('//h1/a/text()').extract()
+HEADER > a > text FIRST:
+	response.xpath('//h1/a/text()').extract_first()
+
+CHECK LENGTH:
+	len(response.xpath('//*[@class="tag-item"]'))
+
+ISOLATE CLASS:
+	response.xpath('//*[@class="tag-item"]') 
+
+ISOLATE ID:
+	response.xpath('//*[@id="tag-item"]') 
+
+
+################################### ADVANCED
+
+SPAN > A > TEXT:
+	response.xpath('//*[@class="tag-item"]/a/text()').extract()
+
+SPAN > CONTENT:
+	quote.xpath('.//*[@itemprop="keywords"]/@content').extract_first()
+
+DYNAMIC SELECTOR:
+	quotes = response.xpath('//*[@class="quote"]')
+	quote = quotes[0]
+	quote.xpath('.//*[@class="text"]/text()').extract() ####### DOT TO TARGET ONLY SELECTOR	
+	quote.xpath('.//*[@class="tag"]/text()').extract()
+
+EXTRACT LINK WITH CONTAINS/STARTSWITH:
+	response.xpath('//a[contains(text(), "Load more")]/@href').extract_first()
+
+	response.xpath('//li[contains(@class, "menu")]/a/@href').extract()
+	
+	response.xpath('//li[starts-with(@class, "menu")]/a/@href').extract()
+
+	
+
+
+######################################## NEXT PAGE
+
+NEXT PAGE URL ABSOLUTE (inside parse function):
+	absoulte_next_page_url = response.urljoin(next_page_url)
+
+NEXT PAGE URL ABSOLUTE (outside parse function):
+	absoulte_next_page_url = response.urljoin(next_page_url, callback = self.<function name>)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

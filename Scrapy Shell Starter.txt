@@ -1,0 +1,9 @@
+from pathlib import Path
+from selenium import webdriver
+from scrapy.selector import Selector
+from random import randrange
+
+driver = webdriver.Chrome(str(Path(Path.cwd(), "chromedriver.exe")))
+driver.set_window_size(randrange(1860, 1920), randrange(800, 900))
+driver.get("https://www.kyero.com/en/tenerife-apartments-for-sale-0l55570g1?max_price=120000&min_beds=2&min_property_size=40&page=5&sort=popularity_desc")
+sel = Selector(text=driver.page_source)

@@ -1,0 +1,10 @@
+SCRAPY COMMANDS  (scrapy):
+
+	shell - scrapy console
+	view  - url as seen by Scrapy
+	list  - list of spiders
+	
+
+ORDER SCRAPED DATA OUTPUT:
+	FEED_EXPORT_FIELDS = ['Article Title', 'Date', 'Author', 'Text'] 
+	add to settings.py
