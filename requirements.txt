@@ -14,7 +14,7 @@ incremental==17.5.0
 ipython==6.5.0
 ipython-genutils==0.2.0
 jedi==0.12.1
-lxml==4.2.4
+lxml==4.6.3
 parsel==1.5.0
 parso==0.3.1
 pexpect==4.6.0
