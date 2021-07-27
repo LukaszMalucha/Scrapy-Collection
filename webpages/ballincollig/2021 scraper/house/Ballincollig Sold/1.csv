@@ -1,0 +1,501 @@
+address_area_1,address_area_2,address_number,date,price,property_type
+Woodview,", Fionn Laoi, ",20 ,2018-07-12,"€330,000",New Build
+Maglin View,", ",9 ,2018-07-11,"€386,000",Second-Hand
+The Abbey,", Classes Lake, ",28 ,2018-07-10,"€220,000",Second-Hand
+Coopers Grange,", Old Quarter, ",129 ,2018-07-06,"€395,000",Second-Hand
+The Cloisters,", ",63 ,2018-07-06,"€280,000",Second-Hand
+Coolroe Court,", West Village, ",4 ,2018-07-05,"€450,775",New Build
+Granary Court,", The Maltings, ",21 ,2018-07-04,"€200,000",Second-Hand
+The Lawn,", Coolroe Meadows, ",2 ,2018-11-08,"€277,500",Second-Hand
+Clincool Gardens,", ",21 ,2018-11-07,"€320,000",Second-Hand
+An Caislean,", ",167 ,2018-11-06,"€247,000",Second-Hand
+Powdermill Meadow,", East Side, ",5 ,2018-11-06,"€397,250",New Build
+The Crescent,", Old Quarter, ",45 ,2018-11-05,"€260,000",Second-Hand
+The Brambles,", Classis Lake, ",40 ,2019-06-21,"€311,000",Second-Hand
+Parknamore Heights,", ",43 ,2019-06-21,"€323,475",New Build
+Coopers Grange,", Old Quarter, ",54 ,2019-06-17,"€290,000",Second-Hand
+Coopers Grange,", Old Quarter, ",98 ,2019-06-17,"€310,000",Second-Hand
+Castle Lodge,,", Castle Road, ",2019-06-17,"€320,000",Second-Hand
+Coopers Grange,", Old Quarter, ",16 ,2019-02-14,"€410,000",New Build
+Castle Avenue,", Muskerry Estate, ",60 ,2019-02-05,"€150,000",Second-Hand
+Chapel Lane,", ",1 ,2019-02-04,"€180,000",Second-Hand
+Coopers Grange,", Old Quarter, ",15 ,2019-02-04,"€409,999",New Build
+Glincool Grove,", ",17 ,2019-02-01,"€225,000",Second-Hand
+The Crescent,", Old Fort Road, ",37 ,2019-01-29,"€256,000",Second-Hand
+The Crescent,", Highfield Park, ",17 ,2019-01-28,"€275,000",Second-Hand
+Westcourt Heights,", ",6 ,2019-01-25,"€150,000",Second-Hand
+Woodview,", Fionn Laoi, ",10 ,2019-01-21,"€340,000",New Build
+Fernwalk,", Greenfields, ",70 ,2019-09-27,"€580,000",Second-Hand
+Castlepark,", ",70 ,2019-09-25,"€185,000",Second-Hand
+Waltham Abbey,", Old Quarter, ",28 ,2019-09-23,"€339,200",Second-Hand
+Fernwalk,", Greenfields, ",45 ,2019-09-23,"€169,000",Second-Hand
+Leslies Arch,", Old Quarter, ",148 ,2019-09-23,"€315,000",Second-Hand
+Oldcourt,", Greenfields, ",72 ,2019-09-20,"€355,000",Second-Hand
+Rosewood,", ",8 ,2019-09-13,"€306,000",Second-Hand
+The Willows,", ",200 ,2019-09-10,"€245,000",Second-Hand
+Woodview,", Fionn Laoi, ",29 ,2018-06-28,"€330,000",New Build
+Woodview,", Fionn Laoi, ",26 ,2018-06-26,"€330,000",New Build
+Maple Lawn,", Muskerry Estate, ",79 ,2018-06-12,"€335,000",Second-Hand
+Millers Court,", Old Quarter, ",109 ,2018-06-11,"€460,000",New Build
+Steeplewoods,", ",1 ,2018-06-05,"€896,650",New Build
+Millers Court,", Old Quarter, ",110 ,2018-06-01,"€620,000",New Build
+Tuairin Glas,", Greenfields Road, ",48 ,2018-11-01,"€250,000",Second-Hand
+Highfield Park,", ",31 ,2018-10-31,"€230,000",Second-Hand
+Millers Court,", Old Quarter, ",57 ,2018-10-31,"€345,000",New Build
+Powdermill Meadow,", East Side, ",1 ,2018-10-26,"€430,000",New Build
+Whitethorn Drive,", Inniscarra View, ",19 ,2018-10-25,"€290,000",Second-Hand
+Glincool Crescent,", ",2 ,2018-10-22,"€376,000",Second-Hand
+Leslies Arch,", Old Quarter, ",79 ,2018-10-19,"€375,000",Second-Hand
+Whitethorn Avenue,", ",13 ,2019-12-17,"€300,000",Second-Hand
+Leslies Arch,", Old Quarter, ",27 ,2019-12-17,"€360,000",Second-Hand
+The Willows,", Carriglee, ",191 ,2019-12-16,"€251,000",Second-Hand
+The Willows,", ",204 ,2019-12-16,"€220,000",Second-Hand
+The Willows,,", Willow Court, ",2019-12-16,"€228,000",Second-Hand
+Coopers Grange,", Old Quarter, ",30 ,2019-12-16,"€399,999",New Build
+Cherry Walk Muskerry Estate,", ",44 ,2019-12-16,"€21,573",Second-Hand
+Limeworth,", ",14 ,2019-06-14,"€675,000",Second-Hand
+An Caislean,", ",153 ,2019-05-31,"€255,000",Second-Hand
+Oak Avenue,", Classis Lake, ",1 ,2019-05-28,"€251,000",Second-Hand
+Oldcourt,", Greenfields, ",1 ,2019-05-21,"€300,000",Second-Hand
+Hillside,,", Flynns Road, West Village, ",2019-05-13,"€170,000",Second-Hand
+North East Quadrant,", The Quadrants, ",174 ,2019-05-10,"€172,500",Second-Hand
+The Stables,", ",12 ,2019-05-09,"€340,000",Second-Hand
+Caislean Grove,", An Caislean, ",101 ,2019-05-03,"€255,000",Second-Hand
+Millers Court,", Old Quarter, ",55 ,2019-05-03,"€345,000",New Build
+Leo Murphy Terrace,", ",5a ,2019-01-18,"€196,000",Second-Hand
+Maglin View,", Maglin Road, ",8 ,2019-01-16,"€336,000",Second-Hand
+Leslies Arch,", Old Quarter, ",35 ,2019-01-16,"€350,000",Second-Hand
+Distillery Court,", The Maltings, ",37 ,2019-01-15,"€230,000",Second-Hand
+Mossgrove,", Classis Lake, ",13 ,2019-01-11,"€428,500",Second-Hand
+Aylsbury Mews,", ",3 ,2020-04-09,"€380,000",Second-Hand
+The Lodge Classes Lake,", ",13 ,2020-04-08,"€220,000",Second-Hand
+The Grove,", Wyndham Downs, ",11 ,2020-04-07,"€275,000",Second-Hand
+Westcourt Heights,", ",46 ,2020-04-06,"€317,500",Second-Hand
+Ballyburden,,", ",2019-09-06,"€267,000",Second-Hand
+Oldcourt,", Greenfields, ",16 ,2019-09-05,"€430,000",Second-Hand
+Coopers Grange,", Old Quarter, ",22 ,2019-09-03,"€397,250",New Build
+Lisheen Fields,", Classis, ",18 ,2019-08-29,"€390,000",Second-Hand
+An Caislean,", ",182 ,2019-08-28,"€262,500",Second-Hand
+The Crescent Heathfield,", Carriganarra, ",2 ,2019-08-27,"€320,000",New Build
+Hazel Grove,", ",14 ,2019-08-21,"€192,500",Second-Hand
+The Avenue,", Highfield Park, ",12 ,2020-10-15,"€310,000",Second-Hand
+Cranford Pines,", ",28 ,2020-10-12,"€170,000",Second-Hand
+Cranford Pines,", ",13 ,2020-10-09,"€335,000",Second-Hand
+Leslies Arch,", Old Quarter, ",126 ,2020-10-05,"€40,000",Second-Hand
+The Green,", Coolroe Meadows, ",5 ,2020-10-01,"€280,000",Second-Hand
+Beech Park,", ",69 ,2021-02-23,"€252,500",Second-Hand
+Church View,", ",43 ,2021-02-16,"€112,500",Second-Hand
+Coopers Grange,", Old Quarter, ",73 ,2021-02-15,"€347,000",Second-Hand
+The Crescent,", ",54 ,2021-02-09,"€255,000",Second-Hand
+Westcourt Heights,", ",37 ,2021-02-05,"€285,000",Second-Hand
+The Meadows,", West Village, ",9 ,2021-02-04,"€250,000",Second-Hand
+The Lawn,", Coolroe Meadows, ",79 ,2018-05-31,"€320,000",Second-Hand
+The Cloisters,", Link Road, ",41 ,2018-05-30,"€265,000",Second-Hand
+The Crescent,", Old Fort Road, ",13 ,2018-05-29,"€126,571",Second-Hand
+The Grove Wyndham Downs,", ",22 ,2018-05-25,"€287,000",Second-Hand
+The Square,", Highfield Park, ",26 ,2018-05-25,"€251,000",Second-Hand
+Tara An Caislan,", ",Apartment 14 ,2018-05-24,"€220,000",Second-Hand
+Millers Court,", Old Quarter, ",10 ,2018-05-22,"€250,000",Second-Hand
+The Willows,", ",201 ,2018-05-17,"€223,000",Second-Hand
+Millers Court,", Old Quarter, ",24 ,2021-07-13,"€463,000",Second-Hand
+The Cloisters,", ",63 ,2021-07-08,"€330,000",Second-Hand
+Leslies Arch,", Old Quarter, ",13 ,2021-07-06,"€425,000",Second-Hand
+Tudor Grove,", ",8 ,2021-07-05,"€245,000",Second-Hand
+Church View,", ",57 ,2021-07-02,"€321,000",Second-Hand
+Leecourt,", ",132 ,2021-07-01,"€231,000",Second-Hand
+The Avenue,", Coolroe Heights, ",11 ,2018-10-17,"€425,000",New Build
+Powdermill Meadows,", East Side, ",2 ,2018-10-17,"€337,500",New Build
+Powdermill Meadow,", East Side, ",3 ,2018-10-17,"€337,500",New Build
+Millers Court,", Old Quarter, ",56 ,2018-10-16,"€345,000",New Build
+Millers Court,", ",58 ,2018-10-16,"€345,000",New Build
+Millers Court,", Old Quarter, ",9 ,2019-12-09,"€325,000",Second-Hand
+Castle Avenue,", Muskerry Estate, ",11 ,2019-12-05,"€255,000",Second-Hand
+Coopers Grange,", Old Quarter, ",37 ,2019-12-05,"€400,000",New Build
+Coopers Grange,", Old Quarter, ",2 ,2019-12-04,"€475,000",New Build
+The Heathers,", Classis Lake, ",24 ,2019-12-04,"€277,500",Second-Hand
+Westgrove,", ",17 ,2019-11-29,"€363,000",Second-Hand
+Beech Park,", ",98 ,2019-05-03,"€232,000",Second-Hand
+An Caislean,", ",70 ,2019-04-30,"€250,000",Second-Hand
+The Avenue,", Coolroe Heights, ",12 ,2019-04-30,"€430,000",New Build
+Coopers Grange,", Old Quarter, ",23 ,2019-04-29,"€350,000",New Build
+Innishmore Court,", ",13 ,2019-04-29,"€53,429",Second-Hand
+Cranford Pines,", ",10 ,2019-04-17,"€300,000",Second-Hand
+Coopers Grange,", Old Quarter, ",24 ,2019-04-17,"€349,999",New Build
+Coopers Grange,", Old Quarter, ",26 ,2019-01-09,"€350,000",New Build
+Leslies Arch,", Old Quarter, ",131 ,2019-01-07,"€340,000",Second-Hand
+Coopers Grange,", Old Quarter, ",25 ,2019-01-04,"€350,000",New Build
+Old Quarry,", Coolroe, ",18 ,2018-12-21,"€226,000",Second-Hand
+The Abbey,", Classes Lake, ",29 ,2018-12-21,"€205,000",Second-Hand
+Leslies Arch,", Old Quater, ",33 ,2018-12-21,"€412,800",New Build
+The Square,", Highfield Park, ",30 ,2018-12-21,"€250,000",Second-Hand
+The Cloisters,", ",66 ,2020-04-06,"€280,000",Second-Hand
+Carrigdene,", ",8 ,2020-04-02,"€290,000",Second-Hand
+Pine Walk,", Muskerry Estate, ",130 ,2020-03-31,"€270,000",Second-Hand
+Maglin Green,", ",3 ,2020-03-30,"€479,999",New Build
+Rosewood,", ",166 ,2020-03-26,"€250,000",Second-Hand
+The Willows,", Carriglee, ",208 ,2019-08-16,"€256,000",Second-Hand
+The Cloisters,", ",102 ,2019-08-14,"€287,000",Second-Hand
+Aylsbury Lawn,", ",4 ,2019-08-12,"€360,000",Second-Hand
+Oldcourt,", Greenfields, ",94 ,2019-08-12,"€370,000",Second-Hand
+Station Cross,,", ",2019-08-12,"€300,000",Second-Hand
+An Caislean View,", An Caislean, ",147 ,2020-10-01,"€286,000",Second-Hand
+Granary Court The Maltings,", ",28 ,2020-09-28,"€210,000",Second-Hand
+Moneen,,", Kilnaglory, ",2020-09-25,"€590,000",Second-Hand
+Church View,", ",21 ,2020-09-24,"€280,000",Second-Hand
+Innishmore Lawn,", ",5 ,2020-09-18,"€175,000",Second-Hand
+Daffodil Fields,", ",29 ,2020-09-10,"€430,000",Second-Hand
+Leslies Arch,", Old Quarter, ",114 ,2021-02-04,"€280,000",Second-Hand
+Time Square,", ","Apartment 4, ",2021-02-04,"€180,000",Second-Hand
+An Caislean Way,", ",118 ,2021-01-28,"€270,000",Second-Hand
+Glincool Gardens,", ",12 ,2021-01-26,"€305,000",Second-Hand
+Waltham Abbey,", Old Quarter, ",28 ,2021-01-21,"€344,900",Second-Hand
+Rosewood Estate,", ",202 ,2021-01-20,"€306,000",Second-Hand
+Millers Court,", Old Quarter, ",66 ,2018-05-16,"€385,000",New Build
+Millers Court,", Old Quarters, ",15 ,2018-05-14,"€258,000",Second-Hand
+Parknamore,", ",11 ,2018-04-30,"€280,000",Second-Hand
+Mill Range,", Powdermills, ",15 ,2018-04-26,"€230,000",Second-Hand
+Glincool Crescent,", ",15 ,2018-04-23,"€295,000",Second-Hand
+Newgrange,", An Caislean, ",8 ,2021-06-25,"€222,000",Second-Hand
+The Brambles,", Classis Lake, ",7 ,2021-06-16,"€400,000",Second-Hand
+Willowgrove,", Coolroe Heights, ",48 ,2021-06-11,"€340,000",Second-Hand
+Woodberry,", Greenfields, ",11 ,2021-06-04,"€755,000",Second-Hand
+Coopers Grange,", Old Quarter, ",69 ,2021-06-03,"€340,000",Second-Hand
+The Cedars,", Classis Lake, ",29 ,2018-10-15,"€357,000",Second-Hand
+Bridgewater,", Carrigrohane, ",16 ,2018-10-11,"€435,000",Second-Hand
+Millers Court,", Old Quarter, ",108 ,2018-09-27,"€460,000",New Build
+Glencool Villas,", ",11 ,2018-09-27,"€304,000",Second-Hand
+The Green,", Coolroe Meadows, ",61 ,2018-09-26,"€111,500",Second-Hand
+Coopers Grange Old Quarter,", ",58 ,2018-09-25,"€267,000",Second-Hand
+Beech Park,", ",67 ,2018-09-18,"€340,000",Second-Hand
+Coopers Grange,", Old Quarter, ",3 ,2019-11-25,"€474,999",New Build
+Castlepark,", ",6 ,2019-11-20,"€199,000",Second-Hand
+Rosewood Estate,", ",84 ,2019-11-18,"€350,000",Second-Hand
+The Cloisters,", ",88 ,2019-11-14,"€282,000",Second-Hand
+Manor Hill,", ",3 ,2019-11-13,"€268,000",Second-Hand
+Newgrange,", An Caislean, ",16 ,2019-11-13,"€215,000",Second-Hand
+The Crescent,", Old Fort Road, ",71 ,2019-04-12,"€270,000",Second-Hand
+Island Way,", Muskerry Estate, ",19 ,2019-04-05,"€240,000",Second-Hand
+Coopers Grange,", Old Quarter, ",27 ,2019-04-03,"€397,250",New Build
+Westcourt Heights,", ",14 ,2019-03-29,"€245,000",Second-Hand
+Coopers Grange,", Old Quarter, ",33 ,2019-03-29,"€329,999",New Build
+The Quadrants,", Ballincollig Town Centre, ",1 ,2018-12-20,"€21,365,638",Second-Hand
+The Crescent,", Old Fort Road, ",10 ,2018-12-20,"€7,841,410",Second-Hand
+An Caislean,", ",186 ,2018-12-19,"€270,000",Second-Hand
+Willow Grove,", ",26 ,2018-12-19,"€420,000",Second-Hand
+Coopers Grange,", The Old Quarter, ",72 ,2018-12-19,"€262,000",Second-Hand
+Woodview,", Fionn Laoi, ",11 ,2018-12-18,"€340,000",New Build
+Coopers Grange,", Old Quarter, ",28 ,2018-12-18,"€355,000",New Build
+The Lawn,", Coolroe Meadows, ",71 ,2020-03-20,"€330,000",Second-Hand
+Coolroe,,", ",2020-03-20,"€225,000",Second-Hand
+Aylsbury,", ",21 ,2020-03-19,"€320,000",Second-Hand
+Glincool Grove,", ",11 ,2020-03-18,"€303,000",Second-Hand
+Carriganarra,", ",7 ,2020-03-12,"€316,000",Second-Hand
+Maglin Green,", ",2 ,2020-03-11,"€480,000",New Build
+Shalimar Court,", Poulavone, ",9 ,2020-03-10,"€220,000",Second-Hand
+Westcourt,", ",45 ,2020-03-06,"€308,000",Second-Hand
+Millers Court,", Old Quater, ",30 ,2020-03-03,"€397,619",New Build
+Beech Park,", ",142 ,2020-02-28,"€250,000",Second-Hand
+Willowgrove,", Coolroe Heights, ",2 ,2019-08-09,"€400,000",Second-Hand
+Leslies Arch,", Old Quarter, ",78 ,2019-08-08,"€370,000",Second-Hand
+Manor Hill,", ",48 ,2019-08-06,"€355,000",Second-Hand
+Tara,", ",17 ,2019-08-06,"€218,000",Second-Hand
+Oldcourt,", ",99 ,2019-08-06,"€349,000",Second-Hand
+The Avenue,", Highfield Park, ",3 ,2019-08-04,"€281,000",Second-Hand
+Fern Way,", Classis Lake, ",59 ,2019-08-02,"€221,000",Second-Hand
+Woodberry,", Greenfields, ",46 ,2019-08-01,"€560,000",Second-Hand
+Leslies Arch,", Old Quarter, ",112 ,2019-07-31,"€335,000",Second-Hand
+The Close,", Coolroe Meadows, ",17 ,2019-07-26,"€325,000",Second-Hand
+Cedardale,", ",105 ,2020-09-04,"€245,000",Second-Hand
+Rosewood Estate,", ",44 ,2020-09-04,"€224,000",Second-Hand
+Aylsbury,", ",41 ,2020-09-03,"€295,000",Second-Hand
+Beech Park,", ",48 ,2020-09-01,"€223,000",Second-Hand
+Barley Court,", The Maltings, ",12 Apartment ,2020-08-20,"€190,000",Second-Hand
+Leslies Arch,", Old Quarter, ",64 ,2021-01-20,"€256,796",Second-Hand
+Maglin Green,", ",11 ,2021-01-18,"€299,981",New Build
+Distillery Court,", The Maltings, ",48 ,2021-01-18,"€220,000",Second-Hand
+Limeworth,", Killumney Road, ",16 ,2021-01-07,"€755,000",Second-Hand
+Seiceamair,,", Coolroe, ",2021-01-07,"€425,000",Second-Hand
+Maglin Green,", ",10 ,2021-01-05,"€393,000",New Build
+Churchview,", ",2 ,2020-12-21,"€270,000",Second-Hand
+Cranford Pines,", ",20 ,2020-12-21,"€290,000",Second-Hand
+An Caislean,", ",112 ,2018-04-20,"€266,000",Second-Hand
+Daffodil Fields,", ",45 ,2018-04-20,"€355,000",Second-Hand
+Tus Abhaile,", ",3 ,2018-04-19,"€203,500",Second-Hand
+Millers Court,", Old Quarter, ",67 ,2018-04-19,"€385,000",New Build
+Oak Avenue,", Classis Lake, ",10 ,2018-04-18,"€245,000",Second-Hand
+Millers Court,", Old Quarter, ",70 ,2018-04-18,"€385,000",New Build
+Leslies Arch,", Old Quarter, ",2 ,2018-04-11,"€467,620",New Build
+Coopers Grange,", Old Quarter, ",82 ,2018-04-06,"€339,000",Second-Hand
+Coolroe Heights,", ",33 ,2018-04-05,"€252,000",Second-Hand
+Millers Court,", Old Quarter, ",106 ,2021-05-31,"€640,000",Second-Hand
+Castleknock,", ",16 ,2021-05-28,"€330,000",Second-Hand
+Kells,", An Caislean Aois, ",10 ,2021-05-28,"€212,000",Second-Hand
+Newgrange,", An Caislean, ",21 ,2021-05-26,"€267,000",Second-Hand
+The Avenue Heathfield,", Carriganarra, ",52 ,2021-05-26,"€385,000",New Build
+Maglin Green,", Maglin Estate, ",14 ,2021-05-26,"€650,000",New Build
+Millers Court,", Old Quarter, ",107 ,2018-09-18,"€465,000",New Build
+Hawthorn Avenue,", Inniscarra View Estate, ",13 ,2018-09-18,"€257,000",Second-Hand
+Leecourt,", ",93 ,2018-09-06,"€252,000",Second-Hand
+Leslies Arch,", The Old Quarter, ",107 ,2018-09-03,"€300,000",Second-Hand
+Glincoole Gardens,", ",20 ,2018-09-03,"€280,000",Second-Hand
+Coolroe Court,", ",7 ,2018-08-31,"€422,500",New Build
+Whitetholn Avenue,", Inniscarra View, ",24 ,2018-08-27,"€310,000",Second-Hand
+The Green,", Coolroe Meadows, ",92 ,2019-11-11,"€330,000",Second-Hand
+Coopers Grange,", Old Quarter, ",71 ,2019-11-11,"€265,000",Second-Hand
+Caislean Drive,", ",68 ,2019-11-08,"€267,500",Second-Hand
+The Close,", Coolroe Meadows, ",31 ,2019-11-07,"€360,000",Second-Hand
+Longrange,", Powdermills, ",22 ,2019-11-06,"€245,000",Second-Hand
+Castle Park,", ",13 ,2019-11-05,"€50,000",Second-Hand
+Old Court,", Greenfields, ",5 ,2019-11-04,"€425,000",Second-Hand
+Barley Grove,", The Maltings, ",26 ,2019-11-04,"€242,500",Second-Hand
+Tudor Grove,", Station Road, ",4 ,2019-11-04,"€250,000",Second-Hand
+Greenfield Road,,", ",2019-11-01,"€555,000",Second-Hand
+Woodberry,", Greenfields, ",3 ,2019-03-28,"€690,000",Second-Hand
+Coolroe Heights,", ",14 ,2019-03-28,"€315,000",Second-Hand
+Tudor Grove,", Station Road, ",10 ,2019-03-27,"€260,000",Second-Hand
+Leeview,", ",1 ,2019-03-21,"€265,000",Second-Hand
+A Brompton House,", The Cloisters, ",Apartment ,2019-03-20,"€101,579",Second-Hand
+Block 3 Tus Abhaile,", Time Square, ",Apartment 4 ,2019-03-18,"€208,000",Second-Hand
+Willow Grove,", Coolroe Heights, ",55 ,2018-12-18,"€310,000",Second-Hand
+Westcourt Heights,", ",41 ,2018-12-18,"€292,500",Second-Hand
+Willow Grove,", Coolroe Heights, ",4 ,2018-12-17,"€310,000",Second-Hand
+An Caislean Way,", ",135 ,2018-12-14,"€320,000",Second-Hand
+Coopers Grange,", Old Quarter, ",14 ,2018-12-14,"€409,999",New Build
+Coopers Grange,", Old Quarter, ",34 ,2020-02-27,"€400,000",New Build
+Distillery Court,", The Maltings, ",30 ,2020-02-25,"€206,000",Second-Hand
+Woodberry,", Greenfields, ",38 ,2020-02-24,"€485,000",Second-Hand
+Distillery Court,", ",45 ,2020-02-24,"€220,000",Second-Hand
+The Crescent,", Ballincollig Town Centre, ",6 ,2020-02-24,"€270,000",Second-Hand
+Millers Court,", Old Quarter, ",13 ,2020-02-24,"€275,000",Second-Hand
+Coopers Grange,", Old Quarter, ",6 ,2020-02-21,"€456,525",New Build
+Cooper's Grange,", Old Quarter, ",20 ,2019-07-26,"€350,000",New Build
+Coopers Grange,", Old Quarter, ",36 ,2019-07-25,"€400,000",New Build
+Coppers Grange,", Old Quarter, ",19 ,2019-07-23,"€350,000",New Build
+Parknamore,", ",15 ,2019-07-22,"€285,000",Second-Hand
+Coopers Grange,", Old Quarter, ",18 ,2019-07-19,"€350,001",New Build
+Laurel Wood House,,", Carrigrohane, ",2019-07-19,"€760,000",Second-Hand
+Glendower Court,", ",11 ,2020-08-19,"€300,000",Second-Hand
+Millers Court,", Old Quarter, ",70 ,2020-08-13,"€420,000",Second-Hand
+Newgrange,", An Caislean, ",1 ,2020-08-11,"€213,000",Second-Hand
+Shalimar Court,", ","Apartment 5, ",2020-07-31,"€250,000",Second-Hand
+Leeview,", ",49 ,2020-12-21,"€255,000",Second-Hand
+The Green,", Coolroe Meadows, ",13 ,2020-12-18,"€394,000",Second-Hand
+Highfield Park,", ",12 ,2020-12-18,"€310,000",Second-Hand
+The Avenue,", Heathfield, ",35 ,2020-12-15,"€379,999",New Build
+Coopers Grange,", Old Quarter, ",108 ,2020-12-14,"€520,000",Second-Hand
+Rosewood Estate,", ",114 ,2020-12-14,"€280,000",Second-Hand
+Distillery Court,", The Maltings, ",27 ,2018-04-04,"€210,000",Second-Hand
+Millers Court,", Old Quarter, ",68 ,2018-04-04,"€335,000",New Build
+Millers Court,", Old Quarter, ",69 ,2018-04-03,"€380,225",New Build
+Coopers Grange,", Old Quarter, ",108 ,2018-03-29,"€465,000",Second-Hand
+Glincool Crescent,", Maglin Road, ",9 ,2018-03-28,"€310,000",Second-Hand
+Daffodil Fields,", ",25 ,2018-03-28,"€470,000",Second-Hand
+Chapel Lane Row,", ","Apartment 2a, ",2021-05-25,"€450,000",Second-Hand
+Coopers Grange,", Old Quarter, ",107 ,2021-05-24,"€520,000",Second-Hand
+The Avenue,", Heathfield, ",49 ,2021-05-20,"€385,000",New Build
+The Crescent,", Highfield Park, ",17 ,2018-08-24,"€275,000",Second-Hand
+Coopers Grange,", Old Quarter, ",43 ,2018-08-23,"€250,000",Second-Hand
+Beech Park,", ",118 ,2018-08-22,"€261,000",Second-Hand
+Daffodil Fields,", ",27 ,2018-08-20,"€465,000",Second-Hand
+Woodview,", Fionn Laoi, ",19 ,2018-08-16,"€400,000",New Build
+Caislean Drive,", ",73 ,2019-10-31,"€280,000",Second-Hand
+Carriganarra,", ",4 ,2019-10-30,"€325,000",Second-Hand
+Glincool Villas,", ",9 ,2019-10-29,"€260,000",Second-Hand
+Leslies Arch,", Old Quarter, ",102 ,2019-10-29,"€275,000",Second-Hand
+Castlepark,", ",42 ,2019-10-28,"€185,000",Second-Hand
+Oldcourt,", Greenfields, ",4 ,2019-10-25,"€433,000",Second-Hand
+Millers Court,", Old Quarter, ",61 ,2019-10-25,"€399,999",New Build
+Westcourt Heights,", ",63 ,2019-03-15,"€213,000",Second-Hand
+Waltham Abbey,", Old Quarter, ",6 ,2019-03-15,"€600,000",Second-Hand
+Poulavone,,", ",2019-03-15,"€325,000",Second-Hand
+The Avenue,", Coolroe Heights, ",8 ,2019-03-15,"€266,000",Second-Hand
+The Oaks,", Classis Lake, ",12 ,2019-03-14,"€368,000",Second-Hand
+Leslies Arch,", Old Quarter, ",147 ,2019-03-14,"€260,000",Second-Hand
+Greystones,", ",40 ,2018-12-14,"€280,000",Second-Hand
+Woodview,", Fionn Laoi, ",12 ,2018-12-12,"€345,000",New Build
+Silverwood,", Main Road, ",2 ,2018-12-07,"€255,000",Second-Hand
+Millers Court,", Old Quarter, ",46 ,2018-12-05,"€410,000",Second-Hand
+Millers Court,", Old Quarter, ",22 ,2018-12-05,"€355,000",Second-Hand
+Cherry Walk,", Muskerry Estate, ",37 ,2018-12-05,"€258,000",Second-Hand
+Powdermill Meadows,", East Side, ",4 ,2018-12-04,"€335,000",New Build
+Millers Court,", Old Quarter, ",60 ,2020-02-18,"€400,000",New Build
+Westgrove,", ",26 ,2020-02-14,"€205,666",Second-Hand
+The Stables,", Coolroe, ",17 ,2020-02-10,"€352,000",Second-Hand
+Aylsbury,", ",39 ,2020-02-10,"€300,000",Second-Hand
+The Avenue,", Heathfield, ",10 ,2020-02-06,"€325,000",New Build
+Leesdale Court,", ",16 ,2020-02-06,"€294,000",Second-Hand
+Tara An Caisleain,", ","Apartment 1, ",2020-02-05,"€207,000",Second-Hand
+Parknamore Rise,", ",21 ,2019-07-18,"€266,200",Second-Hand
+Millers Court,", Old Quarter, ",59 ,2019-07-18,"€406,883",New Build
+Fernwalk,", Greenfields, ",7 ,2019-07-15,"€630,000",Second-Hand
+The Cloisters,", ",20 ,2019-07-12,"€280,000",Second-Hand
+The Lawn,", Coolroe Meadows, ",35 ,2019-07-12,"€332,000",Second-Hand
+The Cresent,", Old Fort Road, ",52 ,2019-07-10,"€253,000",Second-Hand
+Parknamore Rise,", ",23 ,2019-07-10,"€265,000",Second-Hand
+Woodbine Lawn,", Inniscarra View, ",15 ,2020-07-29,"€287,500",Second-Hand
+Millers Court,", Old Quarter, ",71 ,2020-07-29,"€420,000",Second-Hand
+Glincool Grove,", ",11 ,2020-07-28,"€273,000",Second-Hand
+Hazel Grove,", ",3 ,2020-07-27,"€170,000",Second-Hand
+Greystones,", ",21 ,2020-12-09,"€262,000",Second-Hand
+Station Road,,", ",2020-12-09,"€310,000",Second-Hand
+Daffodil Fields,", ",45 ,2020-12-09,"€373,000",Second-Hand
+Distillery Court,", The Maltings, ",35 ,2020-12-07,"€205,000",Second-Hand
+Coopers Grange,", Old Quarter, ",10 ,2018-03-26,"€280,000",Second-Hand
+Millers Court,", Old Quarter, ",71 ,2018-03-22,"€384,820",New Build
+Leslies Arch Old Quarter,", ",18 ,2018-03-18,"€190,000",Second-Hand
+Aylsbury Avenue,", ",14 ,2018-03-16,"€345,000",Second-Hand
+Willow Grove,", Coolroe Heights, ",47 ,2021-05-14,"€318,000",Second-Hand
+The Willows,", ",199 ,2021-05-07,"€261,500",Second-Hand
+An Caislean Heights,", ",157 ,2021-04-29,"€200,000",Second-Hand
+Highfield Park,", ",7 ,2021-04-27,"€317,000",Second-Hand
+Innishmore Grove,", ",35 ,2021-04-22,"€188,000",Second-Hand
+Wyndham Downs,", ",43 ,2021-04-22,"€300,000",Second-Hand
+Millers Court,", Old Quarter, ",62 ,2018-08-10,"€360,000",New Build
+The Close,", Coolroe Meadows, ",34 ,2018-08-03,"€360,000",Second-Hand
+The Cloisters,", ",26 ,2018-08-03,"€335,000",Second-Hand
+Doire Loin,,", Greenfield, ",2018-07-27,"€550,000",Second-Hand
+Millers Court,", Old Quarter, ",63 ,2018-07-27,"€350,000",New Build
+Leslies Arch,", Old Quarter, ",81 ,2018-07-27,"€395,000",Second-Hand
+Millers Court,", Old Quarter, ",64 ,2018-07-24,"€399,999",New Build
+Woodview,", Fionn Laoi, ",30 ,2018-07-24,"€350,000",New Build
+Kiermena,,", West Village, ",2019-10-25,"€540,000",Second-Hand
+The Cloisters,", ",92 ,2019-10-24,"€270,000",Second-Hand
+North East Quadrants,", ",168 ,2019-10-24,"€194,000",Second-Hand
+Church View,", ",65 ,2019-03-12,"€227,500",Second-Hand
+Avoncourt,", ",13 ,2019-03-11,"€330,000",Second-Hand
+Coopers Grange,", Old Quarter, ",32b ,2019-03-11,"€255,000",New Build
+Holly Road,", Muskerry Estate, ",19 ,2019-03-11,"€290,000",Second-Hand
+Main Street,,", ",2018-12-03,"€120,000",Second-Hand
+Bellview,,", Westcourt Estate, ",2018-11-30,"€403,000",Second-Hand
+Caislean Close,", ",8 ,2018-11-30,"€262,000",Second-Hand
+Coolroe Court,", Lower Coolroe, ",1 ,2018-11-28,"€507,000",New Build
+The Cloisters,", ",60 ,2018-11-27,"€265,000",Second-Hand
+Maglin Green,", ",1 ,2020-02-04,"€475,000",New Build
+An Caislean,", ",191 ,2020-02-03,"€255,000",Second-Hand
+Coopers Grange,", Old Quarter, ",14 ,2020-01-30,"€415,000",Second-Hand
+The Crescent,", Highfield Park, ",23 ,2020-01-30,"€323,000",Second-Hand
+Leslies Arch,", Old Quarter, ",30 ,2020-01-30,"€372,500",Second-Hand
+Leslies Arch,", Old Quarter, ",145 ,2019-07-04,"€295,000",Second-Hand
+An Caislain Grove,", ",90 ,2019-07-03,"€242,000",Second-Hand
+An Caislean,", ",77 ,2019-06-28,"€255,000",Second-Hand
+An Caislean Way,", ",113 ,2019-06-27,"€250,000",Second-Hand
+Coopers Grange,", Old Quarter, ",21 ,2019-06-27,"€359,999",New Build
+The Lawn,", Coolroe Meadows, ",31 ,2019-06-25,"€270,000",Second-Hand
+The Sycamores,", Classes Lake, ",35 ,2020-07-24,"€291,000",Second-Hand
+Greenfield House,,", Greenfield, ",2020-07-24,"€295,000",Second-Hand
+Carriganarra,,", ",2020-07-15,"€550,000",Second-Hand
+Barley Grove,", The Maltings, Station Road, ",27 ,2020-06-24,"€257,000",Second-Hand
+Maglin Green,", ",6 ,2020-06-19,"€385,000",New Build
+Leslies Arch,", Old Quarter, ",100 ,2020-06-15,"€55,000",Second-Hand
+The Avenue,", Heathfield Carriganarra, ",32 ,2020-12-04,"€380,000",New Build
+The Cresent Old Fort Road,", ",16 ,2020-12-03,"€260,000",Second-Hand
+Glincool Villas,", Maglin, ",2 ,2020-12-02,"€285,000",Second-Hand
+Coopers Grange,", Old Quarter, ",1 ,2020-12-01,"€499,999",New Build
+Leslies Arch,", The Old Quarter, ",107 ,2020-12-01,"€326,000",Second-Hand
+Chestnut Cresent,", Classes Lake, ",9 ,2018-03-15,"€500,000",Second-Hand
+Rosewood,", ",8 ,2018-03-09,"€235,000",Second-Hand
+Park Road,", Muskerry Estate, ",11 ,2018-03-07,"€275,000",Second-Hand
+Millers Court,", Old Quarter, ",106 ,2018-02-28,"€485,000",New Build
+Old Quarry,", Coolroe, ",15 ,2018-02-28,"€215,000",Second-Hand
+Fernwalk,", Greenfields, ",46 ,2021-04-21,"€865,000",Second-Hand
+Maglin Green,", ",7 ,2021-04-19,"€420,000",New Build
+Castle Avenue,", Muskerry Estate, ",41 ,2021-04-09,"€300,000",Second-Hand
+The Crescent,", ",23 ,2021-04-08,"€270,000",Second-Hand
+Greystones,", ",29 ,2021-04-01,"€265,000",Second-Hand
+Old Quarry,", Coolroe, ",17 ,2021-04-01,"€248,000",Second-Hand
+Sweetbriar Lane,", Inniscarra View Estate, ",9 ,2021-03-31,"€317,000",Second-Hand
+Rowan House,,", Poulavone, ",2021-03-30,"€465,000",Second-Hand
+Cois Na Cora,", ",9 ,2021-03-29,"€274,000",Second-Hand
+East Gate,,", ",2018-07-20,"€200,000",Second-Hand
+The Stables,", Coolroe, ",14 ,2018-07-20,"€330,000",Second-Hand
+Castle Avenue,", Muskerry Estate, ",26 ,2018-07-20,"€290,000",Second-Hand
+East Gate,,", ",2018-07-19,"€10,000",Second-Hand
+Millers Court,", Old Quarter, ",65 ,2018-07-16,"€399,999",New Build
+Woodview,", Fionn Laoi, ",35 ,2018-07-13,"€350,000",New Build
+Castle Avenue,", Muskerry Estate, ",59 ,2019-10-23,"€270,000",Second-Hand
+The Mews,", Heathfield Carriganarra, ",23 ,2019-10-22,"€369,999",New Build
+Leslies Arch Old Quarter,", ",4 ,2019-10-21,"€395,000",Second-Hand
+Greystones,", ",17 ,2019-10-17,"€265,000",Second-Hand
+Shalimar Court,", Pulavone, ",Apartment 4 ,2019-10-17,"€257,500",Second-Hand
+Coopers Grange,", Old Quarter, ",32a ,2019-03-08,"€255,000",New Build
+Tara,", An Caislean, ",19 ,2019-03-08,"€230,000",Second-Hand
+Coopers Grange,", Old Quarter, ",31 ,2019-03-06,"€336,683",New Build
+Prospect Lawn Coolroe,", ",22 ,2019-03-01,"€605,000",Second-Hand
+Parknamore Rise,", ",27 ,2019-02-28,"€97,393",Second-Hand
+Leesdale Court,", ",10 ,2019-02-25,"€256,000",Second-Hand
+The Green,", Coolroe Meadows, ",42 ,2019-02-22,"€365,000",Second-Hand
+An Caislean View,", ",156 ,2019-02-21,"€270,000",Second-Hand
+Oak Drive,", Classis Lake, ",13 ,2018-11-26,"€280,000",Second-Hand
+Father Sexton Place,", ",10 ,2018-11-20,"€130,000",Second-Hand
+Woodview,", Fionn Laoi, ",18 ,2018-11-19,"€400,000",New Build
+Woodview Fionn Laoi,", ",4 ,2018-11-16,"€340,000",New Build
+Millers Court,", Old Quarter, ",47 ,2018-11-08,"€376,000",Second-Hand
+The Close,", Coolroe Meadows, ",40 ,2020-01-21,"€305,000",Second-Hand
+Rosewood Estate,", ",118 ,2020-01-20,"€292,500",Second-Hand
+Churchview,", ",7 ,2020-01-17,"€240,000",Second-Hand
+Leslies Arch,", Old Quarter, ",91 ,2020-01-15,"€330,500",Second-Hand
+Leslies Arch,", Old Quarter, ",73 ,2020-01-14,"€390,000",Second-Hand
+Westcourt Heights,", ",92 ,2020-01-08,"€300,000",Second-Hand
+Manor Hill,", ",35 ,2019-06-25,"€255,000",Second-Hand
+Castle Avenue,", Muskerry Estate, ",12 ,2020-06-12,"€255,000",Second-Hand
+Coopers Grange,", ",4 ,2020-06-05,"€539,125",New Build
+The Crescent,", Heathfield, ",35 ,2020-06-04,"€375,000",New Build
+Maglin Green,", ",4 ,2020-06-02,"€377,983",New Build
+Distillery Court,", The Maltings, ",19 ,2020-05-29,"€211,000",Second-Hand
+Coopers Grange,", Old Quarter, ",5 ,2020-05-29,"€476,161",New Build
+Cluain Ard,", Blarney, ",52 ,2020-05-28,"€345,000",New Build
+An Caislean Drive,", An Caislean, ",31 ,2020-05-21,"€240,000",Second-Hand
+Tuain Glas,", Greenfields, ",46 ,2020-11-27,"€225,000",Second-Hand
+An Caislean,", ",60 ,2020-11-26,"€255,600",Second-Hand
+The Willows,", Carriglee, ",182 ,2020-11-19,"€268,000",Second-Hand
+Millers Court,", Old Quarter, ",82 ,2020-11-17,"€375,000",Second-Hand
+Cranford Pines,", ",27 ,2020-11-13,"€290,000",Second-Hand
+Greystones,", ",48 ,2020-11-12,"€285,000",Second-Hand
+The Avenue,", Heathfield, ",31 ,2020-11-09,"€379,999",New Build
+Maglin Drive,", Maglin Road, ",6 ,2020-11-06,"€400,000",Second-Hand
+Tudor Grove,", Station Road, ",1a ,2021-03-26,"€357,500",Second-Hand
+Maglin Green,", Green Road, ",13 ,2021-03-23,"€394,999",New Build
+Castle Avenue,", Mukerry Estate, ",56 ,2021-03-23,"€300,000",Second-Hand
+The Willows,", ",188 ,2021-03-23,"€268,000",Second-Hand
+Caislean Close,", ",24 ,2021-03-23,"€252,500",Second-Hand
+Maglin Green,", ",8 ,2021-03-19,"€339,999",New Build
+An Caislean Way,", ",108 ,2021-03-19,"€302,000",Second-Hand
+Granary Court,", The Maltings, ",20 ,2021-03-19,"€210,000",Second-Hand
+Glendower Court,", ",61 ,2021-03-16,"€300,000",Second-Hand
+The Lawn,", Coolroe Meadows, ",65 ,2021-03-16,"€325,000",Second-Hand
+Coopers Grange,", Old Quarter, ",35 ,2019-10-16,"€392,710",New Build
+The Lawn,", Coolroe Meadows, ",33 ,2019-10-10,"€267,500",Second-Hand
+The Cloisters,", ",2 ,2019-10-04,"€270,000",Second-Hand
+Wyndham Downs,", ",30 ,2019-10-02,"€325,000",Second-Hand
+The Cresent,", Heathfield, ",7 ,2019-10-02,"€370,000",New Build
+Coopers Grange Old Quarter,", ",74 ,2019-09-30,"€315,000",Second-Hand
+The Sycamores,", Clases Lake, ",10 ,2020-01-06,"€260,000",Second-Hand
+The Vale,", Coolroe Meadows, ",7 ,2019-12-20,"€488,000",Second-Hand
+Time Square,", ",Apartment 12b ,2019-12-19,"€140,000",Second-Hand
+The Avenue,", Heathfield, ",3 ,2019-12-19,"€380,000",New Build
+The Green,", Coolroe Meadows, ",51 ,2019-12-18,"€331,000",Second-Hand
+The Cresent,", Old Fort Road, ",11 ,2019-12-17,"€260,000",Second-Hand
+Shalimar Court,", Poulavone, ",11 ,2020-05-18,"€269,000",Second-Hand
+Leslies Arch,", Old Quarter, ",64 ,2020-05-13,"€233,000",Second-Hand
+Maglin Green,", ",5 ,2020-05-08,"€385,000",New Build
+Berryfield,", Classis Lake, ",8 ,2020-05-08,"€350,000",Second-Hand
+Beech Park,", ",70 ,2020-05-07,"€232,000",Second-Hand
+Coolroe Heights,", ",12 ,2020-04-28,"€282,000",Second-Hand
+Aylsbury Lawn,", ",1 ,2020-04-24,"€387,000",Second-Hand
+Manor Hill,", ",20 ,2020-04-24,"€320,000",Second-Hand
+Leslies Arch,", 0ld Quarter, ",34 ,2020-04-15,"€400,000",Second-Hand
+Millers Court,", Old Quarter, ",27 ,2020-04-15,"€550,000",Second-Hand
+Coopers Grange,", Old Quarter, ",8 ,2020-11-05,"€452,925",New Build
+Beech Park,", ",91 ,2020-10-23,"€245,000",Second-Hand
+Maglin Green,", ",12 ,2020-10-22,"€395,000",New Build
+Leslies Arch,", The Old Quarter, ",41 ,2020-10-22,"€252,500",Second-Hand
+Coolroe Heights,", ",27 ,2020-10-21,"€350,000",Second-Hand
+Coopers Grange,", Old Quarter, ",29 ,2020-10-21,"€400,000",New Build
+The Crescent,", Highfield Park, ",24 ,2020-10-15,"€385,000",Second-Hand
+The Oaks,", Classis Lake, ",23 ,2021-03-16,"€400,000",Second-Hand
+Coolroe Heights,", ",32 ,2021-03-08,"€282,000",Second-Hand
+North East,", The Quadrants, ",125 ,2021-03-02,"€182,500",Second-Hand
+Rosewood,", ",9 ,2021-03-01,"€320,000",Second-Hand
+Rosewood,", ",10 ,2021-02-26,"€277,000",Second-Hand
+Shalimar Court,", ","Apartment 10, ",2020-04-14,"€220,000",Second-Hand
+Westcourt,", ",67 ,2020-04-09,"€377,000",Second-Hand
