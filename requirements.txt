@@ -35,7 +35,7 @@ service-identity==17.0.0
 simplegeneric==0.8.1
 six==1.11.0
 traitlets==4.3.2
-Twisted==18.7.0
+Twisted==22.2.0
 w3lib==1.19.0
 wcwidth==0.1.7
 zope.interface==4.5.0
